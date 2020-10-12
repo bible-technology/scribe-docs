@@ -1,7 +1,7 @@
 export default {
-  "title": "My Site",
-  "tagline": "The tagline of my site",
-  "url": "https://your-docusaurus-test-site.com",
+  "title": "Autographa-docs",
+  "tagline": "Documentation website for Autographa",
+  "url": "https://autographa-docs.netlify.app/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "favicon": "img/favicon.ico",
@@ -9,7 +9,7 @@ export default {
   "projectName": "docusaurus",
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Autographa",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -27,7 +27,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/friendsofagape/autographa-docs",
           "label": "GitHub",
           "position": "right"
         }
@@ -76,7 +76,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/friendsofagape/autographa-docs"
             }
           ]
         }
@@ -102,11 +102,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/asherphilip/Documents/AG-docs/autographa-docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+          "editUrl": "https://github.com/friendsofagape/autographa-docs/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
+          "editUrl": "https://github.com/friendsofagape/autographa-docs/edit/main/"
         },
         "theme": {
           "customCss": "/home/asherphilip/Documents/AG-docs/autographa-docs/src/css/custom.css"
