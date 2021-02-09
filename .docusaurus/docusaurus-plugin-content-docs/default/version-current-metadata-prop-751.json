@@ -7,7 +7,7 @@
       {
         "collapsed": true,
         "type": "category",
-        "label": "Guides",
+        "label": "Part 1",
         "items": [
           {
             "type": "link",
@@ -15,15 +15,15 @@
             "href": "/docs/"
           },
           {
+            "type": "link",
+            "label": "Welcome",
+            "href": "/docs/2019-05-30-welcome"
+          },
+          {
             "collapsed": true,
             "type": "category",
             "label": "Docs",
             "items": [
-              {
-                "type": "link",
-                "label": "Welcome",
-                "href": "/docs/2019-05-30-welcome"
-              },
               {
                 "type": "link",
                 "label": "Document Number 2",

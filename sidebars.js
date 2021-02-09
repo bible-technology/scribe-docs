@@ -1,10 +1,10 @@
 module.exports = {
   docs: {
-    Guides: [
+    'Part 1': [
       'doc1',
+      '2019-05-30-welcome',
       {
         Docs: [
-          '2019-05-30-welcome',
           'doc2',
           'doc3',
           'mdx',

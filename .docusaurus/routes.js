@@ -43,6 +43,16 @@ export default [
   exact: true,
 },
 {
+  path: '/blog',
+  component: ComponentCreator('/blog','477'),
+  exact: true,
+},
+{
+  path: '/blog/2019/05/30/welcome',
+  component: ComponentCreator('/blog/2019/05/30/welcome','310'),
+  exact: true,
+},
+{
   path: '/docs',
   component: ComponentCreator('/docs','250'),
   

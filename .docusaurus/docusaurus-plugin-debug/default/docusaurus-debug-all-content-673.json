@@ -16,21 +16,21 @@
               {
                 "collapsed": true,
                 "type": "category",
-                "label": "Guides",
+                "label": "Part 1",
                 "items": [
                   {
                     "type": "doc",
                     "id": "doc1"
                   },
                   {
+                    "type": "doc",
+                    "id": "2019-05-30-welcome"
+                  },
+                  {
                     "collapsed": true,
                     "type": "category",
                     "label": "Docs",
                     "items": [
-                      {
-                        "type": "doc",
-                        "id": "2019-05-30-welcome"
-                      },
                       {
                         "type": "doc",
                         "id": "doc2"
@@ -161,7 +161,43 @@
     }
   },
   "docusaurus-plugin-content-blog": {
-    "default": null
+    "default": {
+      "blogPosts": [
+        {
+          "id": "Welcome",
+          "metadata": {
+            "permalink": "/blog/2019/05/30/welcome",
+            "editUrl": "https://github.com/friendsofagape/autographa-docs/edit/main/blog/2019-05-30-welcome.md",
+            "source": "@site/blog\\2019-05-30-welcome.md",
+            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+            "date": "2019-05-30T00:00:00.000Z",
+            "tags": [],
+            "title": "Welcome",
+            "readingTime": 0.175,
+            "truncated": false
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog"
+          },
+          "items": [
+            "Welcome"
+          ]
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
