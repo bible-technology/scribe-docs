@@ -11,6 +11,10 @@
           "mainDocId": "doc1",
           "docs": [
             {
+              "id": "2019-05-30-welcome",
+              "path": "/docs/2019-05-30-welcome"
+            },
+            {
               "id": "doc1",
               "path": "/docs/"
             },

@@ -5,8 +5,8 @@ export default {
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "friendsofagape",
+  "projectName": "autographa-docs",
   "themeConfig": {
     "navbar": {
       "title": "Autographa",
@@ -16,7 +16,7 @@ export default {
       },
       "items": [
         {
-          "to": "docs/",
+          "to": "docs",
           "activeBasePath": "docs",
           "label": "Docs",
           "position": "left"
@@ -81,7 +81,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2020 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
     },
     "colorMode": {
       "defaultMode": "light",
@@ -101,7 +101,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/asherphilip/Documents/AG-docs/autographa-docs/sidebars.js",
+          "sidebarPath": "C:\\Users\\asher\\Documents\\GitHub\\autographa-docs\\sidebars.js",
           "editUrl": "https://github.com/friendsofagape/autographa-docs/edit/main/"
         },
         "blog": {
@@ -109,7 +109,7 @@ export default {
           "editUrl": "https://github.com/friendsofagape/autographa-docs/edit/main/"
         },
         "theme": {
-          "customCss": "/home/asherphilip/Documents/AG-docs/autographa-docs/src/css/custom.css"
+          "customCss": "C:\\Users\\asher\\Documents\\GitHub\\autographa-docs\\src\\css\\custom.css"
         }
       }
     ]
