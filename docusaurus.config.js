@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://autographa-docs.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
   organizationName: 'friendsofagape', // Usually your GitHub org/user name.
   projectName: 'autographa-docs', // Usually your repo name.
   themeConfig: {
@@ -12,7 +12,8 @@ module.exports = {
       title: 'Autographa',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/autographa_logo.svg',
+        srcDark: 'img/ag_logo.png',
       },
       items: [
         {

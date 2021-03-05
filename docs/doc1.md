@@ -5,9 +5,9 @@ sidebar_label: Style Guide
 slug: /
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+You can **write** content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
-## Markdown Syntax
+# Markdown Syntax
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
@@ -27,7 +27,7 @@ To serve as an example page when styling markdown based Docusaurus sites.
 
 ---
 
-## Emphasis
+
 
 Emphasis, aka italics, with _asterisks_ or _underscores_.
 
@@ -86,7 +86,7 @@ Inline-style: ![alt text](../static/img/autographa_logo.png 'This is our autogra
 
 Reference-style: ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 Images from any folder can be used by providing path to file. Path should be relative to markdown file.
 
