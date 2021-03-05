@@ -1,0 +1,23 @@
+---
+id: p0-5-doc-conventn.md
+sidebar_label: Document Conventions
+---
+# Document Conventions
+
+The following table 0.5.1 lists down and explains the document conventions followed in this document.
+
+| Icon/Text               | Meaning                          | Description      
+| ----------------------  | ---------------------------------| ------------
+| :::note                 | Additional notes and information | This indicates any specific information related to a feature. <br> Example: :::note To cancel the deletion of the audio, click **cancel**. :::
+| :::caution              | Caution                          | This indicates any situation that might cause an error in the software function. <br> Example: :::caution The verse that was joined with the previous verse will not automatically separate by using the unjoin this verse button. The unjoined verse will remain empty even if you export the file unless you cut and paste that verse from the previous verse in the application. :::
+| **Pane**                | Pane                             | This indicates a space to work on the Autographa screen. <br> Example: the **Translation pane**.
+| **Menu**                | Menu                             | This indicates a list of options to select from the Autographa screen. <br> Example: **Export** menu
+| **Option**              | Option                           | The selectable items inside a menu. <br> Example: **USFM** option inside the **Export** menu.
+| **Button**              | Button                           | This indicates a function that you click on the Autographa application or the website. <br> Example: **Save** button.
+| **Field**               | Typable field                    | A space to type under a title. <br> Example: **Bible Name** field.
+| **Pop up**              | A pop up window                  | This indicates a window that appears on the Autographa screen. <br> Example: **Successfully deleted** pop up.
+| Inconsolata font        | Written text on the screen       | This indicates any written text or information on the Autographa screen which is shown as a message. <br> Example: (font)Successfully saved changes. Restart the application for the changes to take effect (font).
+| **Bold Text**           | Names of items                   | This indicates names of any items you click, select or type on the autographa screen. <br> Example: **Export** menu, **Save** button, **Bible Name** field.
+| **_Bold Italic Text_**  | Product name                     | This indicates the name of the product. <br> Example: **_Autographa Live_**
+| _Italic Text_           | Names of images and tables       | This indicates names of images and tables in the document. <br> Example: _Figure x - Main workspace user inference of Autographa Live_
+_Table 0.5.1  - Document conventions_
