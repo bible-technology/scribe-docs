@@ -27,8 +27,6 @@ To serve as an example page when styling markdown based Docusaurus sites.
 
 ---
 
-
-
 Emphasis, aka italics, with _asterisks_ or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
@@ -82,15 +80,15 @@ Some text to show that the reference links can follow later.
 
 Here's our logo (hover to see the title text):
 
-Inline-style: ![alt text](../static/img/autographa_logo.png 'This is our autographa logo')
+Inline-style: ![alt text](../static/autographaimages/autographa_lite_large.png 'This is our autographa logo')
 
 Reference-style: ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
 
 Images from any folder can be used by providing path to file. Path should be relative to markdown file.
 
-![img](../static/img/autographa_lite_large.png)
+![img](../static/autographaimages/autographa_lite_large.png)
 
 ---
 
