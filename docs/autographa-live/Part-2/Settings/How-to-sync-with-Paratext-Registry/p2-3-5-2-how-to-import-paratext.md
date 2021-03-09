@@ -6,7 +6,7 @@ sidebar_label: How to Import from Paratext?
 ### How to Import from Paratext?
 
 To import translation texts from Paratext, follow the steps below.
-(refer [How to sync with Paratext Registry?](How-to-sync-with-Paratext-Registry/p2-3-5-1-how-to-sync.md))
+(refer [How to sync with Paratext Registry?](p2-3-5-1-how-to-sync.md))
 
 Select the required project from the **Available Projects**
 
