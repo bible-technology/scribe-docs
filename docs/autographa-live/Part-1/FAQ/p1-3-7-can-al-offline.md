@@ -1,6 +1,7 @@
 ---
-id: Can I use Autographa Live offline.md 
+id: p1-3-7-can-al-offline.md 
 sidebar_label: Can I use Autographa Live offline?
+title: Can I use Autographa Live offline?
 ---
-# Can I use Autographa Live offline?
+
 All **_Autographa Live_** features other than Translation helps and Sync works offline. 

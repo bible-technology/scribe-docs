@@ -1,9 +1,10 @@
 ---
 id: p1-2-3-2-transltn-det.md
 sidebar_label: Translation Details
+title: Translation Details
 ---
 
-### Translation Details
+
 
 **Translation Details** settings helps you to define the basic information about your translation text and to choose a file location to save your translation text on your device.
 

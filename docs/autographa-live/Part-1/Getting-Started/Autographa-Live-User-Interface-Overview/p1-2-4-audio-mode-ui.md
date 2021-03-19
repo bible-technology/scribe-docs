@@ -1,9 +1,9 @@
 ---
 id: p1-2-4-audio-mode-ui.md
 sidebar_label: Audio Mode User Interface
+title: Audio Mode User Interface
 ---
 
-### Audio Mode User Interface
 
 **Audio Mode** in **_Autographa Live_** software helps you to record audio of your translation text.
 

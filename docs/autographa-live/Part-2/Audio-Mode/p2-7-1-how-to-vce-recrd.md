@@ -1,8 +1,9 @@
 ---
 id: p2-7-1-how-to-vce-recrd.md
 sidebar_label: How to voice record?
+title: How to voice record?
 ---
-## How to voice record?
+
 
 To record the audio for the translation text, follow the steps below.
 (refer [AudioModeUserInterface](../../Part-1/Getting-Started/Autographa-Live-User-Interface-Overview/p1-2-4-audio-mode-ui.md))

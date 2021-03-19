@@ -1,9 +1,8 @@
 ---
 id: p2-7-5-how-to-export-audio.md
 sidebar_label: How to export the audio file?
+title: How to export the audio file?
 ---
-
-## How to export the audio file?
 
 To export the recorded audio of the translation text, follow the steps below.
 

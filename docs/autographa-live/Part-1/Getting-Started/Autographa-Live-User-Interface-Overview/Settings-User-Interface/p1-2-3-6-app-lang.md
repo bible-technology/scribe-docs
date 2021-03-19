@@ -1,9 +1,10 @@
 ---
 id: p1-2-3-6-app-lang.md
 sidebar_label: App Language
+title: App Language
 ---
 
-### App Language
+
 
 **App Language** settings help you to set a suitable language for the application. The various language options are **Arabic, English, Hindi, Portuguese** and **Spanish**.
 

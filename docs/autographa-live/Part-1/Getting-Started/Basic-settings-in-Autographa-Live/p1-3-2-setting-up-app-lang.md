@@ -1,9 +1,9 @@
 ---
 id: p1-3-2-setting-up-app-lang.md
 sidebar_label: Setting up the App Language
+title: Setting up the App Language
 ---
 
-### Setting up the App Language
 
 To set up the language for the application, follow the steps below.
 

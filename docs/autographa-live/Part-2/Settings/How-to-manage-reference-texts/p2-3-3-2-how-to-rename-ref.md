@@ -1,6 +1,7 @@
 ---
 id: p2-3-3-2-how-to-rename-ref.md
 sidebar_label: How to rename the reference text?
+title: How to rename the reference text?
 ---
 
 ### How to rename the reference text?

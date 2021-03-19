@@ -1,9 +1,10 @@
 ---
 id: p1-3-1-view-det-of-installed-al.md
 sidebar_label: Viewing the details of the installed Autographa Live version
+title: Viewing the details of the installed Autographa Live version
 ---
 
-### Viewing the details of the installed Autographa Live version
+
 
 To view the details of the installed **_Autograha Live_** version, follow the steps below.
 

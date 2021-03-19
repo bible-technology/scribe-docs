@@ -1,9 +1,10 @@
 ---
 id: p2-7-3-how-to-delete-audio-vrse.md
 sidebar_label: How to delete the audio of a verse?
+title: How to delete the audio of a verse?
 ---
 
-## How to delete the audio of a verse?
+
 
 To delete the recorded audio of a verse in the translation text, follow the steps below.
 

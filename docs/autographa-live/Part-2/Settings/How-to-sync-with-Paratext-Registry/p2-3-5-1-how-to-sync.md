@@ -1,6 +1,7 @@
 ---
 id: p2-3-5-1-how-to-sync.md
-sidebar_label: How to sync with Paratext Registry?
+sidebar_label: How to sync with Paratext?
+title: How to sync with Paratext?
 ---
 
 ## How to sync with Paratext Registry?

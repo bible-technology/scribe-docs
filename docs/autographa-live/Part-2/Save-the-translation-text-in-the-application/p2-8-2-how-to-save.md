@@ -1,11 +1,13 @@
 ---
 
 id: p2-8-2-how-to-save.md
-sidebar_label: How to save?
+sidebar_label: How to save the translation text?
+title: How to save the translation text?
 
 ---
 
-## How to save?
+
+Your translation text gets automatically saved after every 3 seconds of inaction.
 
 To explicitly save your translation text, follow the steps below.
 

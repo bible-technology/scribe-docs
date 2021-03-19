@@ -1,9 +1,9 @@
 ---
 id: p2-4-3-how-to-join-verses.md
 sidebar_label: How to join verses?
+title: How to join verses?
 ---
 
-## How to join verses?
 
 To join multiple verses together, follow the steps below.
 

@@ -1,9 +1,9 @@
 ---
 id: p2-4-4-how-to-unjoin-verses.md
 sidebar_label: How to unjoin verses?
+title: How to unjoin verses?
 ---
 
-## How to unjoin verses?
 
 To unjoin verses that were joined together, follow the steps below.
 

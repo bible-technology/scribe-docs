@@ -1,9 +1,10 @@
 ---
 id: p1-3-3-2-select-lang-code.md
 sidebar_label: Selecting the Language Code
+title: Selecting the Language Code
 ---
 
-### Selecting the Language Code
+
 
 Go to **Settings** > **Translation Details**
 

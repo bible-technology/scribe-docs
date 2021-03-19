@@ -1,9 +1,9 @@
 ---
 id: p1-3-3-6-select-auto-backup.md
 sidebar_label: Selecting the Auto Backup preferences
+title: Selecting the Auto Backup preferences
 ---
 
-### Selecting the Auto Backup preferences
 
 Go to **Settings** > **Translation Details**
 

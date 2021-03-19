@@ -1,9 +1,9 @@
 ---
 id: p2-4-5-how-to-column-lay.md
 sidebar_label: How to use column layout selector?
+title: How to use column layout selector?
 ---
 
-## How to use column layout selector?
 
 To use different column layouts, follow the steps below.
 

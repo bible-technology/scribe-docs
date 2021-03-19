@@ -1,9 +1,8 @@
 ---
 id: p2-3-5-2-how-to-import-paratext.md
 sidebar_label: How to Import from Paratext?
+title: How to Import from Paratext?
 ---
-
-### How to Import from Paratext?
 
 To import translation texts from Paratext, follow the steps below.
 (refer [How to sync with Paratext Registry?](p2-3-5-1-how-to-sync.md))

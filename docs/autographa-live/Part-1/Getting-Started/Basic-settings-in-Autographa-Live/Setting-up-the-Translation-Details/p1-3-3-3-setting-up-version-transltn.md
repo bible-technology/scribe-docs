@@ -1,9 +1,8 @@
 ---
 id: p1-3-3-3-setting-up-version-transltn.md
 sidebar_label: Setting up the Version of the translation text
+title: Setting up the Version of the translation text
 ---
-
-### Setting up the Version of the translation text
 
 Go to **Settings** > **Translation Details**
 

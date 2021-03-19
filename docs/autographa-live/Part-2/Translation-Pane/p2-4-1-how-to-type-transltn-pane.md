@@ -2,10 +2,11 @@
 
 id: p2-4-1-how-to-type-transltn-pane.md
 sidebar_label: How to type on the translation pane?
+title: How to type on the translation pane?
 
 ---
 
-## How to type on the translation pane?
+
 
 To type your translation text, follow the steps below.
 

@@ -1,9 +1,10 @@
 ---
 id: p2-6-2-how-to-find-replce-wrd-crnt-chap.md
 sidebar_label: How to find and replace a word in the current chapter?
+title: How to find and replace a word in the current chapter?
 ---
 
-## How to find and replace a word in the current chapter?
+
 
 To replace a word in the current chapter of the translation text with another required word, follow the steps below.
 

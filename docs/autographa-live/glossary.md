@@ -1,8 +1,9 @@
 ---
 id: glossary.md
 sidebar_label: Glossary
+title: Glossary
 --------
-# Glossary
+
 
 Translation pane - The space on the right side of the **Autographa Live** screen given for translation.
 

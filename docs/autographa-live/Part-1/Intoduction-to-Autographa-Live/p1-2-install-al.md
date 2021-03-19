@@ -1,9 +1,10 @@
 ---
 id: p1-2-install-al.md
 sidebar_label: Installing Autographa Live
+title: Installing Autographa Live
 ---
 
-## Installing Autographa Live
+
 
 **_Autographa Live_** is an open source software and available for free for you to download from www.autographa.org. You use the following steps to download and install **_Autographa Live_**:
 

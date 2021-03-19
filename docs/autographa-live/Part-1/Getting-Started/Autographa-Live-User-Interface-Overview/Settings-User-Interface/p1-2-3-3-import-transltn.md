@@ -1,9 +1,10 @@
 ---
 id: p1-2-3-3-import-transltn.md
 sidebar_label: Import Translation
+title: Import Translation
 ---
 
-### Import Translation
+
 
 **Import Translation** settings help you to import texts for translation.
 

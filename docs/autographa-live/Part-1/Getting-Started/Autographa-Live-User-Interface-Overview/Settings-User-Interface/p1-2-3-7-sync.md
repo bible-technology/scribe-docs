@@ -1,9 +1,9 @@
 ---
 id: p1-2-3-7-sync.md
 sidebar_label: Sync
+title: Sync
 ---
 
-### Sync
 
 **Sync** settings help you to sync your workspace with Paratext software. It allows you to import and upload the translation texts from the cloud.
 

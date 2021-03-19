@@ -1,9 +1,10 @@
 ---
 id: p2-7-2-how-to-ply-stp-audio.md
 sidebar_label: How to play/stop the audio?
+title: How to play/stop the audio?
 ---
 
-## How to play/stop the audio?
+
 
 To play/stop the recorded audio of the verses in the translation text, follow the steps below.
 

@@ -1,9 +1,10 @@
 ---
 id: p2-3-4-how-to-import-transltn.md
 sidebar_label: How to import translation texts?
+title: How to import translation texts?
 ---
 
-## How to import translation texts?
+
 
 To import translation texts, follow the steps below.
 

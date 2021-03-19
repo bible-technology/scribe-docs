@@ -1,9 +1,9 @@
 ---
 id: p2-6-3-how-to-find-replce-wrd-crnt-book.md
 sidebar_label: How to find and replace a word in the current book?
+title: How to find and replace a word in the current book?
 ---
 
-## How to find and replace a word in the current book?
 
 To replace a word in the current book of the translation text with another required word, follow the steps below.
 

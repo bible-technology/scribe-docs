@@ -1,9 +1,9 @@
 ---
 id: p2-3-1-how-to-choose-ref.md
 sidebar_label: How to choose the reference text?
+title: How to choose the reference text?
 ---
 
-## How to choose the reference text?
 
 To choose the required reference text, follow the steps below.
 

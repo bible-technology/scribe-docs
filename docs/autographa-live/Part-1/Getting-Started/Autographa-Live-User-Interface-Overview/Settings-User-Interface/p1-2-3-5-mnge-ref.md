@@ -1,9 +1,9 @@
 ---
 id: p1-2-3-5-mnge-ref.md
 sidebar_label: Manage Reference Texts
+title: Manage Reference Texts
 ---
 
-### Manage Reference Texts
 
 **Manage Reference Texts** settings help you to manage the reference texts that you import.
 Example : Renaming the reference text and removing the reference text

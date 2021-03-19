@@ -1,9 +1,10 @@
 ---
 id: p2-2-2-how-to-edit-book-name.md
 sidebar_label: How to edit the name of a Book?
+title: How to edit the name of a Book?
 ---
 
-## How to edit the name of a Book?
+
 
 To edit the name of a book in the Book and Chapter menu, follow the steps below.
 

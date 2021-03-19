@@ -1,9 +1,10 @@
 ---
 id: p2-4-7-how-to-chnge-font.md
 sidebar_label: How to change the font?
+title: How to change the font?
 ---
 
-## How to change the font?
+
 
 To change the font of the translation text, follow the steps below.
 

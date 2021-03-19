@@ -1,9 +1,9 @@
 ---
 id: p2-4-6-how-to-select-lang-ver-help.md
 sidebar_label: How to select the language and version for help layout?
+title: How to select the language and version for help layout?
 ---
 
-## How to select the language and version for help layout?
 
 In **Autographa Live 0.2.0 beta 2 version** and above, follow the steps to choose the required language and version for the help layout.
 

@@ -1,9 +1,10 @@
 ---
 id: p2-3-3-3-how-to-remove-ref.md
 sidebar_label: How to remove the reference text?
+title: How to remove the reference text?
 ---
 
-### How to remove the reference text?
+
 
 -   Go to **Settings**>**Manage Reference Texts**
 

@@ -1,9 +1,8 @@
 ---
 id: p1-3-3-4-select-export-folder-location-transltn.md
 sidebar_label: Selecting the export folder location for the translation text
+title: Selecting the export folder location for the translation text
 ---
-
-### Selecting the export folder location for the translation text
 
 Go to **Settings** > **Translation Details**
 

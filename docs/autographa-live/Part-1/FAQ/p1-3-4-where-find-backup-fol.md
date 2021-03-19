@@ -1,9 +1,9 @@
 ---
-id: Where do I find my backup folder.md
+id: p1-3-4-where-find-backup-fol.md
 sidebar_label: Where do I find my backup folder?
+title: Where do I find my backup folder?
 ---
 
-# Where do I find my backup folder?
 
 The auto back-up folder is in the same location that you give as the export file location in **_Translation Details_** settings.
 

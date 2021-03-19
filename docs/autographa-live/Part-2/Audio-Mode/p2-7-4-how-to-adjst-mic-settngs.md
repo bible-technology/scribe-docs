@@ -1,8 +1,9 @@
 ---
 id: p2-7-4-how-to-adjst-mic-settngs.md
 sidebar_label: How to adjust your mic settings?
+title: How to adjust your mic settings?
 ------
-## How to adjust your mic settings?
+
 To adjust the mic settings for better quality of recording, follow the steps below.
 
 * Click on the **Recorder** button to switch to **audio mode**

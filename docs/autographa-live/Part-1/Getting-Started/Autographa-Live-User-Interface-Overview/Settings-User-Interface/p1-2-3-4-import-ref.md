@@ -1,9 +1,10 @@
 ---
 id: p1-2-3-4-import-ref.md
 sidebar_label: Import Reference Text
+title: Import Reference Text
 ---
 
-### Import Reference Text
+
 
 **Import Reference Text** settings help you to import reference texts for your translation.
 

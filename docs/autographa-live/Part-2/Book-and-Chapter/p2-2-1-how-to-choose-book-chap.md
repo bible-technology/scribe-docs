@@ -1,9 +1,9 @@
 ---
 id: p2-2-1-how-to-choose-book-chap.md
 sidebar_label: How to choose the Book and Chapter?
+title: How to choose the Book and Chapter?
 ---
 
-## How to choose the Book and Chapter?
 
 To choose the required book and chapter in the Bible for translation, follow the steps below.
 

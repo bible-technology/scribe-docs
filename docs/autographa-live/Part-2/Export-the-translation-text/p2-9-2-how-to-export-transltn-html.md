@@ -1,9 +1,8 @@
 ---
 id: p2-9-2-how-to-export-transltn-html.md
 sidebar_label: How to export the translation text as HTML?
+title: How to export the translation text as an HTML?
 ---
-
-## How to export the translation text as HTML?
 
 You export the translation text as an html file to display, print or render. To export the translation text as an html file, follow the steps below.
 

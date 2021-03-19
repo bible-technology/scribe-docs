@@ -1,9 +1,9 @@
 ---
 id: p2-4-2-how-to-chck-transltn-stat.md
 sidebar_label: How to check translation Statistics?
+title: How to check translation Statistics?
 ---
 
-## How to check translation Statistics?
 
 To check the statistics of the book that you translate, follow the steps below.
 

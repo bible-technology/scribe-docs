@@ -1,9 +1,8 @@
 ---
 id: p2-9-1-how-to-export-transltn-usfm.md
 sidebar_label: How to export the translation text as an USFM?
+title: How to export the translation text as an USFM?
 ---
-
-## How to export the translation text as an USFM?
 
 You export the translation text as a usfm file to use as a backup or to share it with other editors. To export the translated text as a USFM file to the desired location in your device, follow the steps below.
 

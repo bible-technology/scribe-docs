@@ -1,9 +1,9 @@
 ---
 id: p1-2-3-1-settings-ui.md
-sidebar_label: Settings User Interface
+sidebar_label: Settings User Interface Overview
+title: Settings User Interface Overview
 ---
 
-### Settings User Interface
 
 **Settings** User Interface helps you to set up the basic configuration of Autographa Live. There are six basic settings.
 Figure 1.2.1.3 displays the **Settings** user interface.

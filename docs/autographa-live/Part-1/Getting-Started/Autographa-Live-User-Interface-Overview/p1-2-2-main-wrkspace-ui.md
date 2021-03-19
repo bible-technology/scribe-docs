@@ -1,9 +1,9 @@
 ---
 id: p1-2-2-main-wrkspace-ui.md
 sidebar_label: Main Workspace User Interface
+title: Main Workspace User Interface
 ---
 
-### Main Workspace User Interface
 
 Main workspace user interface provides many tools and options for effective translation.
 Figure 1.2.1.1 displays the main workspace user interface of the **_Autographa Live_** application.

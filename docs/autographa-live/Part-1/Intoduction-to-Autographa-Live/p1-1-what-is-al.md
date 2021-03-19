@@ -1,8 +1,8 @@
 ---
 id: p1-1-what-is-al.md
 sidebar_label: What is Autographa Live
+title: What is Autographa Live? 
 ---
-# What is **_Autographa Live_**?
 
 **_Autographa Live_** is an easy-to-use translation software widely used for Bible translations. Compared to the conventional methods and tools in the translation industry, **_Autographa Live_** helps the translator to track the changes in the text from the original source text, pre-translate common words and phrases, record the audio of the text and use the reference panes while translating the text. Other than **_Autographa Live_** there is also an offline-only alternative called **_Autographa Lite_**.
 

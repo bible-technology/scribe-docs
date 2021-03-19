@@ -1,8 +1,9 @@
 ---
 id: p1-3-manage-al.md
 sidebar_label: Managing Autographa Live
+title: Managing Autographa Live
 ---
-# Managing Autographa Live
+
 
 Following are the system requirements for the proper functioning of the application on your device:
 

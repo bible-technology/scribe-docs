@@ -1,6 +1,7 @@
 ---
 id: p2-3-5-3-how-to-export-paratext.md
 sidebar_label: How to Export to Paratext?
+title: How to Export to Paratext?
 ---
 
 ### How to Export to Paratext?

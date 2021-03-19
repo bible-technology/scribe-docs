@@ -1,9 +1,10 @@
 ---
 id: p2-3-2-how-to-import-ref.md
 sidebar_label: How to import reference texts?
+title: How to import reference texts?
 ---
 
-## How to import reference texts?
+
 
 To import reference texts needed for your translation, follow the steps below.
 
