@@ -6,6 +6,7 @@ title: Settings User Interface Overview
 
 
 **Settings** User Interface helps you to set up the basic configuration of Autographa Live. There are six basic settings.
+
 Figure 1.2.1.3 displays the **Settings** user interface.
 
 ![alt text](../../../../../../static/AutographaLiveImages/Getting_Started/settings-ui-fig-1.2.1.3.jpg 'Settings user interface')
@@ -22,4 +23,4 @@ The following table 1.2.3 describes the basic settings in Autographa Live.
 | **App Language**           | It helps you to set a suitable language for the application. Various options are Arabic, English, Hindi, Portuguese and Spanish.                     |
 | **Sync**                   | It helps you to sync your workspace with Paratext software. It allows you to import and upload the translation texts from the cloud.                 |
 
-_Table 1.2.3 - Basic settings in Autographa Live (settings-ui-tab-1.2.3)_
+_Table 1.2.3 - Basic settings in Autographa Live_

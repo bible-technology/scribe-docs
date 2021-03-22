@@ -5,7 +5,7 @@ title: Manage Reference Texts
 ---
 
 
-**Manage Reference Texts** settings help you to manage the reference texts that you import.
+**Manage Reference Texts** settings helps you to manage the reference texts that you import.
 Example : Renaming the reference text and removing the reference text
 
 Figure 1.2.1.7 displays the **Manage Reference Texts** screen and its options

@@ -28,4 +28,4 @@ Figure 1.2.2.5 displays the **Translation Data successfully saved** pop up.
 ![alt text](../../../../../../static/AutographaLiveImages/Getting_Started/translation-data-successfully-saved-fig-1.2.2.5.jpg 'Translation Data successfully saved pop up')
 _Figure 1.2.2.5 - Translation Data successfully saved pop up_
 
-Click **ok**
+* Click **ok**

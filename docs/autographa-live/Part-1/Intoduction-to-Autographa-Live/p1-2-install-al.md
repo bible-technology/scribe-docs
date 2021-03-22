@@ -21,7 +21,7 @@ title: Installing Autographa Live
 | For Ubuntu OS, use <br/> autographa-live.amd64-X.X.X-beta.X-setup.deb (courier new font)            |
 
 -   Run the downloaded setup file by double clicking on the file saved in the downloaded location
--   After installing the application, you use the Autographa Live shortcut available on the Desktop to access the application
+-   After installing the application, you use the **_Autographa_** Live shortcut available on the Desktop to access the application
 
 :::note
 

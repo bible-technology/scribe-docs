@@ -32,12 +32,12 @@ The following table 1.2.1 explains different **menus**, **buttons** and **option
 
 _Table 1.2.1 - Buttons and options in main workspace user interface_
 
-The figure 1.2.1.2 given below displays the two different panes in the main workspace
+The figure 1.2.1.2 given below displays the two different panes in the main workspace.
 
 ![alt text](../../../../../static/AutographaLiveImages/Getting_Started/main-workspace-ui-fig-1.2.1.2.jpg 'Reference pane and Translation pane')
 _Figure 1.2.1.2 - Reference pane and Translation pane_
 
-Table 1.2.2 defines reference pane and translation pane
+The following table 1.2.2 defines reference pane and translation pane.
 
 | Name             | Description                                                           |
 | ---------------- | --------------------------------------------------------------------- |
@@ -45,3 +45,6 @@ Table 1.2.2 defines reference pane and translation pane
 | Translation pane | The space on the right side of the screen given for translation.      |
 
 _Table 1.2.2 - Reference pane and Translation pane_
+
+
+

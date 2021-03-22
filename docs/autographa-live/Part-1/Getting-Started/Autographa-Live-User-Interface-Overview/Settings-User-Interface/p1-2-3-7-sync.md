@@ -5,9 +5,9 @@ title: Sync
 ---
 
 
-**Sync** settings help you to sync your workspace with Paratext software. It allows you to import and upload the translation texts from the cloud.
+**Sync** settings helps you to sync your workspace with Paratext software. It allows you to import and upload the translation texts from the cloud.
 
-Figure 1.2.1.9 displays the **Sync** settings of Autographa Live
+Figure 1.2.1.9 displays the **Sync** settings of **_Autographa Live_**
 ![alt text](../../../../../../static/AutographaLiveImages/Getting_Started/sync-fig-1.2.1.9.jpg 'Sync screen')
 _Figure 1.2.1.9 - Sync screen_
 

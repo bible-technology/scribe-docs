@@ -9,12 +9,13 @@ To choose the required book and chapter in the Bible for translation, follow the
 
 -   Click on **Book and Chapter** menu
 
+-   Select the book you want to translate
+
 Figure 2.2.1.1 displays the **Book** menu
 
 ![alt text](../../../../static/AutographaLiveImages/Book_Chapter/book-menu-fig-2.2.1.1.jpg 'Book menu')
 _Figure 2.2.1.1 - Book menu_
 
--   Select the book you want to translate.
 
 Figure 2.2.1.2 displays the **Chapter** menu of the selected book.
 

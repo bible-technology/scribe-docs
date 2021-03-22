@@ -6,7 +6,7 @@ title: Import Reference Text
 
 
 
-**Import Reference Text** settings help you to import reference texts for your translation.
+**Import Reference Text** settings helps you to import reference texts for your translation.
 
 Figure 1.2.1.6 displays the **Import Reference Text** screen.
 
