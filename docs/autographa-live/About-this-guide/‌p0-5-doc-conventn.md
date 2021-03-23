@@ -4,7 +4,15 @@ sidebar_label: Document Conventions
 title: Document Conventions
 ---
 
-The following table 0.5.1 lists down and explains the document conventions followed in this document.
+The following _Table 0.5.1_ lists down and explains the document conventions followed in this document.
+
+<!-- <style>
+s1{
+        font-family:Consolas
+}
+</style> -->
+
+
 
 | Icon/Text              | Meaning                          | Description                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,9 +24,11 @@ The following table 0.5.1 lists down and explains the document conventions follo
 | **Button**             | Button                           | This indicates a function that you click on the Autographa application or the website. <br/> Example: **Save** button.                                                                                                                                                                                                                                                                   |
 | **Field**              | Typable field                    | A space to type under a title. <br/> Example: **Bible Name** field.                                                                                                                                                                                                                                                                                                                      |
 | **Pop up**             | A pop up window                  | This indicates a window that appears on the Autographa screen. <br/> Example: **Successfully deleted** pop up.                                                                                                                                                                                                                                                                           |
-| Inconsolata font       | Written text on the screen       | This indicates any written text or information on the Autographa screen which is shown as a message. <br/> Example: (font)Successfully saved changes. Restart the application for the changes to take effect (font).                                                                                                                                                                     |
+|  <s1>Consolas</s1> | Written text on the screen       | This indicates any written text or information on the Autographa screen which is shown as a message. <br/> Example: <s1>Successfully saved changes. Restart the application for the changes to take effect</s1>                                                                                                                                                                     |
 | **Bold Text**          | Names of items                   | This indicates names of any items you click, select or type on the autographa screen. <br/> Example: **Export** menu, **Save** button, **Bible Name** field.                                                                                                                                                                                                                             |
 | **_Bold Italic Text_** | Product name                     | This indicates the name of the product. <br/> Example: **_Autographa Live_**                                                                                                                                                                                                                                                                                                             |
-| _Italic Text_          | Names of images and tables       | This indicates names of images and tables in the document. <br/> Example: _Figure x - Main workspace user inference of Autographa Live_                                                                                                                                                                                                                                                  |
+| _Italic Text_          | Names of images and tables       | This indicates names of topic references, images and tables in the document. <br/> Example: _Figure 1.2.1.1 - Main workspace user inference of Autographa Live_                                                                                                                                                                                                                                                  |
 
-_Table 0.5.1 - Document conventions_
+<div align="center"style="font-style: italic;"
+>Table 0.5.1 - Document conventions</div>
+

@@ -7,11 +7,11 @@ title: Audio Mode User Interface
 
 **Audio Mode** in **_Autographa Live_** software helps you to record audio of your translation text.
 
-Figure 1.2.1.10 displays the **Audio Mode** interface of **_Autographa Live_**.
+_Figure 1.2.1.10_ displays the **Audio Mode** interface of **_Autographa Live_**.
 ![alt text](../../../../../static/AutographaLiveImages/Getting_Started/audio-mode-ui-fig-1.2.1.10.jpg 'Audio mode interface')
-_Figure 1.2.1.10 - Audio mode interface_
+<div align="center"style="font-style: italic;">Figure 1.2.1.10 - Audio mode interface</div>
 
-The following table 1.2.8 describes the **Audio Mode** interface in detail.
+The following _Table 1.2.8_ describes the **Audio Mode** interface in detail.
 
 | Number | Name                       | Description                                                                                                                                  |
 | ------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,4 +31,4 @@ The following table 1.2.8 describes the **Audio Mode** interface in detail.
 | 14     | **Column layout selector** | The **Column layout selector** buttons help you to create multiple columns of reference texts.                                               |
 | 15     | **Zoom in and zoom out**   | The **Zoom in and zoom out** helps you to increase or decrease the font size.                                                                |
 
-_Table 1.2.8 - Audio mode interface_
+<div align="center"style="font-style: italic;">Table 1.2.8 - Audio mode interface</div>

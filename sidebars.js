@@ -61,8 +61,10 @@ module.exports = {
       'autographa-live/Part-2/p2-1-intro.md',
       {
         'Book and Chapter': [
-        'autographa-live/Part-2/Book-and-Chapter/p2-2-1-how-to-choose-book-chap.md',
-        'autographa-live/Part-2/Book-and-Chapter/p2-2-2-how-to-edit-book-name.md',
+        'autographa-live/Part-2/Book-and-Chapter/p2-2-1-ovrview.md',
+        'autographa-live/Part-2/Book-and-Chapter/p2-2-2-how-to-choose-book.md',
+        'autographa-live/Part-2/Book-and-Chapter/p2-2-3-how-to-choose-chap.md',
+        'autographa-live/Part-2/Book-and-Chapter/p2-2-4-how-to-edit-book-name.md',
       ],
         'Settings': [
           'autographa-live/Part-2/Settings/p2-3-1-how-to-choose-ref.md',

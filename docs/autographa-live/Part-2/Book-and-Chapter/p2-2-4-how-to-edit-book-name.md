@@ -1,5 +1,5 @@
 ---
-id: p2-2-2-how-to-edit-book-name.md
+id: p2-2-4-how-to-edit-book-name.md
 sidebar_label: How to edit the name of a Book?
 title: How to edit the name of a Book?
 ---

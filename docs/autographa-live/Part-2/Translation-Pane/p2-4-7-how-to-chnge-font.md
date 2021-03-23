@@ -8,15 +8,15 @@ title: How to change the font?
 
 To change the font of the translation text, follow the steps below.
 
-Figure 2.4.7.1 displays the **Change Font** field.
+_Figure 2.4.7.1_ displays the **Change Font** field.
 ![alt text](../../../../static/AutographaLiveImages/Translation-pane/change-font-field-fig-2.4.7.1.jpg 'Change Font field')
-_Figure 2.4.7.1- Change Font field_
+<div align="center"style="font-style: italic;">Figure 2.4.7.1- Change Font field</div>
 
 -   Click on **Change font** field
 
-Figure 2.4.7.2 displays the **Font** menu
+_Figure 2.4.7.2_ displays the **Font** menu.
 ![alt text](../../../../static/AutographaLiveImages/Translation-pane/font-menu-fig-2.4.7.2.jpg 'Font menu')
-_Figure 2.4.7.2- Font menu_
+<div align="center"style="font-style: italic;">Figure 2.4.7.2- Font menu</div>
 
 -   Select the required font from the **Font** menu
 

@@ -10,18 +10,19 @@ To sync the **Autographa Live** application to the paratext registry, follow the
 
 -   Go to **Settings**>**Sync**
 
-Figure 2.3.5.1 displays the **Sync** screen.
+_Figure 2.3.5.1_ displays the **Sync** screen.
 
 ![alt text](../../../../../static/AutographaLiveImages/Settings/sync-fig-2.3.5.1.jpg 'Sync')
-_Figure 2.3.5.1- Sync_ (sync-fig-2.3.5.1)
+<div align="center"style="font-style: italic;">Figure 2.3.5.1- Sync</div>
 
 -   Click on **Credentials**
-    Figure 2.3.5.2 displays the **Sync Credentials** fields.
-    ![alt text](../../../../../static/AutographaLiveImages/Settings/sync-credentials-fig-2.3.5.2.jpg 'Sync Credentials')
-    _Figure 2.3.5.2- Sync Credentials_
 
--   Type your paratext account username under the **Username** field (refer- Sync)
--   Type your password on the **Password** field (refer-Sync)!!!!!!!!!
+_Figure 2.3.5.2_ displays the **Sync Credentials** fields.
+![alt text](../../../../../static/AutographaLiveImages/Settings/sync-credentials-fig-2.3.5.2.jpg 'Sync Credentials')
+<div align="center"style="font-style: italic;">Figure 2.3.5.2- Sync Credentials</div>
+
+-   Type your paratext account username under the **Username** field (refer- [*Sync*](../../../Part-1\Getting-Started\Autographa-Live-User-Interface-Overview\Settings-User-Interface\p1-2-3-7-sync.md))
+-   Type your password on the **Password** field 
 -   Click **Sign In**
 
 :::note

@@ -9,11 +9,11 @@ title: How to use the compare mode to compare the translation text with the refe
 To check the number of words added to the translation text and the number of words removed from the original text, follow the steps below.
 
 -   Click on the **Compare mode** button.
-    Figure 2.5.1.1 displays the **Compare mode** of the application.
-    ![alt text](../../../../static/AutographaLiveImages/Compare-mode/compare-mode-fig-2.5.1.1.jpg 'Compare mode')
-    _Figure 2.5.1.1 - Compare mode_
+_Figure 2.5.1.1_ displays the **Compare mode** of the application.
+![alt text](../../../../static/AutographaLiveImages/Compare-mode/compare-mode-fig-2.5.1.1.jpg 'Compare mode')
+<div align="center"style="font-style: italic;">Figure 2.5.1.1 - Compare mode</div>
 
-The following table 2.5.1 explains details displayed in the **Compare mode**.
+The following *Table 2.5.1* explains details displayed in the **Compare mode**.
 
 | Name   | Description                                                                                                                    |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -27,4 +27,4 @@ _Table 2.5.1 - Compare mode details_
 
 Figure 2.5.1.2 displays the **Unable to show comparison** pop up that appears if the languages are different across the panes.
 ![alt text](../../../../static/AutographaLiveImages/Compare-mode/unable-to-show-comparison-fig-2.5.1.2.jpg 'Unable to show comparison')
-_Figure 2.5.1.2 Unable to show comparison_
+<div align="center"style="font-style: italic;">Figure 2.5.1.2 Unable to show comparison</div>

@@ -8,11 +8,12 @@ title: Manage Reference Texts
 **Manage Reference Texts** settings helps you to manage the reference texts that you import.
 Example : Renaming the reference text and removing the reference text
 
-Figure 1.2.1.7 displays the **Manage Reference Texts** screen and its options
+*Figure 1.2.1.7* displays the **Manage Reference Texts** screen and its options
 ![alt text](../../../../../../static/AutographaLiveImages/Getting_Started/manage-reference-texts-fig-1.2.1.7.jpg 'Manage Reference Texts screen')
-_Figure 1.2.1.7 - Manage Reference Texts screen_
+<div align="center"style="font-style: italic;"
+>Figure 1.2.1.7 - Manage Reference Texts screen</div>
 
-Table 1.2.6 explains the information displayed on the Manage Reference Texts screen.
+The following _Table 1.2.6_ explains the information displayed on the Manage Reference Texts screen.
 
 | Name              | Description                                           |
 | ----------------- | ----------------------------------------------------- |
@@ -21,5 +22,5 @@ Table 1.2.6 explains the information displayed on the Manage Reference Texts scr
 | **Version**       | It displays the Bible version of the reference texts. |
 | **Rename**        | It helps you to rename the selected reference text.   |
 | **Remove**        | It helps you to remove the selected reference text.   |
-
-_Table 1.2.6- Manage Reference Text settings_
+<div align="center"style="font-style: italic;"
+>Table 1.2.6- Manage Reference Text settings</div>

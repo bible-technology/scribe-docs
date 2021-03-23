@@ -6,7 +6,7 @@ title: How to voice record?
 
 
 To record the audio for the translation text, follow the steps below.
-(refer [AudioModeUserInterface](../../Part-1/Getting-Started/Autographa-Live-User-Interface-Overview/p1-2-4-audio-mode-ui.md))
+(refer [*Audio Mode User Interface*](../../Part-1/Getting-Started/Autographa-Live-User-Interface-Overview/p1-2-4-audio-mode-ui.md))
 
 * Click on the **Recorder** button to switch to **audio mode**
 * Select the verse you require

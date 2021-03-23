@@ -7,11 +7,11 @@ title: Sync
 
 **Sync** settings helps you to sync your workspace with Paratext software. It allows you to import and upload the translation texts from the cloud.
 
-Figure 1.2.1.9 displays the **Sync** settings of **_Autographa Live_**
+_Figure 1.2.1.9_ displays the **Sync** settings of **_Autographa Live_**
 ![alt text](../../../../../../static/AutographaLiveImages/Getting_Started/sync-fig-1.2.1.9.jpg 'Sync screen')
-_Figure 1.2.1.9 - Sync screen_
+<div align="center"style="font-style: italic;">Figure 1.2.1.9 - Sync screen</div>
 
-Table 1.2.7 explains each option in **Sync** settings.
+The following _Table 1.2.7_ explains each option in **Sync** settings.
 
 | Name                   | Description                                                                                                                                                                                     |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,4 +20,4 @@ Table 1.2.7 explains each option in **Sync** settings.
 | **Password**           | The registration code of your paratext account                                                                                                                                                  |
 | **Available projects** | Available projects in the cloud from your paratext application                                                                                                                                  |
 
-_Table 1.2.7 - Sync settings_
+<div align="center"style="font-style: italic;">Table 1.2.7 - Sync settings</div>

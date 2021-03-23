@@ -7,9 +7,9 @@ title: Glossary
 
 Translation pane - The space on the right side of the **Autographa Live** screen given for translation.
 
-Ref pane - The left side of the of the **Autographa Live** screen which displays the chosen reference text.
+Reference pane - The left side of the of the **Autographa Live** screen which displays the chosen reference text.
 
-Ref text - The Bible used as a reference for the translation.
+Reference text - The Bible used as a reference for the translation.
 Translation text - The new version of the bible that is being translated.
 
 Compare mode - The mode to compare the tranlsation text with the reference text.

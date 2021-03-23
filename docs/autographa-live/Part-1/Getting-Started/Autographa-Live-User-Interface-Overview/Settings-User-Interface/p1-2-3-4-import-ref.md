@@ -8,12 +8,13 @@ title: Import Reference Text
 
 **Import Reference Text** settings helps you to import reference texts for your translation.
 
-Figure 1.2.1.6 displays the **Import Reference Text** screen.
+_Figure 1.2.1.6_ displays the **Import Reference Text** screen.
 
 ![alt text](../../../../../../static/AutographaLiveImages/Getting_Started/import-reference-text-fig-1.2.1.6.jpg 'Import Reference Text screen')
-_Figure 1.2.1.6 - Import Reference Text screen_
+<div align="center"style="font-style: italic;"
+>Figure 1.2.1.6 - Import Reference Text screen</div>
 
-The following Table 1.2.5 explains the five details of the import text that you enter.
+The following *Table 1.2.5* explains the five details of the import text that you enter.
 
 | Name                 | Description                                                                                                                                                                                                                                                                                   |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,4 +24,5 @@ The following Table 1.2.5 explains the five details of the import text that you 
 | **Script Direction** | The direction in which the content is displayed in the language of the chosen reference text. There are two options for **Script Direction**: <br/> LTR-left to right <br/> RTL-right to left.                                                                                                |
 | **File Location**    | The location of the reference text from which it should be imported.                                                                                                                                                                                                                          |
 
-_Table 1.2.5 - Details of import reference text_
+<div align="center"style="font-style: italic;"
+>Table 1.2.5 - Details of import reference text</div>

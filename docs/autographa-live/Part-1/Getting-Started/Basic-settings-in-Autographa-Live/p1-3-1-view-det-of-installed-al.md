@@ -10,16 +10,14 @@ To view the details of the installed **_Autograha Live_** version, follow the st
 
 -   Click on the **About** button
 
-Figure 1.2.2.1 displays the Overview of the current **_Autographa Live_** application.
+_Figure 1.2.2.1_ displays the Overview of the current **_Autographa Live_** application.
 
 ![alt text](../../../../../static/AutographaLiveImages/Getting_Started/overview-fig-1.2.2.1.jpg 'Overview')
-
-_Figure 1.2.2.1- Overview_
+<div align="center"style="font-style: italic;">Figure 1.2.2.1- Overview</div>
 
 -   Click on **License** to view the General Public License.
 
-Figure 1.2.2.2 displays the **License** of the **_Autographa Live_** application.
+_Figure 1.2.2.2_ displays the **License** of the **_Autographa Live_** application.
 
 ![alt text](../../../../../static/AutographaLiveImages/Getting_Started/license-of-autographa-fig-1.2.2.2.jpg 'License of Autographa Live')
-
-_Figure 1.2.2.2- License of Autographa Live_
+<div align="center"style="font-style: italic;">Figure 1.2.2.2- License of Autographa Live</div>

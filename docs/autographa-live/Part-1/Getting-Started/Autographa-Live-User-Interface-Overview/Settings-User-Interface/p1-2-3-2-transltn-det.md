@@ -8,11 +8,12 @@ title: Translation Details
 
 **Translation Details** settings helps you to define the basic information about your translation text and to choose a file location to save your translation text on your device.
 
-Figure 1.2.1.4 displays the details of your translation text that you define.
+_Figure 1.2.1.4_ displays the details of your translation text that you define.
 ![alt text](../../../../../../static/AutographaLiveImages/Getting_Started/translation-details-fig-1.2.1.4.jpg 'Translation Details of the translation text')
-_Figure 1.2.1.4 - Translation Details of the translation text_
+<div align="center"style="font-style: italic;"
+>Figure 1.2.1.4 - Translation Details of the translation text</div>
 
-The following Table 1.2.4 defines each detail that you enter.
+The following _Table 1.2.4_ defines each detail that you enter.
 
 | Name                       | Description                                                                                                                                                                                                                                                                                   |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,4 +23,5 @@ The following Table 1.2.4 defines each detail that you enter.
 | **Script Direction**       | The direction in which the content is displayed in the language of your translation. There are two options for **Script Direction**: <br/> LTR-left to right <br/> RTL-right to left                                                                                                          |
 | **Auto-backup**            | It helps you to set up the timing for auto saving your work to the export folder location that you have selected in the **Export Folder Location** field. There are three options for **Auto-backup**: <br/> **None <br/> Daily** <br/> **Weekly**                                            |
 
-_Table 1.2.4 - Translation Details_
+<div align="center"style="font-style: italic;"
+>Table 1.2.4 - Translation Details</div>

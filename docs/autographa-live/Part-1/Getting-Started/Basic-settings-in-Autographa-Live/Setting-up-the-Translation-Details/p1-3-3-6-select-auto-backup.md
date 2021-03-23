@@ -7,11 +7,13 @@ title: Selecting the Auto Backup preferences
 
 Go to **Settings** > **Translation Details**
 
-Figure 1.2.1.4 displays the details of your translation text that you define.
+*Figure 1.2.1.4* displays the details of your translation text that you define.
 ![alt text](../../../../../../static/AutographaLiveImages/Getting_Started/translation-details-fig-1.2.1.4.jpg 'Translation Details of the translation text')
-_Figure 1.2.1.4 - Translation Details of the translation text_
+<div align="center"style="font-style: italic;">Figure 1.2.1.4 - Translation Details of the translation text</div>
 
 -   Choose the **auto-backup** option according to your requirement.
+
+The following *Table 1.2.9* explains various **Auto-backup** options
 
 | Name       | Description                                                                                                                                          |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,13 +21,13 @@ _Figure 1.2.1.4 - Translation Details of the translation text_
 | **Daily**  | If you select **Daily**, your translation text is exported daily to the auto-backup folder. It is contingent on how often the application is used.   |
 | **Weekly** | If you select **Weekly**, your translation text is exported weekly to the auto-backup folder. It is contingent on how often the application is used. |
 
-_Table 1.2.9- Auto-backup options_
+<div align="center"style="font-style: italic;">Table 1.2.9- Auto-backup options</div>
 
 -   Click **save**
 
-Figure 1.2.2.5 displays the **Translation Data successfully saved** pop up.
+*Figure 1.2.2.5* displays the **Translation Data successfully saved** pop up.
 
 ![alt text](../../../../../../static/AutographaLiveImages/Getting_Started/translation-data-successfully-saved-fig-1.2.2.5.jpg 'Translation Data successfully saved pop up')
-_Figure 1.2.2.5 - Translation Data successfully saved pop up_
+<div align="center"style="font-style: italic;">Figure 1.2.2.5 - Translation Data successfully saved pop up</div>
 
 * Click **ok**

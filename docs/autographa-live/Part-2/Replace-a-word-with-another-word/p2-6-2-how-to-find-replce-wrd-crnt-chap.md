@@ -10,18 +10,18 @@ To replace a word in the current chapter of the translation text with another re
 
 -   Click on **Find and Replace** button
 
-Figure 2.6.1.1 displays the **Find and Replace** pop up
+_Figure 2.6.1.1_ displays the **Find and Replace** pop up
 
 ![alt text](../../../../static/AutographaLiveImages/Replace-word/find-and-replace-fig-2.6.1.1.jpg 'Find and Replace')
-_Figure 2.6.1.1 - Find and Replace_
+<div align="center"style="font-style: italic;">Figure 2.6.1.1 - Find and Replace</div>
 
 -   Choose **Current chapter** option
 -   Type down the word that needs to be replaced in the **Find** field
 -   Type down the replacement word in the **Replacement with** filed
 
-Fig 2.6.1.2 displays the **Replace** button in the **Find and Replace** pop up.
+_Figure 2.6.1.2_ displays the **Replace** button in the **Find and Replace** pop up.
 ![alt text](../../../../static/AutographaLiveImages/Replace-word/replace-button-current-chapter-fig-2.6.1.2.jpg 'Replace button')
 
-_Fig 2.6.1.2-Replace button_
+<div align="center"style="font-style: italic;">Figure 2.6.1.2-Replace button</div>
 
 -   Click **Replace**
