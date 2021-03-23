@@ -29,7 +29,7 @@ _Figure 1.2.2.3_ displays the menu of app languages.
 
 -   Click **save**
 
-_Figure 1.2.2.4_ displays <p style={{fontFamily: 'Consolas'}}>Successfully saved changes. Restart the application for the changes to take effect of the screen message</p>
+_Figure 1.2.2.4_ displays <span style={{fontFamily: 'Consolas'}}>Successfully saved changes. Restart the application for the changes to take effect </span> message
 
 ![alt text](../../../../../static/AutographaLiveImages/Getting_Started/saved-changes-message-app-language-fix-1.2.2.4.jpg 'Successfully saved changes message')
 
