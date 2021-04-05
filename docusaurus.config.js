@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Autographa-docs',
-  tagline: 'Documentation website for Autographa',
+  tagline: 'Documentation for Autographa',
   url: 'https://autographa-docs.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
