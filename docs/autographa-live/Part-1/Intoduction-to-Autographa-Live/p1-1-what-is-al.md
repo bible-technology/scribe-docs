@@ -9,7 +9,7 @@ title: What is Autographa Live?
 |Name            | Description                   |
 |--------------- |------------------------------- |
 |**_Autographa Live_**| It is a web-enabled desktop application which is easy to use and supports all features in **_Autographa_** | The latest available version of **_Autographa Live_** is **_version 0.2.0 Beta 3_**.|
-|**_Autographa Lite_**| It is a standalone application that you download and use in your computer system. It only includes features that do not require an internet connection. The features in **_Autographa Lite_** are similar to **_Autographa Live_** with some exceptions.|
+|**_Autographa Lite_**| It is a standalone application that you download and use in your device. It only includes features that do not require an internet connection. The features in **_Autographa Lite_** are similar to **_Autographa Live_** with some exceptions.|
 <div align="center"style="font-style: italic;">Table 1.1.1- Autographa Live and Autographa Lite</div>
 
 

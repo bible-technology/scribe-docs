@@ -6,17 +6,17 @@ sidebar_label: Style Guide
 
 # Autographa Live User Interface Overview
 
-**_Autograha Live’s_** user interface includes the main workspace, settings interface and audio mode interface designed to help you work effectively.
+**_Autograha Live’s_** user interface includes the Workspace, settings interface and audio mode interface designed to help you work effectively.
 
-## Main Workspace User Interface
+## Workspace User Interface
 
-Main workspace user interface provides many tools and options for effective translation.
-Figure 1.2.1.1 displays the main workspace user interface of the **_Autographa Live_** application.
+Workspace user interface provides many tools and options for effective translation.
+Figure 1.2.1.1 displays the Workspace user interface of the **_Autographa Live_** application.
 
-![alt text](../../static/AutographaLiveImages/Getting_Started/main-workspace-ui-fig-1.2.1.1.jpg 'Main workspace user inference of Autographa Live ')
-_Figure 1.2.1.1 - Main workspace user inference of Autographa Live_
+![alt text](../../static/AutographaLiveImages/Getting_Started/main-workspace-ui-fig-1.2.1.1.jpg 'Workspace user inference of Autographa Live ')
+_Figure 1.2.1.1 - Workspace user inference of Autographa Live_
 
-The following table 1.2.1 explains different **menus**, **buttons** and **options** in the main workspace user interface.
+The following table 1.2.1 explains different **menus**, **buttons** and **options** in the Workspace user interface.
 
 | Number | Name                               | Description                                                                                                                                                                                                             |
 | ------ | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,9 +35,9 @@ The following table 1.2.1 explains different **menus**, **buttons** and **option
 | 13     | **Column layout selector buttons** | The **Column layout selector** buttons help you to create multiple columns of reference texts.                                                                                                                          |
 | 14     | **Zoom in and zoom out**           | The **Zoom in and zoom out** helps you to increase or decrease the font size.                                                                                                                                           |
 
-_Table 1.2.1 - Buttons and options in main workspace user interface_
+_Table 1.2.1 - Buttons and options in Workspace user interface_
 
-The figure 1.2.1.2 given below displays the two different panes in the main workspace
+The figure 1.2.1.2 given below displays the two different panes in the Workspace
 
 ![alt text](../../static/AutographaLiveImages/Getting_Started/main-workspace-ui-fig-1.2.1.2.jpg 'Reference pane and Translation pane')
 _Figure 1.2.1.2 - Reference pane and Translation pane_
@@ -86,7 +86,7 @@ The following Table 1.2.4 defines each detail that you enter.
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Language Code**          | The menu of International Codes for the representation of names of languages. Here you select the ISO 639-2 language code of your translation language. Example: English (eng)To know the list of language codes, refer https://www.loc.gov/standards/iso639-2/php/code_list.php |
 | **Version**                | The name of the Bible version of your translation.Example: ULT                                                                                                                                                                                                                   |
-| **Export Folder Location** | The folder location on your computer into which you desire to save the USFM file of your translation.                                                                                                                                                                            |
+| **Export Folder Location** | The folder location on your device into which you want to save the USFM file of your translation.                                                                                                                                                                            |
 | **Script Direction**       | The direction in which the content is displayed in the language of your translation. There are two options for **Script Direction**: LTR-left to right; RTL-right to left                                                                                                        |
 | **Auto-backup**            | It helps you to set up the timing for auto saving your work to the export folder location that you have selected in the **Export Folder Location** field. There are three options for **Auto-backup**: **None,Daily** and **Weekly**                                             |
 

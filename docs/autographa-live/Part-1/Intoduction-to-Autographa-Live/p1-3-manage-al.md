@@ -5,7 +5,7 @@ title: Managing Autographa Live
 ---
 
 
-Following are the system requirements for the proper functioning of the application on your device:
+Following are the system requirements for the smooth functioning of the application on your device:
 
 * Minimum 2 GB disk space free
 * Internet connectivity (needed only for syncing and user Translation Helps)

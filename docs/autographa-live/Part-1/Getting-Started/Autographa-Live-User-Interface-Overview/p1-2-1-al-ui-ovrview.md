@@ -5,4 +5,4 @@ title: User Interface Overview
 ---
 
 
-**_Autograha Live’s_** user interface includes the main workspace, settings interface and audio mode interface designed to help you work effectively.
+**_Autograha Live’s_** user interface includes the Workspace, settings interface and audio mode interface designed to help you work effectively.
