@@ -13,7 +13,7 @@ sidebar_label: Style Guide
 Workspace user interface provides many tools and options for effective translation.
 Figure 1.2.1.1 displays the Workspace user interface of the **_Autographa Live_** application.
 
-![alt text](../../static/AutographaLiveImages/Getting_Started/main-workspace-ui-fig-1.2.1.1.jpg 'Workspace user inference of Autographa Live ')
+![alt text](/AutographaLiveImages/Getting_Started/main-workspace-ui-fig-1.2.1.1.jpg 'Workspace user inference of Autographa Live ')
 _Figure 1.2.1.1 - Workspace user inference of Autographa Live_
 
 The following table 1.2.1 explains different **menus**, **buttons** and **options** in the Workspace user interface.
@@ -39,7 +39,7 @@ _Table 1.2.1 - Buttons and options in Workspace user interface_
 
 The figure 1.2.1.2 given below displays the two different panes in the Workspace
 
-![alt text](../../static/AutographaLiveImages/Getting_Started/main-workspace-ui-fig-1.2.1.2.jpg 'Reference pane and Translation pane')
+![alt text](/AutographaLiveImages/Getting_Started/main-workspace-ui-fig-1.2.1.2.jpg 'Reference pane and Translation pane')
 _Figure 1.2.1.2 - Reference pane and Translation pane_
 
 Table 1.2.2 defines reference pane and translation pane
@@ -56,7 +56,7 @@ _Table 1.2.2 - Reference pane and Translation pane_
 **Settings** User Interface helps you to set up the basic configuration of Autographa Live. There are six basic settings.
 Figure 1.2.1.3 displays the **Settings** user interface.
 
-![alt text](../../static/AutographaLiveImages/Getting_Started/settings-ui-fig-1.2.1.3.jpg 'Settings user interface')
+![alt text](/AutographaLiveImages/Getting_Started/settings-ui-fig-1.2.1.3.jpg 'Settings user interface')
 _Figure 1.2.1.3 - Settings user interface_
 
 The following table 1.2.3 describes the basic settings in Autographa Live.
@@ -77,7 +77,7 @@ _Table 1.2.3 - Basic settings in Autographa Live (settings-ui-tab-1.2.3)_
 **Translation Details** settings helps you to define the basic information about your translation text and to choose a file location to save your translation text on your device.
 
 Figure 1.2.1.4 displays the details of your translation text that you define.
-![alt text](../../static/AutographaLiveImages/Getting_Started/translation-details-fig-1.2.1.4.jpg 'Translation Details of the translation text')
+![alt text](/AutographaLiveImages/Getting_Started/translation-details-fig-1.2.1.4.jpg 'Translation Details of the translation text')
 _Figure 1.2.1.4 - Translation Details of the translation text_
 
 The following Table 1.2.4 defines each detail that you enter.
@@ -97,7 +97,7 @@ _Table 1.2.4 - Translation Details_
 **Import Translation** settings help you to import texts for translation.
 
 Figure 1.2.1.5 displays the **File Location** field to select the file location for your translation text.
-![alt text](../../static/AutographaLiveImages/Getting_Started/import-translation-fig-1.2.1.5.jpg 'Import Translation settings')
+![alt text](/AutographaLiveImages/Getting_Started/import-translation-fig-1.2.1.5.jpg 'Import Translation settings')
 _Figure 1.2.1.5 - Import Translation settings (import-translation-fig-1.2.1.5)_
 
 ### Import Reference Text
@@ -106,7 +106,7 @@ _Figure 1.2.1.5 - Import Translation settings (import-translation-fig-1.2.1.5)_
 
 Figure 1.2.1.6 displays the **Import Reference Text** screen.
 
-![alt text](../../static/AutographaLiveImages/Getting_Started/import-reference-text-fig-1.2.1.6.jpg 'Import Reference Text screen')
+![alt text](/AutographaLiveImages/Getting_Started/import-reference-text-fig-1.2.1.6.jpg 'Import Reference Text screen')
 _Figure 1.2.1.6 - Import Reference Text screen_
 
 The following Table 1.2.5 explains the five details of the import text that you enter.
@@ -127,7 +127,7 @@ _Table 1.2.5 - Details of import reference text_
 Example : Renaming the reference text and removing the reference text
 
 Figure 1.2.1.7 displays the **Manage Reference Texts** screen and its options
-![alt text](../../static/AutographaLiveImages/Getting_Started/manage-reference-texts-fig-1.2.1.7.jpg 'Manage Reference Texts screen')
+![alt text](/AutographaLiveImages/Getting_Started/manage-reference-texts-fig-1.2.1.7.jpg 'Manage Reference Texts screen')
 _Figure 1.2.1.7 - Manage Reference Texts screen_
 
 Table 1.2.6 explains the information displayed on the Manage Reference Texts screen.
@@ -147,7 +147,7 @@ _Table 1.2.6- Manage Reference Text settings_
 **App Language** settings help you to set a suitable language for the application. The various language options are **Arabic, English, Hindi, Portuguese** and **Spanish**.
 
 Figure 1.2.1.8 displays the **App Language** settings screen
-![alt text](../../static/AutographaLiveImages/Getting_Started/app-language-ui-fig-1.2.1.8.jpg 'App Language settings screen')
+![alt text](/AutographaLiveImages/Getting_Started/app-language-ui-fig-1.2.1.8.jpg 'App Language settings screen')
 _Figure 1.2.1.8 - App Language settings screen_
 
 ### Sync
@@ -155,7 +155,7 @@ _Figure 1.2.1.8 - App Language settings screen_
 **Sync** settings help you to sync your workspace with Paratext software. It allows you to import and upload the translation texts from the cloud.
 
 Figure 1.2.1.9 displays the **Sync** settings of Autographa Live
-![alt text](../../static/AutographaLiveImages/Getting_Started/sync-fig-1.2.1.9.jpg 'Sync screen')
+![alt text](/AutographaLiveImages/Getting_Started/sync-fig-1.2.1.9.jpg 'Sync screen')
 _Figure 1.2.1.9 - Sync screen_
 
 Table 1.2.7 explains each option in **Sync** settings.
@@ -174,7 +174,7 @@ _Table 1.2.7 - Sync settings_
 **Audio Mode** in **_Autographa Live_** software helps you to record audio of your translation text.
 
 Figure 1.2.1.10 displays the **Audio Mode** interface of **_Autographa Live_**.
-![alt text](../../static/AutographaLiveImages/Getting_Started/audio-mode-ui-fig-1.2.1.10.jpg 'Audio mode interface')
+![alt text](/AutographaLiveImages/Getting_Started/audio-mode-ui-fig-1.2.1.10.jpg 'Audio mode interface')
 _Figure 1.2.1.10 - Audio mode interface_
 
 The following table 1.2.8 describes the **Audio Mode** interface in detail.

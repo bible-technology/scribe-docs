@@ -80,7 +80,7 @@ Some text to show that the reference links can follow later.
 
 Here's our logo (hover to see the title text):
 
-Inline-style: ![alt text](../static/autographaimages/autographa_lite_large.png 'This is our autographa logo')
+Inline-style: ![alt text](/autographaimages/autographa_lite_large.png 'This is our autographa logo')
 
 Reference-style: ![alt text][logo]
 
@@ -88,7 +88,7 @@ Reference-style: ![alt text][logo]
 
 Images from any folder can be used by providing path to file. Path should be relative to markdown file.
 
-![img](../static/autographaimages/autographa_lite_large.png)
+![img](/autographaimages/autographa_lite_large.png)
 
 ---
 
