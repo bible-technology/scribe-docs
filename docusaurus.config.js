@@ -34,11 +34,19 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-        },
-        blog: {
-          showReadingTime: true,
-          // editUrl:
-          //   'https://github.com/friendsofagape/autographa-docs/edit/main/',
+          // REMOVE WHEN VERSIONING 2.0.0
+          lastVersion: 'current',
+          versions: {
+            current: {
+              label: '2.0.0',
+            },
+            '1.0.0': {
+              label: '1.0.0',
+              path: '1.0.0',
+              banner: 'unmaintained',
+            },
+            // TILL HERE
+          },    
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

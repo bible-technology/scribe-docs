@@ -115,6 +115,40 @@ export default function Version(): JSX.Element {
             </table>
           </div>
         )}
+        {(pastVersions.length > 0) && (
+          <div className="margin-bottom--lg">
+            <Heading as="h3" id="archive">
+              <Translate id="versionsPage.archived.title">
+                Past versions (Not maintained anymore)
+              </Translate>
+            </Heading>
+            <p>
+              <Translate id="versionsPage.archived.description">
+                Here you can find documentation for previous versions of
+                Autographa.
+              </Translate>
+            </p>
+            <table>
+              <tbody>
+                {pastVersions.map((version) => (
+                  <tr key={version.name}>
+                    <th>{version.label}</th>
+                    <td>
+                      <Link to={version.path}>
+                        <DocumentationLabel />
+                      </Link>
+                    </td>
+                    <td>
+                      <Link href={`${repoUrl}/releases/tag/v${version.name}`}>
+                        <ReleaseNotesLabel />
+                      </Link>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        )}
       </main>
     </Layout>
   );
