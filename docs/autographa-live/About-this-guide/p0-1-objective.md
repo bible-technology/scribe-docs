@@ -5,5 +5,5 @@ title: Objective
 slug: /
 ---
 
-This guide describes how to use **_Autographa Live_** to translate Scriptures from a source language to another target language.
+To describe how to use the Autographa Bible Translation Editor effectively.
 
