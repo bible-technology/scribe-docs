@@ -46,7 +46,9 @@ const config = {
               banner: 'unmaintained',
             },
             // TILL HERE
-          },    
+          },
+          editUrl:
+						'https://github.com/friendsofagape/autographa-docs/edit/v2/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -88,11 +90,12 @@ const config = {
           dropdownItemsAfter: [{ to: '/versions', label: 'All versions' }],
           dropdownActiveClassDisabled: true,
         },
+        {
+					href: 'https://github.com/friendsofagape/autographa-docs',
+					label: 'GitHub',
+					position: 'right',
+				},
       ],
-    },
-    footer: {
-      style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
