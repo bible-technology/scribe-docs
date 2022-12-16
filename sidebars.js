@@ -26,7 +26,7 @@ module.exports = {
         "autographa/How-To/p2-2-sign-in",
         {
           "Project Listing": [
-            "autographa/How-To/p2-3-project-listing",
+            "autographa/How-To/Project-Listing/p2-3-0-project-listing",
             "autographa/How-To/Project-Listing/p2-3-1-starting-project",
             "autographa/How-To/Project-Listing/p2-3-2-creating-project",
             "autographa/How-To/Project-Listing/p2-3-3-advanced-settings",
@@ -50,16 +50,24 @@ module.exports = {
           ],
         },
         {
+          "Audio Translate Mode": [
+            "autographa/How-To/Audio-Translate-Mode/p2-6-1-audio-translate-mode",
+          ],
+        },
+        {
           "Autographa Functions": [
-            "autographa/How-To/Autographa-Functions/p2-6-1-profile",
-            "autographa/How-To/Autographa-Functions/p2-6-2-notifications",
-            "autographa/How-To/Autographa-Functions/p2-6-3-split-column",
-            "autographa/How-To/Autographa-Functions/p2-6-4-lock-unlock-editor",
-            "autographa/How-To/Autographa-Functions/p2-6-5-create-bookmarks",
-            "autographa/How-To/Autographa-Functions/p2-6-6-file-menu",
-            "autographa/How-To/Autographa-Functions/p2-6-7-edit",
-            "autographa/How-To/Autographa-Functions/p2-6-8-font",
-            "autographa/How-To/Autographa-Functions/p2-6-9-about",
+            "autographa/How-To/Autographa-Functions/p2-7-1-profile",
+            "autographa/How-To/Autographa-Functions/p2-7-2-notifications",
+            "autographa/How-To/Autographa-Functions/p2-7-3-split-column",
+            "autographa/How-To/Autographa-Functions/p2-7-4-lock-unlock-editor",
+            "autographa/How-To/Autographa-Functions/p2-7-5-create-bookmarks",
+            "autographa/How-To/Autographa-Functions/p2-7-6-file-menu",
+            "autographa/How-To/Autographa-Functions/p2-7-7-edit",
+            "autographa/How-To/Autographa-Functions/p2-7-8-font",
+            "autographa/How-To/Autographa-Functions/p2-7-9-about",
+            "autographa/How-To/Autographa-Functions/p2-7-10-sync-function",
+            "autographa/How-To/Autographa-Functions/p2-7-11-project-archive",
+            "autographa/How-To/Autographa-Functions/p2-7-12-reference-resource",
           ],
         },
         
