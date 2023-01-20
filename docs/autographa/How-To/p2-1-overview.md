@@ -4,7 +4,7 @@ sidebar_label:  Overview
 title: Overview
 ---
 
-The newest version of Autographa allows for both text translation editing mode and OBS translation editing mode which helps quicken the translation process. 
+The newest version of Autographa allows for text translation editing mode, OBS translation editing mode and Audio mode which helps quicken the translation process. 
 
 The application works offline, so there is no need to use a password.
 
