@@ -47,6 +47,7 @@ module.exports = {
             "autographa/How-To/OBS-Translate-Mode/p2-5-2-obs-editor-panel",
             "autographa/How-To/OBS-Translate-Mode/p2-5-3-add-columns",
             "autographa/How-To/OBS-Translate-Mode/p2-5-4-import-resources",
+            "autographa/How-To/OBS-Translate-Mode/p2-5-5-farsi",
           ],
         },
         {
