@@ -5,5 +5,5 @@ title: Objective
 slug: /
 ---
 
-To describe how to use the Autographa Bible Translation Editor effectively.
+To describe how to use the Scribe Scripture Editor effectively.
 

@@ -4,7 +4,7 @@ sidebar_label: Supported Systems
 title: Supported Systems
 ---
 
-**Autographa** is supported on the following operating systems:
+**Scribe** is supported on the following operating systems:
 
 - Windows 10 and above
 - Ubuntu 18.04 and above
