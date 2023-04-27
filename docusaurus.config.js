@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.png',
+  favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -38,13 +38,13 @@ const config = {
           lastVersion: 'current',
           versions: {
             current: {
-              label: '2.3.2',
+              label: '0.2.0',
             },
-            '1.0.0': {
-              label: '1.0.0',
-              path: '1.0.0',
-              banner: 'unmaintained',
-            },
+            // '0.2.0': {
+            //   label: '1.0.0',
+            //   path: '1.0.0',
+            //   banner: 'unmaintained',
+            // },
             // TILL HERE
           },
           editUrl:
@@ -66,11 +66,11 @@ const config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Autographa',
+      title: 'Scribe',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/autographa_logo.svg',
-        srcDark: 'img/ag_logo.png',
+        src: 'img/scribe_logo.png',
+        srcDark: 'img/scribe_logo.png',
       },
       hideOnScroll: false,
       items: [
