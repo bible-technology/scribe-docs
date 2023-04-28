@@ -6,18 +6,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Autographa-docs',
-  tagline: 'Documentation for Autographa',
+  title: 'Scribe-docs',
+  tagline: 'Documentation for Scribe',
   url: 'https://autographa-docs.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.png',
+  favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'friendsofagape', // Usually your GitHub org/user name.
-  projectName: 'autographa-docs', // Usually your repo name.
+  projectName: 'scribe-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -34,19 +34,20 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // REMOVE WHEN VERSIONING 2.0.0
-          lastVersion: 'current',
-          versions: {
-            current: {
-              label: '2.3.2',
-            },
-            '1.0.0': {
-              label: '1.0.0',
-              path: '1.0.0',
-              banner: 'unmaintained',
-            },
-            // TILL HERE
-          },
+          // // REMOVE WHEN VERSIONING 2.0.0
+          // // lastVersion: 'current',
+          // // versions: {
+          // //   current: {
+          // //     label: '0.2.0',
+            
+          //   },
+          //   // '1.0.0': {
+          //   //   label: '1.0.0',
+          //   //   path: '1.0.0',
+          //   //   banner: 'unmaintained',
+          //   // },
+          //   // TILL HERE
+          // },
           editUrl:
 						'https://github.com/friendsofagape/autographa-docs/edit/v2/',
         },
@@ -66,11 +67,11 @@ const config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Autographa',
+      title: 'Scribe',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/autographa_logo.svg',
-        srcDark: 'img/ag_logo.png',
+        src: 'img/scribe_logo.png',
+        srcDark: 'img/scribe_logo.png',
       },
       hideOnScroll: false,
       items: [
@@ -91,7 +92,7 @@ const config = {
           dropdownActiveClassDisabled: true,
         },
         {
-					href: 'https://github.com/friendsofagape/autographa-docs',
+					href: 'https://github.com/bible-technology/scribe-docs',
 					label: 'GitHub',
 					position: 'right',
 				},
