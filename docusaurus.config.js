@@ -92,7 +92,7 @@ const config = {
           dropdownActiveClassDisabled: true,
         },
         {
-					href: 'https://github.com/bible-technology/scribe-docs',
+					href: 'https://github.com/bible-technology/scribe-scripture-editor',
 					label: 'GitHub',
 					position: 'right',
 				},
