@@ -1,5 +1,5 @@
 module.exports = {
-  autographa: [
+  Sribe: [
     {
       type: 'category',
       label: 'About this guide',

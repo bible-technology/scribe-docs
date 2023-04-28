@@ -34,19 +34,20 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // REMOVE WHEN VERSIONING 2.0.0
-          lastVersion: 'current',
-          versions: {
-            current: {
-              label: '0.2.0',
-            },
-            // '0.2.0': {
-            //   label: '1.0.0',
-            //   path: '1.0.0',
-            //   banner: 'unmaintained',
-            // },
-            // TILL HERE
-          },
+          // // REMOVE WHEN VERSIONING 2.0.0
+          // // lastVersion: 'current',
+          // // versions: {
+          // //   current: {
+          // //     label: '0.2.0',
+            
+          //   },
+          //   // '1.0.0': {
+          //   //   label: '1.0.0',
+          //   //   path: '1.0.0',
+          //   //   banner: 'unmaintained',
+          //   // },
+          //   // TILL HERE
+          // },
           editUrl:
 						'https://github.com/friendsofagape/autographa-docs/edit/v2/',
         },
