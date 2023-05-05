@@ -34,6 +34,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          
           // // REMOVE WHEN VERSIONING 2.0.0
           // // lastVersion: 'current',
           // // versions: {
