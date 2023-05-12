@@ -1,18 +1,18 @@
-# Autographa Doc
+# Scribe Doc
 
-Documentation website for Autographa
+Documentation website for Sribe
 
 ### Document Structure
 
 Every document has a unique id. By default, a document id is the name of the document (without the extension) relative to the root docs directory. However, the **last part** of the `id` can be defined by the user in the front matter. 
 
 ```
-autographa-docs # Root directory
+scribe-docs # Root directory
 └── docs
-    └── autographa
+    └── scribe
         ├──about-this-guide
         ├──getting-started
-          └── what-is-autographa.md
+          └── what-is-scribe.md
         └── hello.md
 ```
 
@@ -38,7 +38,7 @@ Add the page to the sidebars.js as below. The `id` and `sidebar_label` is used t
 
 ```
 module.exports = {
-  autographa: [
+  scribe: [
    // Normal syntax
     {
       type: 'category',
@@ -57,7 +57,7 @@ to add a page without a category set the type as doc and use the document id.
 
 ```
 module.exports = {
-  autographa: [
+  scribe: [
     {
   	  type: 'doc',
       label: 'sidebar label',
@@ -71,10 +71,10 @@ module.exports = {
 
 ### Adding assets
 
-Add images and other assets to a directory in the `static/autographaAssetsV2` and add them in the document in with <img> syntax with absolute paths. 
+Add images and other assets to a directory in the `static/scribeAssetsV2` and add them in the document in with <img> syntax with absolute paths. 
 
 ```
-<img src="/autographaAssetsV2/path/image.png" width="100%" />
+<img src="/scribeAssetsV2/path/image.png" width="100%" />
 ```
 
 ### 
