@@ -69,6 +69,7 @@ module.exports = {
             "scribe/How-To/Scribe-Functions/p2-7-10-sync-function",
             "scribe/How-To/Scribe-Functions/p2-7-11-project-archive",
             "scribe/How-To/Scribe-Functions/p2-7-12-reference-resource",
+            "scribe/How-To/Scribe-Functions/p2-7-13-app-language"
           ],
         },
         
