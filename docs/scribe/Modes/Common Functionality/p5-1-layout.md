@@ -13,3 +13,5 @@ Steps to open/add the reference resource Layout
 Choose the desired project from the Projects page
 An editor pane will open
 Click on the layout icon in the upper right side of the editor pane to add the layout for reference resources
+
+<video controls src="/assets/add-columns.mov" width="100%" type="video/mov"/>

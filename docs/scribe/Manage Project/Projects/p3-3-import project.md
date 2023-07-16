@@ -23,3 +23,6 @@ Scribe provides users with the functionality to import [Scripture Burrito](https
 - If the project already exists, a verification message will appear, asking whether you want to replace the existing project file. If you wish to overwrite the file, click on "Replace."
 
 Note: Scribe allows to import and export USFM (Unified Standard Format Markers) files and MD files. It also supports TSV resources in OBS Translation Notes
+
+
+<video controls src="/assets/importbfile.mov" width="100%" type="video/mov"/>
