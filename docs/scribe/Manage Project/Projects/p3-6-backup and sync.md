@@ -30,6 +30,7 @@ title: Backup and Sync
 <video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4"/>
 
 
+
 <p><h2><u>Offline Sync</u></h2></p>
 
 **Steps:**
@@ -43,6 +44,35 @@ title: Backup and Sync
 - To edit the downloaded project, navigate to the PROJECTS page and choose the downloaded project 
 
 <video controls src="/assets/offlinesync.mov" width="100%" type="video/mp4"/>
+
+
+
+<n><p><h2><u> Contribute to a shared project</u></h2></p></n>
+
+**Steps:**
+
+Project owner
+
+- The project owner has to login to door43, https://git.door43.org/
+- Select the Project to collaborate.
+- Click on the collaborator tab.
+- Add the names of the collaborators.
+- Select "Add Collaborator". 
+- Give access to the collaborator either as Administrator, Write, or Read.\
+
+Collaborator
+
+- Go to the Sync page.
+- Login to the door43 account
+- The user/ collaborator can then enter the project owner's name in the given field on the Sync page of Scribe
+- Select the project to work
+- Click on offline sync on the top right side 
+- The project will be synced to Scribe
+- A notification stating "project sync to scribe successful" will appear in the bottom left side
+- The project has now been set up for work to get started.
+
+<video controls src="/assets/collabsync.mov" width="100%" type="video/mp4"/>
+
 
 
 <p><h2><u>How to sync a project</u></h2></p>
