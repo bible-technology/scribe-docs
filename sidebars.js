@@ -73,7 +73,7 @@ module.exports = {
         {
           "Text Bible Translation": [
             "scribe/Modes/Text Bible Translation/p6-1-editing text",
-             "scribe/Modes/Text Bible Translation/p6-2-scroll lock",
+             "scribe/Modes/Text Bible Translation/p6-2-navigationlock",
              "scribe/Modes/Text Bible Translation/p6-3-bookmarks",
            
           ],

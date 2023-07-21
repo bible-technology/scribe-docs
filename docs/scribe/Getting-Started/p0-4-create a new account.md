@@ -11,12 +11,12 @@ In order to start translating with the help of Scribe application, the user must
 - Open the Scribe application installed on the computer
 - Choose **CREATE NEW ACCOUNT** button
 - In the pop-up window that appears, enter the user name and click **CREATE**
-- The user's account will be created, and the user can start using the Scribe   application.
+- The user's account will be created, and the user can start using the Scribe   application
 
 **For existing users**
 
-- If you already have an account, sign in by selecting your username from the View More menu. 
-- This opens the **PROJECTS Page** for the users to work in Scribe.
+- If you already have an account, sign in by selecting your username from the View More menu
+- This opens the **PROJECTS Page** for the users to work in Scribe
 
 <video controls src="/assets/signing-in.mov" width="100%" type="video/mov"/>
 

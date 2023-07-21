@@ -16,7 +16,6 @@ title: App Language
   - Farsi
   - French
   - Nepali
-
 - Click "Save" button to save the changes
 
 <img src="/assets/applanguage.png"  width="1000px" alt="project listing"/>

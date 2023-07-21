@@ -6,7 +6,6 @@ title: New Project
 On the **New Project** page, the user can create different project modes like Text Bible Translation, Oral Bible Translation (Audio) and Open Bible Stories (OBS).
 
 Steps to create **New Project**
-
 - Click on the **New Project** Icon  <img src="/autographaAssetsV2/how-to/new-project.png" width="30px" alt=""/>  on the left side of the page
 - On this page, you can enter specific project details
   - Project Name
@@ -15,11 +14,9 @@ Steps to create **New Project**
   - Target Language 
   - Import Books
   - Advance settings (to know more about Advanced settings refer Advanced Settings page) 
-
-- After entering the required details, click on **Create Project**.
-Once a project is created, it will appear as a new item on the **PROJECTS** page. 
+- After entering the required details, click on **Create Project**
+Once a project is created, it will appear as a new item on the **PROJECTS** page
 - Click on the project name in the list to begin translating
-
  *Note*
   - Change the **Target Language** by clicking on the drop-down menu and select the language of your choice from the list of available languages
   - Scribe is a text editor that can import and export USFM (Unified Standard Format Markers) files and MD files
