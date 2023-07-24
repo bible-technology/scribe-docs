@@ -1,84 +1,110 @@
 module.exports = {
+  
   Sribe: [
     {
       type: 'category',
-      label: 'About this guide',
+      label: 'Getting-Started',
       items: [
-        'scribe/About-this-guide/p0-1-objective',
-        'scribe/About-this-guide/p0-2-how-use-guide',
-        'scribe/About-this-guide/p0-3-supported-sys',
-        'scribe/About-this-guide/p0-4-techncl-support',
+        'scribe/Getting-Started/p0-1-what-is-scribe',
+        'scribe/Getting-Started/p0-2-system requirement',
+        'scribe/Getting-Started/p0-3-installation',
+        'scribe/Getting-Started/p0-4-create a new account',
+ 
       ],
     },
     {
       type: 'category',
-      label: 'Getting Started',
+      label: 'Basic Setup',
       items: [
-        'scribe/Getting-Started/p1-1-what-is-scribe',
-        'scribe/Getting-Started/p1-2-how-to-install',
-        'scribe/Getting-Started/p1-3-managing-scribe',
+        "scribe/Basic Setup/p1-1-profile",
+        "scribe/Basic Setup/p1-2-app-language",
+        "scribe/Basic Setup/p1-3-notifications",
       ],
-    }, {
+    },
+
+    {
       type: 'category',
-      label: 'How To',
+      label: 'Manage Project',
       items: [
-        "scribe/How-To/p2-1-overview",
-        "scribe/How-To/p2-2-sign-in",
         {
-          "Project Listing": [
-            "scribe/How-To/Project-Listing/p2-3-0-project-listing",
-            "scribe/How-To/Project-Listing/p2-3-1-starting-project",
-            "scribe/How-To/Project-Listing/p2-3-2-creating-project",
-            "scribe/How-To/Project-Listing/p2-3-3-advanced-settings",
-            "scribe/How-To/Project-Listing/p2-3-3-editing-project"
+        "Create a Project": [
+          "scribe/Manage Project/Create a Project/p2-1-new project",
+          "scribe/Manage Project/Create a Project/p2-2-advanced settings",
+                
+        ],
+        },
+
+        {
+          "Projects": [
+           
+            "scribe/Manage Project/Projects/p3-1-projects",
+            "scribe/Manage Project/Projects/p3-2-edit project details",
+            "scribe/Manage Project/Projects/p3-3-import project",
+            "scribe/Manage Project/Projects/p3-4-archive project",
+            "scribe/Manage Project/Projects/p3-5-export project",
+            "scribe/Manage Project/Projects/p3-6-backup and sync",
+            // "scribe/Manage Project/Projects/p3-7-Sync",
+           
+                  
+          ],
+          },
+
+
+        
+
+      ],
+    },
+     {
+      type: 'category',
+      label: 'Modes',
+      items: [
+        "scribe/Modes/p4-1-overview",
+       
+        {
+          "Common Functionality": [
+            "scribe/Modes/Common Functionality/p5-1-layout",
+            "scribe/Modes/Common Functionality/p5-2-resources",
+            "scribe/Modes/Common Functionality/p5-3-menu bar",
+            "scribe/Modes/Common Functionality/p5-4-font size",
+            "scribe/Modes/Common Functionality/p5-5-Sync",
+           
           ],
         },
         {
-          "Text Translation Mode": [
-            "scribe/How-To/Text-Translate-Mode/p2-4-1-t-plane",
-            "scribe/How-To/Text-Translate-Mode/p2-4-2-add-columns",
-            "scribe/How-To/Text-Translate-Mode/p2-4-3-resource-types",
-            "scribe/How-To/Text-Translate-Mode/p2-4-4-import-resources",
+          "Text Bible Translation": [
+            "scribe/Modes/Text Bible Translation/p6-1-editing text",
+             "scribe/Modes/Text Bible Translation/p6-2-navigationlock",
+             "scribe/Modes/Text Bible Translation/p6-3-bookmarks",
+           
           ],
         },
         {
-          "OBS Translation Mode": [
-            "scribe/How-To/OBS-Translate-Mode/p2-5-1-open-bible-stories-mode",
-            "scribe/How-To/OBS-Translate-Mode/p2-5-2-obs-editor-panel",
-            "scribe/How-To/OBS-Translate-Mode/p2-5-3-add-columns",
-            "scribe/How-To/OBS-Translate-Mode/p2-5-4-import-resources",
-            "scribe/How-To/OBS-Translate-Mode/p2-5-5-farsi",
+          "Oral Bible Translation": [
+            "scribe/Modes/Oral Bible Translation/p7-1-audio toolbar",           
+           
           ],
         },
+
+
         {
-          "Audio Translate Mode": [
-            "scribe/How-To/Audio-Translate-Mode/p2-6-1-audio-translate-mode",
+          "OBS": [
+            "scribe/Modes/OBS/p8-1-drafting",
+                       
           ],
         },
-        {
-          "Scribe Functions": [
-            "scribe/How-To/Scribe-Functions/p2-7-1-profile",
-            "scribe/How-To/Scribe-Functions/p2-7-2-notifications",
-            "scribe/How-To/Scribe-Functions/p2-7-3-split-column",
-            "scribe/How-To/Scribe-Functions/p2-7-4-lock-unlock-editor",
-            "scribe/How-To/Scribe-Functions/p2-7-5-create-bookmarks",
-            "scribe/How-To/Scribe-Functions/p2-7-6-file-menu",
-            "scribe/How-To/Scribe-Functions/p2-7-7-edit",
-            "scribe/How-To/Scribe-Functions/p2-7-8-font",
-            "scribe/How-To/Scribe-Functions/p2-7-9-about",
-            "scribe/How-To/Scribe-Functions/p2-7-10-sync-function",
-            "scribe/How-To/Scribe-Functions/p2-7-11-project-archive",
-            "scribe/How-To/Scribe-Functions/p2-7-12-reference-resource",
-            "scribe/How-To/Scribe-Functions/p2-7-13-app-language"
-          ],
-        },
+             
         
       ],
     },
     {
       type: 'doc',
       label: 'More Information',
-      id: 'scribe/p3-more-info',
+      id: 'scribe/p10-1-more info',
+    },
+    {
+      type: 'doc',
+      label: 'Technical Support',
+      id: 'scribe/p11-1-technical support',
     }
   ],
 };
