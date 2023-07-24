@@ -14,13 +14,13 @@ Steps to create **New Project**
   - Target Language 
   - Import Books
   - Advance settings (to know more about Advanced settings refer Advanced Settings page) 
-- After entering the required details, click on **Create Project**
+- After entering the required details, click on **Create Project**. 
 Once a project is created, it will appear as a new item on the **PROJECTS** page
 - Click on the project name in the list to begin translating
  *Note*
   - Change the **Target Language** by clicking on the drop-down menu and select the language of your choice from the list of available languages
-  - Scribe is a text editor that can import and export USFM (Unified Standard Format Markers) files and MD files
-  - Scribe also supports TSV resources in OBS Translation Notes
+  - **Scribe** is a text editor that can import and export USFM (Unified Standard Format Markers) files and MD files
+  - **Scribe** also supports TSV resources in OBS Translation Notes
 
 
 <video controls src="/assets/creating-project.mov" width="100%" type="video/mov"/>

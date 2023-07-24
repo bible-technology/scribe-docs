@@ -8,7 +8,7 @@ Text Bible Translation
 
 **RESOURCES**
 
-Scribe offers a variety of translation resources to help translators with their work. In addition to the available online resources on Scribe, the translator can upload files from local storage as a reference for his translation work.
+**Scribe** offers a variety of translation resources to help translators with their work. In addition to the available online resources on Scribe, the translator can upload files from local storage as a reference for his translation work.
 
 Scribe assists translators in gaining access to the best resources in as many languages as possible and completing translation projects with speed and quality.
 
@@ -36,7 +36,7 @@ By clicking on the Bible tab, you will be able to access the downloaded Bible fo
 
 You can also refer to resources from your local computer by uploading them to Scribe.
 - Click on the *collection* tab to import resources from local storage
-- Click on *“Select Folder”*
+- Click on *Select Folder*
 - Select the file from your PC that you want to upload
 - Select the upload option
 You'll be able to see the file if you click the Bible tab.
@@ -45,7 +45,6 @@ You'll be able to see the file if you click the Bible tab.
 **TRANSLATION NOTES**
 
 Scribe currently supports Translation Notes in different languages.
-Here can be multiple notes for one verse.
 
 **TRANSLATION WORDS LIST**
 
@@ -81,7 +80,7 @@ To import a resource, follow the steps below.
 
 <h3>OPEN BIBLE STORIES (OBS)</h3>
 
-Open Bible Stories is a collection of 50 key Bible stories available for translation in easy-to-understand text.
+Open Bible Stories is a collection of key Bible stories available for translation in easy-to-understand text.
 
 There are three tabs once you click on the Open Bible Stories
 
@@ -99,10 +98,10 @@ By clicking on the OBS tab, you will be able to access the downloaded Bible stor
 
 **<i>To upload resources from local,</i>** **COLLECTION**
 
-You can also refer to resources from your local computer by uploading them to Scribe.
+You can also refer to resources from your local computer by uploading them to **Scribe**.
 
 - Click on the *collection* tab to import resources from local storage
-- Click on **“Select Folder”**
+- Click on **Select Folder**
 - Select the file from your PC that you want to upload
 - Select the upload option
 You'll be able to see the file if you click the OBS tab.

@@ -8,7 +8,7 @@ The **Advanced Settings** allow the user to edit more specific project details, 
 - **Scope**
 
   - This feature allows the user to choose what book of the Bible they want to work on
-  - The user can choose all books from the old testament, the new testament, or all books of the Bible, or they can customize the number of books they wish to work on
+  - The user can choose all books from the Old testament, the New testament, or all books of the Bible, or they can customize the number of books they wish to work on
 
 - **Versification Scheme**
 

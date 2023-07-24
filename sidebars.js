@@ -96,11 +96,11 @@ module.exports = {
         
       ],
     },
-    {
-      type: 'doc',
-      label: 'More Information',
-      id: 'scribe/p10-1-more info',
-    },
+    // {
+    //   type: 'doc',
+    //   label: 'More Information',
+    //   id: 'scribe/p10-1-more info',
+    // },
     {
       type: 'doc',
       label: 'Technical Support',

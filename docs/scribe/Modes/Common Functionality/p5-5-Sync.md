@@ -4,11 +4,11 @@ sidebar_label: Sync
 title: Sync
 ---
 
-The sync button enable the users to sync the project within the editor pane itself.
+The **Sync** button enable the users to sync the project within the editor pane itself.
 
 **Steps to Sync the project**
 
-- Click the sync button <img src="/assets/cloudsyncbutton.png" alt="Windows Icon" width="50px"/> above the editor pane
+- Click the **Sync** button <img src="/assets/cloudsyncbutton.png" alt="Windows Icon" width="50px"/> above the editor pane
 - A dialogue box opens 
     - If the user has not signed in
         Go to the main Sync page 
