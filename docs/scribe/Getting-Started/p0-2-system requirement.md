@@ -16,8 +16,8 @@ Supported System
 
 - Minimum 2 GB free disk space
 - Internet connectivity (Required for syncing and downloading references)
-- Keep the application updated with the latest version of **Scribe** [download Scribe](https://github.com/bible-technology/scribe-scripture-editor/releases)
+- Keep the application updated with the latest version of **Scribe** ([download Scribe](https://github.com/bible-technology/scribe-scripture-editor/releases))
 - Write to us at scribe@bridgeconn.com to contact our technical team if you experience any difficulties during installation
-- You can raise an issue to report bugs and suggestions on the GitHub page, [create issue](https://github.com/bible-technology/scribe-scripture-editor/issues)
+- You can raise an issue to report bugs and suggestions on the GitHub page ([create issue](https://github.com/bible-technology/scribe-scripture-editor/issues))
 <!-- - To ensure your system supports the target language, download the needed **font** on your device.  -->
 - Use full screen for effective use of the application

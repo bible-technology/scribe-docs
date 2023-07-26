@@ -5,8 +5,8 @@ title: App Language
 ---
 **How to use App Language**
 
-- Go to the **profile** icon on the top right side of the screen 
-- Click and select  **'your profile'**
+- Go to the **Profile** icon on the top right side of the screen 
+- Click and select  **Your Profile**
 - Choose the language you want to work in from the App language drop-down menu
 
 **Scribe supports the following languages**

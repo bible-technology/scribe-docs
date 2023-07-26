@@ -1,7 +1,7 @@
 ---
 id: p3-7-backup
-sidebar_label: Backup
-title: Backup
+sidebar_label: Sync Backup
+title: Sync Backup
 ---
 
 **It enables the user to store all project data on the remote server and protects against data loss.**
@@ -26,7 +26,7 @@ title: Backup
 - Select the project you wish to work on, from the **SYNC** pane
 - After selecting the desired project click the **CLOUD SYNC** button on the SYNC pane 
 - A progress bar will appear, showing the status and completion of the **sync** process
-- Once the project is successfully synced, it will be listed at the bottom of the CLOUD PROJECTS pane
+- Once the project is successfully synced, it will be listed at the bottom of the **CLOUD PROJECTS** pane
 
 <video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4"/>
 

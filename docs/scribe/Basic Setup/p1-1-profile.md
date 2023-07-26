@@ -6,8 +6,8 @@ title: Profile
 
 **Profile** page has the all the information about the user. All data input is optional and is stored locally on your computer.
 
-- On the projects page, on the top right side there is a **profile** icon
-- Click on your **profile** to add necessary information
+- On the projects page, on the top right side there is a **Profile** icon
+- Click on your **Profile** to add necessary information
 - Click **Save** button to save the information
 
 

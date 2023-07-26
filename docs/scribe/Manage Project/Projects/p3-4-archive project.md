@@ -6,7 +6,7 @@ title: Archive Project
 
 **Scribe** discourages deletion to prevent any inadvertent data loss. As an alternative, it allows users to Archive projects which would not show up in the main listing of projects anymore. Archived projects maybe restored at any point. Though discouraged, power users may delete archived projects completely from the disk location outside the application. Backups of the archived projects are maintained by **scribe**.
 
-**Steps to archive the project:**
+**Steps to archive the project**
 - Select a project from the list to **Archive**
 - Click the downward pointing arrow to see a dropdown menu with the project description
 - Click on the three dots menu with options

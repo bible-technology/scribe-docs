@@ -1,9 +1,9 @@
 ---
 id: p3-6-sync
-sidebar_label: Sync
-title: Sync
+sidebar_label: Sync Collabration
+title: Sync Collabration
 ---
-**It enables the user to store all project data on the remote server and protects against data loss.**
+**It enables multiple user to Collabrate remotely**
 
 <p><h2>Login to the DOOR43 server</h2></p>
 
@@ -25,7 +25,7 @@ title: Sync
 - Select the project you wish to work on, from the **SYNC** pane
 - After selecting the desired project click the **CLOUD SYNC** button on the SYNC pane 
 - A progress bar will appear, showing the status and completion of the **sync** process
-- Once the project is successfully synced, it will be listed at the bottom of the CLOUD PROJECTS pane
+- Once the project is successfully synced, it will be listed at the bottom of the **CLOUD PROJECTS** pane
 
 <video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4"/>
 
@@ -55,7 +55,7 @@ title: Sync
 
 - The project owner has to login to DOOR43, https://git.door43.org/
 - Select the Project to **collaborate**
-- Click on the collaborator tab
+- Click on the **collaborator** tab
 - Add the names of the collaborators
 - Select **Add Collaborator**
 - Give access to the collaborator either as **Administrator, Write, or Read**
