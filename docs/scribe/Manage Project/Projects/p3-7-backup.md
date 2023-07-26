@@ -8,6 +8,7 @@ title: Backup
 
 <p><h2>Login to the DOOR43 server</h2></p>
  
+
 **Steps**
 
 - Click on the **SYNC** button On the left side of the screen
