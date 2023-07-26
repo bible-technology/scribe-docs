@@ -42,8 +42,8 @@ module.exports = {
             "scribe/Manage Project/Projects/p3-3-import project",
             "scribe/Manage Project/Projects/p3-4-archive project",
             "scribe/Manage Project/Projects/p3-5-export project",
-            "scribe/Manage Project/Projects/p3-6-backup and sync",
-            // "scribe/Manage Project/Projects/p3-7-Sync",
+            "scribe/Manage Project/Projects/p3-6-sync",
+            "scribe/Manage Project/Projects/p3-7-backup",
            
                   
           ],
@@ -71,24 +71,24 @@ module.exports = {
           ],
         },
         {
-          "Text Bible Translation": [
-            "scribe/Modes/Text Bible Translation/p6-1-editing text",
-             "scribe/Modes/Text Bible Translation/p6-2-navigationlock",
-             "scribe/Modes/Text Bible Translation/p6-3-bookmarks",
+          "Text Bible Translation ( BT )": [
+            "scribe/Modes/Text Bible Translation ( BT )/p6-1-editing text",
+             "scribe/Modes/Text Bible Translation ( BT )/p6-2-navigationlock",
+             "scribe/Modes/Text Bible Translation ( BT )/p6-3-bookmarks",
            
           ],
         },
         {
-          "Oral Bible Translation": [
-            "scribe/Modes/Oral Bible Translation/p7-1-audio toolbar",           
+          "Oral Bible Translation ( OBT )": [
+            "scribe/Modes/Oral Bible Translation ( OBT )/p7-1-audio toolbar",           
            
           ],
         },
 
 
         {
-          "OBS": [
-            "scribe/Modes/OBS/p8-1-drafting",
+          "Open Bible Stories ( OBS )": [
+            "scribe/Modes/Open Bible Stories ( OBS )/p8-1-drafting",
                        
           ],
         },

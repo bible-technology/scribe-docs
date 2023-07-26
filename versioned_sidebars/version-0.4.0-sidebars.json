@@ -36,7 +36,8 @@
             "scribe/Manage Project/Projects/p3-3-import project",
             "scribe/Manage Project/Projects/p3-4-archive project",
             "scribe/Manage Project/Projects/p3-5-export project",
-            "scribe/Manage Project/Projects/p3-6-backup and sync"
+            "scribe/Manage Project/Projects/p3-6-sync",
+            "scribe/Manage Project/Projects/p3-7-backup"
           ]
         }
       ]

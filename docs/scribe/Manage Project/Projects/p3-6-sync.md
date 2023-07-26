@@ -1,7 +1,7 @@
 ---
-id: p3-6-backup and sync
-sidebar_label: Backup and Sync
-title: Backup and Sync
+id: p3-6-sync
+sidebar_label: Sync
+title: Sync
 ---
 **It enables the user to store all project data on the remote server and protects against data loss.**
 
@@ -127,21 +127,3 @@ The user can **Sync** a project from the server to the local system. Ensure that
 - (You can undo the merging process by clicking the undo button before counting down to an end)
 - This will merge a project from the server
 <video controls src="/assets/merge.mov" width="100%" type="video/mov"/>
-
-
-<p><h2>Creating a backup when merging a project from the server</h2></p>
-
-**Steps**
-
-- Go to the folder **Appdata** in the system setting
-- Open your project backup folder to see your backups
-- To retrieve the previous data, copy and paste the data into the project folder
- 
-<video controls src="/assets/backups.mov" width="100%" type="video/mov"/>
-<p> </p>
-
-*Note*
- - When we perform a **Sync** merge operation, a backup is added to the backup folder, and the maximum number of backups is currently 5, with the older backups being rolled out from the list
- - An error for conflicting project data may occur when importing projects back into Scribe. Scribe does not handle it automatically
- - When the user receives an error message, it must be resolved by the user
- 
