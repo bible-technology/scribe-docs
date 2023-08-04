@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "0.2.0",
+    "description": "The label for version 0.2.0"
+  },
+  "sidebar.scribe.category.About this guide": {
+    "message": "About this guide",
+    "description": "The label for category About this guide in sidebar scribe"
+  },
+  "sidebar.scribe.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar scribe"
+  },
+  "sidebar.scribe.category.How To": {
+    "message": "How To",
+    "description": "The label for category How To in sidebar scribe"
+  },
+  "sidebar.scribe.category.Project Listing": {
+    "message": "Project Listing",
+    "description": "The label for category Project Listing in sidebar scribe"
+  },
+  "sidebar.scribe.category.Text Translation Mode": {
+    "message": "Text Translation Mode",
+    "description": "The label for category Text Translation Mode in sidebar scribe"
+  },
+  "sidebar.scribe.category.OBS Translation Mode": {
+    "message": "OBS Translation Mode",
+    "description": "The label for category OBS Translation Mode in sidebar scribe"
+  },
+  "sidebar.scribe.category.Audio Translate Mode": {
+    "message": "Audio Translate Mode",
+    "description": "The label for category Audio Translate Mode in sidebar scribe"
+  },
+  "sidebar.scribe.category.Scribe Functions": {
+    "message": "Scribe Functions",
+    "description": "The label for category Scribe Functions in sidebar scribe"
+  },
+  "sidebar.scribe.doc.More Information": {
+    "message": "More Information",
+    "description": "The label for the doc item More Information in sidebar scribe, linking to the doc scribe/p3-more-info"
+  }
+}

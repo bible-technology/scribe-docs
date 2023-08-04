@@ -24,7 +24,15 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'hi'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      hi: {
+        label: 'Hindi',
+      },
+    },
   },
 
   presets: [
@@ -98,6 +106,10 @@ const config = {
           position: 'right',
           dropdownItemsAfter: [{ to: '/versions', label: 'All versions' }],
           dropdownActiveClassDisabled: true,
+        },
+        {
+          type: 'localeDropdown',
+          position: 'right',
         },
         {
 					href: 'https://github.com/bible-technology/scribe-docs',
