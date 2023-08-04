@@ -4,7 +4,7 @@ sidebar_label:  System Requirements
 title: System Requirements
 ---
 
-Supported System
+**Supported System**
 
 **Scribe** is supported by the following operating systems
 
