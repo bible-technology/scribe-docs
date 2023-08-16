@@ -8,7 +8,11 @@ slug: '/'
 
 
 
+:::tip Features Introduced in version 0.5.0
 
+[Offline Merge / Conflict Resolve](../Manage%20Project/Projects/p3-4-offlinemerge.md)
+
+:::
 
 **Scribe Scripture Editor** is an easy-to-use Bible translation tool designed to empower mother tongue translators to quickly and efficiently complete various tasks related to Bible translation with minimal training.
 
