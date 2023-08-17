@@ -39,11 +39,12 @@ module.exports = {
            
             "scribe/Manage Project/Projects/p3-1-projects",
             "scribe/Manage Project/Projects/p3-2-edit project details",
-            "scribe/Manage Project/Projects/p3-3-import project",
-            "scribe/Manage Project/Projects/p3-4-archive project",
-            "scribe/Manage Project/Projects/p3-5-export project",
-            "scribe/Manage Project/Projects/p3-6-sync",
-            "scribe/Manage Project/Projects/p3-7-backup",
+            "scribe/Manage Project/Projects/p3-3-importproject",
+            "scribe/Manage Project/Projects/p3-4-offlinemerge",
+            "scribe/Manage Project/Projects/p3-5-archive project",
+            "scribe/Manage Project/Projects/p3-6-export project",
+            "scribe/Manage Project/Projects/p3-7-sync",
+            "scribe/Manage Project/Projects/p3-8-backup",
            
                   
           ],
