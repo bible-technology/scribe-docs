@@ -24,7 +24,15 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'hi'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      hi: {
+        label: 'Hindi',
+      },
+    },
   },
 
   presets: [
@@ -34,13 +42,21 @@ const config = {
       ({
         docs: {
           //disableVersioning: true,
+          routeBasePath: '/',
+      
           sidebarPath: require.resolve('./sidebars.js'),
           lastVersion: 'current',
           versions: {
              current: {
                label: '0.5.0'
                 },
+                              
+                
             },
+
+           
+            
+            
           
           // // REMOVE WHEN VERSIONING 2.0.0
           // // lastVersion: 'current',
@@ -59,6 +75,7 @@ const config = {
           editUrl:
 						'https://github.com/friendsofagape/autographa-docs/edit/v2/',
         },
+        
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -84,11 +101,13 @@ const config = {
       hideOnScroll: false,
       items: [
         {
-          to: '/docs',
+          to: '/',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
         },
+
+
         {
           type: 'search',
           position: 'right',
@@ -98,6 +117,10 @@ const config = {
           position: 'right',
           dropdownItemsAfter: [{ to: '/versions', label: 'All versions' }],
           dropdownActiveClassDisabled: true,
+        },
+        {
+          type: 'localeDropdown',
+          position: 'right',
         },
         {
 					href: 'https://github.com/bible-technology/scribe-docs',

@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "स्क्राइब",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "प्रलेखन",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.GitHub": {
+    "message": "गिटहब",
+    "description": "Navbar item with label GitHub"
+  }
+}
