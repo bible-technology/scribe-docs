@@ -22,4 +22,4 @@ title: ऐप भाषा
 - नेपाली
 - परिवर्तनों को सहेजने के लिए **सहेजें **बटन पर क्लिक करें
 
-<img src="../assets/applanguage.png"  width="1000px" alt="परियोजना सूचीकरण" />
+<img src="/assets/applanguage.png"  width="1000px" alt="परियोजना सूचीकरण" />

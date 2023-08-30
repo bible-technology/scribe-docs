@@ -72,8 +72,8 @@ const config = {
           //   // },
           //   // TILL HERE
           // },
-          editUrl:
-						'https://github.com/friendsofagape/autographa-docs/edit/v2/',
+          // editUrl:
+					// 	'https://github.com/friendsofagape/autographa-docs/edit/v2/',
         },
         
         theme: {
