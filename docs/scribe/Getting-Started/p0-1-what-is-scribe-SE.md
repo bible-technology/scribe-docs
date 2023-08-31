@@ -8,7 +8,7 @@ slug: '/'
 
 
 
-:::tip Features Introduced in version 0.5.0
+:::tip Features Introduced in version 0.5.1
 
 [Offline Merge / Conflict Resolve](../Manage%20Project/Projects/p3-4-offlinemerge.md)
 
