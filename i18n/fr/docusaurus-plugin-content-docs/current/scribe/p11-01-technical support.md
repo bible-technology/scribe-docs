@@ -1,8 +1,9 @@
 ---
 id: p11-1-technical support
-sidebar_label: Technical Support
-title: Technical Support
+sidebar_label: Support Technique
+title: Support Technique
 ---
-Our Technical Support Team is available to answer any question or concern regarding **Scribe**. You can report an issue or ask a query about **Scribe** by emailing us at scribe@bridgeconn.com. If you are registered as a GitHub user, you may raise an issue on GitHub after logging in with your credentials here: https://github.com/bible-technology/scribe-scripture-editor/issues.
 
-We track any issue or query reported via GitHub, and you can explore the development team’s current work at https://github.com/bible-technology/scribe-scripture-editor. All contributions are welcome!
+Notre équipe de support technique est à votre disposition pour répondre à toute question ou préoccupation concernant **Scribe**. Vous pouvez signaler un problème ou demander une requête à propos de **Scribe** en nous envoyant un e-mail à scribe@bridgeconn.com. Si vous êtes enregistré en tant qu'utilisateur GitHub, vous pouvez soulever un problème sur GitHub après vous être connecté avec vos identifiants ici : https://github.com/bible-technology/scribe-scripture-editor/issues.
+
+Nous suivons tout problème ou requête signalé via GitHub, et vous pouvez explorer le travail actuel de l'équipe de développement sur https://github.com/bible-technology/scribe-scripture-editor. Toutes les contributions sont les bienvenues!

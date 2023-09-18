@@ -1,18 +1,19 @@
 ---
 id: p4-1-overview
-sidebar_label: Overview
-title: Overview
+sidebar_label: Vue d'ensemble
+title: Vue d'ensemble
 ---
-Scribes enables the translators to translate in three modes.
 
-**Text Bible Translation** 
+Scribes permet aux traducteurs de traduire en trois modes.
 
-This mode, allows the translator to do a text translation from the Source Text (source language) to the Target Language. Translators can also access and compare different versions of the Bible in the resource pane, including Translation Notes, Translation Words, Translation Words List, Translation Questions, and Translation Academy.
+**Traduction de la Bible textuelle**
 
-**Oral Bible Translation (Audio)**
+Ce mode permet au traducteur d'effectuer une traduction du texte source (langue source) vers la langue cible. Les traducteurs peuvent également accéder et comparer différentes versions de la Bible dans le volet de ressource, y compris les notes de traduction, les mots de traduction, la liste des mots de traduction, les questions de traduction et l'académie de traduction.
 
-This mode allows the translator to translate from the Audio Source and Text (Gateway language) to the Target Language in Audio form. Additionally this mode also allows the translator to refer to and compare different versions of the Audio and Text Bibles and other necessary translation aids in the resource pane; namely Translation Notes, Translation Words List, Translation Words, Translation Questions, and Translation Academy.
+**Traduction orale (Audio)**
 
-**Open Bible Stories (OBS)**
+Ce mode permet au traducteur de traduire de la source audio et du texte (langue Gateway) vers la langue cible sous forme audio. Les traducteurs peuvent également accéder et comparer différentes versions de la Bible dans le volet de ressource, y compris les notes de traduction, les mots de traduction, la liste des mots de traduction, les questions de traduction et l'académie de traduction.
 
-This translation mode enables translators to translate Open Bible Stories from various Gateway languages such as Tamil, Hindi, Malayalam, Kannada, and others into the target language in text form. It also provides access to multiple versions of Audio and Text Bibles, Open Bible Stories in different languages, and other helpful translation resources in the resource pane. These resources include OBS Translation Notes, OBS Translation Questions, and OBS Translation Words Lists, allowing translators to refer to and compare them as required.
+**Histoires bibliques ouvertes (OBS)**
+
+Ce mode de traduction permet aux traducteurs de traduire des histoires bibliques ouvertes à partir de différentes langues de la passerelle telles que le tamoul, Hindi, Malayalam, Kannada et d'autres dans la langue cible sous forme de texte. Il fournit également un accès à plusieurs versions de Bibles Audio et Texte Ouvrir des histoires bibliques dans différentes langues, et d'autres ressources de traduction utiles dans le panneau de ressources. Ces ressources incluent les notes de traduction d'OBS, les questions de traduction d'OBS et les listes de mots de traduction d'OBS, permettant aux traducteurs de les consulter et de les comparer si nécessaire.
