@@ -10,4 +10,4 @@ title: Taille de police
 - Sélectionnez la petite lettre A pour réduire la taille de la police
 - Sélectionnez la grande lettre A pour agrandir la taille de la police
 
-<video controls src="/assets/change-font.mov" width="100%" type="video/mov">
+<!-- <video controls src="/assets/change-font.mov" width="100%" type="video/mov"> -->

@@ -15,7 +15,7 @@ L'utilisateur peut enregistrer l'**Audio** du texte traduit en utilisant l'outil
 -   Une fois l’enregistrement terminé, l’utilisateur peut lire<img src="/assets/play.png" width="20px" alt=""/>, mettre en pause<img src="/assets/pause.png" width="20px" alt=""/>, rembobiner<img src="/assets/rewind.png" width="20px" alt=""/>et également effacer<img src="/assets/delete.png" width="20px" alt=""/> le fichier enregistré
 -   En utilisant une interface utilisateur simple, on peut contrôler le volume<img src="/assets/volume.png" width="80px" alt=""/> de l'audio et la vitesse de lecture<img src="/assets/speed.png" width="20px" alt=""/>
 
-<video controls src="/assets/Audio.mov" width="100%" type="video/mov"/>
+<!-- <video controls src="/assets/Audio.mov" width="100%" type="video/mov"/> -->
 
 **Barre d'outils d'enregistrement**
 
@@ -54,4 +54,4 @@ Pour démarrer l'enregistrement en mode **Audio**, l'utilisateur verra un ruban 
 -   Spécifiez le **chemin** où le fichier doit être exporté
 -   Cliquez sur **Exporter** après avoir sélectionné l'option
 
-<video controls src="/assets/export_audio.mov" width="100%" type="video/mov"/>
+<!-- <video controls src="/assets/export_audio.mov" width="100%" type="video/mov"/> -->

@@ -26,7 +26,7 @@ Sur la page **Nouveau projet** , l'utilisateur peut créer différents modes de 
   - **Scribe** prend également en charge les ressources TSV dans les notes de traduction OBS
 
 
-<video controls src="/assets/creating-project.mov" width="100%" type="video/mov">
+<!-- <video controls src="/assets/creating-project.mov" width="100%" type="video/mov"> -->
 
 <h2> Ajouter une nouvelle langue </h2>
 
@@ -40,7 +40,7 @@ Si la langue désirée n'est pas listée dans le menu déroulant de la langue ci
 - Choisir la direction du script **(RTL ou LTR)**
 - Cliquez sur le bouton **CRÉER**
 
-<video controls src="/assets/adding-new-language.mov" width="100%" type="video/mov">
+<!-- <video controls src="/assets/adding-new-language.mov" width="100%" type="video/mov"> -->
 
 
     

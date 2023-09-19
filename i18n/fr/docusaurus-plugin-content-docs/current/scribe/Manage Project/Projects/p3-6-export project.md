@@ -1,5 +1,5 @@
 ---
-id: p3-5-export project
+id: p3-6-export project
 sidebar_label: Exporter projet
 title: Exporter projet
 ---
@@ -18,4 +18,4 @@ title: Exporter projet
 - Après une exportation réussie, une notification apparaîtra en bas à gauche de l'écran, confirmant que le projet a été exporté avec succès
 
 
-<video controls src="/assets/exportfile.mov" width="100%" type="video/mov">
+<!-- <video controls src="/assets/exportfile.mov" width="100%" type="video/mov"> -->

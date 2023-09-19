@@ -18,7 +18,7 @@ title: Ébauche
 
 **Scribe** permet d'accéder à diverses ressources pour référence telles que les histoires bibliques ouvertes, les notes de traduction d'OBS, les questions de traduction d'OBS et la liste des mots de traduction d'OBS.
 
-<video controls src="/assets/obsdraft.mov" width="100%" type="video/mp4"/>
+<!-- <video controls src="/assets/obsdraft.mov" width="100%" type="video/mp4"/> -->
 
 **Étapes pour télécharger des ressources pour référence**
 

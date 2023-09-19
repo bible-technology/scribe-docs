@@ -1,5 +1,5 @@
 ---
-id: p3-4-archive project
+id: p3-5-archive project
 sidebar_label: Archiver le projet
 title: Archiver le projet
 ---
@@ -24,5 +24,5 @@ title: Archiver le projet
 
 L'archive apparaît dans la barre latérale une fois que vous archivez au moins une note. Les notes dans l'archive n'apparaissent pas dans les résultats de recherche ailleurs, mais vous pouvez sélectionner la section Archive et rechercher ses notes. Si vous l'avez fait, les notes archivées seront synchronisées entre vos appareils.
 
-<video controls src="/assets/softdelete.mov" width="100%" type="video/mov">
+<!-- <video controls src="/assets/softdelete.mov" width="100%" type="video/mov"> -->
 

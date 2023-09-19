@@ -65,12 +65,12 @@ Cette catégorie de ressources contient des questions qui sont conçues pour aid
 
 L'Académie de traduction est une ressource d'information et d'instruction sur la traduction biblique pour les traducteurs.
 
-<video controls src="/assets/resource-types.mov" width="100%" type="video/mov">
+<!-- <video controls src="/assets/resource-types.mov" width="100%" type="video/mov"> -->
 
 Pour importer une ressource, suivez les étapes ci-dessous.
 
 
-<video controls src="/assets/import-resources.mov" width="100%" type="video/mov">
+<!-- <video controls src="/assets/import-resources.mov" width="100%" type="video/mov"> -->
 
 
 
@@ -113,4 +113,4 @@ Ces questions permettent aux traducteurs de déterminer si le sens voulu est cla
 Cette section offre une liste de termes bibliques clés. Pour importer une ressource, suivez les étapes ci-dessous.
 <p> </p>
 
-<video controls src="/assets/adding-resources.mov" width="100%" type="video/mov">
+<!-- <video controls src="/assets/adding-resources.mov" width="100%" type="video/mov"> -->
