@@ -17,6 +17,6 @@ Pour les trois modes, **Scribe** permet à l'utilisateur de comparer et de consu
 - Un volet d'édition s'ouvrira
 - Cliquez sur l'icône de mise en page en haut à droite du volet de l'éditeur pour ajouter la mise en page des ressources de référence
 
-<!-- <video controls src="/assets/add-columns.mov" width="100%" type="video/mov"> -->
+<video controls src="/assets/add-columns.mov" width="100%" type="video/mov"></video>
 
 

@@ -9,5 +9,5 @@ title: Notifications
   - Chaque type de notification aura une couleur différente
 
 Pour revenir à la page principale, cliquez sur la flèche <— en haut à gauche de l'écran.
-<!-- <img src="/AutographaV2-1-0/notification1.png"  width="1000px" alt="notification" />
-<img src="/AutographaV2-1-0/notification2.png"  width="1000px" alt="notification" /> -->
+<img src="/AutographaV2-1-0/notification1.png"  width="1000px" alt="notification" />
+<img src="/AutographaV2-1-0/notification2.png"  width="1000px" alt="notification" />
