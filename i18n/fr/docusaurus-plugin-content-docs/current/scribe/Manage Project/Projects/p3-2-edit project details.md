@@ -11,7 +11,7 @@ title: Editer les Détails de Projet
 - Puis sélectionnez **Modifier**
 - Vous serez dirigé vers la page Modifier le projet, où vous pourrez apporter les modifications nécessaires
 
-<!-- <video controls src="/assets/editing-project.mov" width="100%" type="video/mov"> -->
+<video controls src="/assets/editing-project.mov" width="100%" type="video/mov"></video>
 
 En suivant la liste précédente des instructions, vous serez dirigé vers la page **Modifier le projet** de l'application.
 

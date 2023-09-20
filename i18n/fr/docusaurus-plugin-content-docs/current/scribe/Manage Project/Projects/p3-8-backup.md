@@ -15,7 +15,7 @@ title: Synchroniser la sauvegarde
 - L'utilisateur reçoit un lien dans l'identifiant de courriel fourni
 - Cliquez sur le lien et confirmez à nouveau le mot de passe pour activer le compte utilisateur
 - Maintenant, connectez-vous avec le nom d'utilisateur et le mot de passe sur la **Sribe Synchroniser page**
-<!-- <video controls src="/assets/Logintotheserver.mov" width="100%" type="video/mov"> -->
+<video controls src="/assets/Logintotheserver.mov" width="100%" type="video/mov"></video>
 
 <p><h2>Synchronisation dans le Cloud</h2></p>
 
@@ -27,7 +27,7 @@ title: Synchroniser la sauvegarde
 - Une barre de progression va apparaître, montrant l'état et la finalisation du processus **Synchronisation**
 - Une fois le projet synchronisé avec succès, il sera listé au bas du volet **Projets sur le cloud**
 
-<!-- <video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4"> -->
+<video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4"></video>
 
 <p><h2>Créer une sauvegarde lors de la fusion d'un projet à partir du serveur</h2></p>
 
@@ -39,7 +39,7 @@ title: Synchroniser la sauvegarde
 - Ouvrez le dossier de sauvegarde de votre projet pour voir vos sauvegardes
 - Pour récupérer les données précédentes, copiez et collez les données dans le dossier projet
 
-<!-- <video controls src="/assets/backups.mov" width="100%" type="video/mov"> -->
+<video controls src="/assets/backups.mov" width="100%" type="video/mov"></video>
 <p> </p>
 
 *Note*

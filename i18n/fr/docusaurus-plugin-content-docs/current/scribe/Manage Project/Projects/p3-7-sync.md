@@ -71,7 +71,7 @@ title: Synchroniser la collaboration
 - Une notification indiquant 'Synchronisation du projet au scribe réussie' apparaîtra en bas à gauche
 - Le projet a été mis en place pour le travail
 
-<!-- <video controls src="/assets/collabsync.mov" width="100%" type="video/mp4"> -->
+<video controls src="/assets/collabsync.mov" width="100%" type="video/mp4"></video>
 
 
 

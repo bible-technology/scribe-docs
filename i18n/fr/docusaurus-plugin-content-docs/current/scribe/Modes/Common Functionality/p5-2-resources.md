@@ -65,12 +65,12 @@ Cette catégorie de ressources contient des questions qui sont conçues pour aid
 
 L'Académie de traduction est une ressource d'information et d'instruction sur la traduction biblique pour les traducteurs.
 
-<!-- <video controls src="/assets/resource-types.mov" width="100%" type="video/mov"> -->
+<video controls src="/assets/resource-types.mov" width="100%" type="video/mov"></video>
 
 Pour importer une ressource, suivez les étapes ci-dessous.
 
 
-<!-- <video controls src="/assets/import-resources.mov" width="100%" type="video/mov"> -->
+<video controls src="/assets/import-resources.mov" width="100%" type="video/mov"></video>
 
 
 
@@ -83,7 +83,7 @@ Il y a trois onglets une fois que vous cliquez sur la Bible:
 
 **OBS, RESSOURCE, COLLECTION**
 
-**<i>Pour télécharger l'histoire biblique de votre choix,</i>** ****
+**<i>Pour télécharger l'histoire biblique de votre choix</i>**
 
 - Cliquez sur l'onglet *Ressource*
 - Choisissez l'histoire que vous souhaitez télécharger
@@ -91,7 +91,9 @@ Il y a trois onglets une fois que vous cliquez sur la Bible:
 
 L'histoire biblique téléchargée apparaîtra en haut de la liste. Cela vous permet de garder une trace des ressources qui ont été téléchargées. Vous pouvez également choisir une histoire biblique en entrant des informations telles que la langue et tapez dans la fenêtre fournie dans la section Ressources. En cliquant sur l’onglet OBS, vous pourrez accéder à l’histoire biblique téléchargée pour référence.
 
-**<i>Pour télécharger la Bible de votre choix,</i>**  **RESSOURCE**
+**<i>Pour télécharger la Bible de votre choix</i>** 
+
+**RESSOURCE**
 
 Vous pouvez également vous référer aux ressources de votre ordinateur local en les téléchargeant vers **Scribe**.
 
@@ -113,4 +115,4 @@ Ces questions permettent aux traducteurs de déterminer si le sens voulu est cla
 Cette section offre une liste de termes bibliques clés. Pour importer une ressource, suivez les étapes ci-dessous.
 <p> </p>
 
-<!-- <video controls src="/assets/adding-resources.mov" width="100%" type="video/mov"> -->
+<video controls src="/assets/adding-resources.mov" width="100%" type="video/mov"></video>

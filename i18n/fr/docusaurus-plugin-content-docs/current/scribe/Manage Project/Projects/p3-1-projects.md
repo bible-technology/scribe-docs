@@ -31,4 +31,4 @@ Les projets dans Scribe peuvent être triés de la manière suivante.
 -   Arôme (Il regroupe les mêmes saveurs après le tri)
 -   Date de création (modifie les projets des anciens aux nouveaux et anciens, en fonction de la date de leur création.)
 -   Dernière vue (Organise les projets par ordre de dernière vue sur la vue récente et vice versa)
-<!-- <video controls src="/assets/serachsort.mov" width="100%" type="video/mov"/> -->
+<video controls src="/assets/serachsort.mov" width="100%" type="video/mov"></video>

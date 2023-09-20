@@ -13,5 +13,5 @@ Le bouton **Synchroniser** permet aux utilisateurs de synchroniser le projet dan
     - Si l'utilisateur n'est pas connecté en Allez à la page de synchronisation principale Connectez-vous au compte Door 43
     - Si déjà connecté à Choisissez le nom d'utilisateur pour la porte 43 Cliquez sur le bouton Synchroniser
 
-<!-- <video controls src="/assets/projectsync.mov" width="100%" type="video/mp4"> -->
+<video controls src="/assets/projectsync.mov" width="100%" type="video/mp4"></video>
 

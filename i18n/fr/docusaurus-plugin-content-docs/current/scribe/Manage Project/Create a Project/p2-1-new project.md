@@ -40,7 +40,7 @@ Si la langue désirée n'est pas listée dans le menu déroulant de la langue ci
 - Choisir la direction du script **(RTL ou LTR)**
 - Cliquez sur le bouton **CRÉER**
 
-<!-- <video controls src="/assets/adding-new-language.mov" width="100%" type="video/mov"> -->
+<video controls src="/assets/adding-new-language.mov" width="100%" type="video/mov"></video>
 
 
     
