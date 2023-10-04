@@ -51,7 +51,7 @@ const config = {
           lastVersion: 'current',
           versions: {
              current: {
-               label: '0.5.0',
+               label: '0.5.1',
                badge:false
                 },
                               
