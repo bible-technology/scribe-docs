@@ -10,6 +10,4 @@ title: Profile
 - Click on your **Profile** to add necessary information
 - Click **Save** button to save the information
 
-
-
-<video controls src="/assets/profile.mov" width="100%" type="video/mov"/>
+<video controls src="/assets/profile.mov" width="100%" type="video/mov"></video>
