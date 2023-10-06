@@ -26,7 +26,6 @@ La fusion hors ligne fait référence au processus de fusion des modifications d
  <h2> Étapes pour résoudre les conflits </h2>
 
 **La page Résoudre les conflits s'affiche lorsqu'un utilisateur sélectionne l'option Fusionner.**
-
 - Une liste de fichiers avec des conflits apparaît dans la partie gauche du volet
 - Les sections/paras individuels peuvent être vus dans le volet de l'éditeur. Les conflits s'afficheront avec les nôtres en rouge et les leurs en vert.
 - Sélectionnez l'une des options proposées au-dessus de la section pour confirmer ( )

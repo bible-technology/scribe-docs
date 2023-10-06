@@ -47,7 +47,7 @@ title: Synchroniser la collaboration
 
 
 
-<n>## Contribuer à un projet partagé</n>
+<h3>Contribuer à un projet partagé</h3>
 
 **Étapes**
 
