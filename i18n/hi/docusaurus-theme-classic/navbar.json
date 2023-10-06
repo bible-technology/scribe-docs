@@ -8,7 +8,7 @@
     "description": "Navbar item with label Docs"
   },
   "item.label.GitHub": {
-    "message": "गिटहब",
+    "message": "GitHub",
     "description": "Navbar item with label GitHub"
   }
 }
