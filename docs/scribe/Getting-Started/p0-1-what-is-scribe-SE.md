@@ -8,9 +8,10 @@ slug: '/'
 
 
 
-:::tip Features Introduced in version 0.5.1
+:::tip Features Introduced in version 0.5.2
 
-[Offline Merge / Conflict Resolve](../Manage%20Project/Projects/p3-4-offlinemerge.md)
+
+[Shortcut keys for Audio recording](../Modes/Oral%20Bible%20Translation/p7-1-audio%20toolbar.mdx)
 
 :::
 
