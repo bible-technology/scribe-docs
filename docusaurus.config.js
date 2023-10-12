@@ -54,8 +54,6 @@ const config = {
                label: '0.5.2',
                badge: false
                 },
-                              
-                
             },
 
            
