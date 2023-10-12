@@ -21,7 +21,7 @@ La fusion hors ligne fait référence au processus de fusion des modifications d
 - S'il y a un conflit dans le projet
 - L'utilisateur sera redirigé vers le volet Résoudre les conflits
 - Supposons que l'utilisateur décide d'abandonner l'action Résoudre le conflit. Cliquez sur le symbole de fermeture (x) dans le coin supérieur droit. Cela fera apparaître une fenêtre d'abandon de la résolution du conflit.
-<video controls src="/assets/replaceandmerge.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.2/replaceandmerge.mov" width="100%" type="video/mov"></video>
 
  <h2> Étapes pour résoudre les conflits </h2>
 
@@ -29,19 +29,19 @@ La fusion hors ligne fait référence au processus de fusion des modifications d
 - Une liste de fichiers avec des conflits apparaît dans la partie gauche du volet
 - Les sections/paras individuels peuvent être vus dans le volet de l'éditeur. Les conflits s'afficheront avec les nôtres en rouge et les leurs en vert.
 - Sélectionnez l'une des options proposées au-dessus de la section pour confirmer ( )
-  - Le nôtre (l'utilisateur l'a déjà dans le projet)
-  - Le leur (ce que nous obtenons du projet importé)
-  - Les deux (combine le nôtre et le leur)
+  - originale (l'utilisateur l'a déjà dans le projet)
+  - nouvelle (ce que nous obtenons du projet importé)
+  - Les deux (combine originale et nouvelle)
 - Si l'utilisateur décide d'annuler l'action, cliquez sur Réinitialiser au-dessus de la section individuelle.
 **En haut à droite, il y a des choix pour résoudre les conflits globaux pour le fichier actif (ex : 1.md, pour le fichier concurrent)**
 
-- **Tous les nôtres** (tous les conflits seront résolus avec notre changement)
-- **Tous les leurs** (tous les conflits seront résolus avec leur changement)
-- **Tous les deux** (combine Tous les nôtres et Tous les leurs)
+- **originale** (tous les conflits seront résolus avec notre changement)
+- **nouvelle** (tous les conflits seront résolus avec leur changement)
+- **Les deux** (combine originale et nouvelle)
 - Après avoir résolu tous les conflits, le bouton **Réinitialiser tout** sera activé pour réinitialiser les modifications actuelles à l'état initial.
 - Une fois tous les conflits résolus
 - Cliquez sur le bouton **Enregistrer**
 - Dans la partie gauche du volet, le fichier résolu est marqué barré, indiquant qu'il a été résolu.
 - Une fois tous les conflits résolus, un bouton **apparaîtra indiquant Tous les conflits résolus : Terminer, cliquez pour terminer le processus**
 
-<video controls src="/assets/conflictresolve.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.2/conflictresolve.mov" width="100%" type="video/mov"></video>
