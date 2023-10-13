@@ -32,7 +32,7 @@ La fusion hors ligne fait référence au processus de fusion des modifications d
 - Une liste de fichiers avec des conflits apparaît dans la partie gauche du volet
 <img src="/0.5.2/resolve.PNG" width="100%" alt=""/>
 - Les sections/paras individuels peuvent être vus dans le volet de l'éditeur. Les conflits s'afficheront avec **Originale** en noire et **Nouvelle** en vert.
-- Sélectionnez l'une des options proposées au-dessus de la section pour confirmer ( <img src="/0.5.2/alloursalltheirs.PNG" width="20%" alt=""/>)
+- Sélectionnez l'une des options proposées au-dessus de la section pour confirmer ( <img src="/0.5.2/fr-conflicts.PNG" width="20%" alt=""/>)
   - **Originale** (l'utilisateur l'a déjà dans le projet)
   - **Nouvelle** (ce que nous obtenons du projet importé)
   - **Les deux** (combine originale et nouvelle)
