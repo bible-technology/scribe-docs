@@ -17,7 +17,7 @@ title: Importer un projet
 - Lors d'une importation de projet réussie, un message pop-up apparaîtra en bas à gauche, indiquant que le projet a été importé avec succès
 - Si le projet existe déjà, un message de vérification apparaîtra et vous demandera si vous voulez remplacer le fichier de projet existant. Si vous souhaitez écraser le fichier, cliquez sur **Remplacer**
 
-Remarque : **Scribe** permet d'importer **** et **Exporter** fichiers USFM (Unified Standard Format Markers) et fichiers MD. Scribe prend également en charge les ressources TSV dans les notes de traduction OBS
+Remarque : **Scribe** permet d'importer et **Exporter** fichiers USFM (Unified Standard Format Markers) et fichiers MD. Scribe prend également en charge les ressources TSV dans les notes de traduction OBS
 
 
 <video controls src="/assets/importbfile.mov" width="100%" type="video/mov"></video>
