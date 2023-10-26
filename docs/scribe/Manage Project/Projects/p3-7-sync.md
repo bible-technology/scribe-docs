@@ -15,7 +15,7 @@ title: Sync Collabration
 - The user recieves a link in the mail Id given
 - Click on the link and confirm the password again to activate the user account
 - Now, login with the username and password on the **Sribe Sync page**
-<video controls src="/assets/Logintotheserver.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.3/Logintotheserver.mov" width="100%" type="video/mov"/>
 
 <p><h2>Cloud Sync</h2></p>
 
@@ -23,11 +23,11 @@ title: Sync Collabration
 
 - Enter a valid username and password to access your DOOR 43 account 
 - Select the project you wish to work on, from the **SYNC** pane
-- After selecting the desired project click the **CLOUD SYNC** button on the SYNC pane 
+- After selecting the desired project click the **SAVE TO CLOUD** button on the SYNC pane 
 - A progress bar will appear, showing the status and completion of the **sync** process
 - Once the project is successfully synced, it will be listed at the bottom of the **CLOUD PROJECTS** pane
 
-<video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.3/cloudsync.mov" width="100%" type="video/mp4"/>
 
 
 
@@ -38,12 +38,12 @@ title: Sync Collabration
 - Enter a valid username and password to access your DOOR 43 account
 - In the CLOUD PROJECTS pane, enter the project owner's username in the specified field
 - Choose the project you wish to download to your local system
-- The selected project will be filtered, and the CLOUD PROJECTS pane will show the **OFFLINE SYNC** button
-- By clicking the **OFFLINE SYNC** button, you can download the project to your local system
+- The selected project will be filtered, and the CLOUD PROJECTS pane will show the **SAVE TO COMPUTER** button
+- By clicking the **SAVE TO COMPUTER** button, you can download the project to your local system
 - The downloaded project will appear in the **SYNC** pane 
 - To edit the downloaded project, navigate to the PROJECTS page and choose the downloaded project 
 
-<video controls src="/assets/offlinesync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.3/offlinesync.mov" width="100%" type="video/mp4"/>
 
 
 
@@ -66,12 +66,12 @@ title: Sync Collabration
 - Login to the DOOR43 account
 - The user/collaborator can then enter the project owner's name in the given field on the Sync page of Scribe
 - Select the project to work
-- Click on **offline sync** on the top right side 
+- Click on **SAVE TO COMPUTER** on the top right side 
 - The project will be synced to Scribe
 - A notification stating 'project sync to scribe successful' will appear in the bottom left side
 - The project has now been set up for work 
 
-<video controls src="/assets/collabsync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.3/collabsync.mov" width="100%" type="video/mp4"/>
 
 
 

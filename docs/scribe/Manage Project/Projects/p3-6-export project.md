@@ -18,4 +18,4 @@ title: Export project
 - After a successful export, a notification will appear at the bottom left side of the screen, confirming that the project has been exported successfully
 
 
-<video controls src="/assets/exportfile.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.3/exportfile.mov" width="100%" type="video/mov"/>
