@@ -11,7 +11,8 @@ title: Sync Collabration
 **Steps**
 
 - Click on the **SYNC** button On the left side of the screen
-- Click **Register Now**. Fill in all the fields on the DOOR43 registration page, then click **Register Account**
+- Click **Register Now**. 
+- Fill in all the fields on the DOOR43 registration page, then click **Register Account**
 - The user recieves a link in the mail Id given
 - Click on the link and confirm the password again to activate the user account
 - Now, login with the username and password on the **Sribe Sync page**
@@ -66,7 +67,7 @@ title: Sync Collabration
 - Login to the DOOR43 account
 - The user/collaborator can then enter the project owner's name in the given field on the Sync page of Scribe
 - Select the project to work
-- Click on **SAVE TO COMPUTER** on the top right side 
+- Click on **SAVE TO COMPUTER** button on the top right side of the screen 
 - The project will be synced to Scribe
 - A notification stating 'project sync to scribe successful' will appear in the bottom left side
 - The project has now been set up for work 
@@ -80,14 +81,14 @@ title: Sync Collabration
 **Steps**
 
 - Click on the **Sync** button on the left side of the window
- (If you are a new user, Create a new account in DOOR43)
-- Login to the DOOR43 account in the sync page
-- A list of all user projects will appear on the left of the sync window 
+- A list of all user projects will appear on the left of the sync window
+- If you are a new user, register into your DOOR43 account, or else log in to DOOR43
 - The right side of the screen will display all projects saved on the DOOR43 remote server
-- Drag and drop a project to the container placed on the right side of the screen
+- Select a project that you want to sync to the door43 remote server
+- Click on the **SAVE TO CLOUD** button on the top left side of the screen.
 - On the top of the screen, the user can see the uploading progress bar
 - The project will then be uploaded to the DOOR43 remote server and displayed to the user in the right-hand column of the screen
-<video controls src="/assets/syncaproject.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.3/syncaproject.mov" width="100%" type="video/mp4"/>
 
 <p><h2>Sync a project from the project module</h2></p>
 
@@ -99,7 +100,7 @@ A project can be directly synced by the user from the project module.
 - Click the **Sync** button
 - The uploading progress bar will be displayed at the top
 - (Login to the DOOR43 server if you are not done yet)
-<video controls src="/assets/projectsync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.3/projectsync.mov" width="100%" type="video/mp4"/>
 
 <p><h2>Sync back a project from the DOOR43 remote server</h2></p>
 
@@ -107,13 +108,16 @@ The user can **Sync** a project from the server to the local system. Ensure that
 
 **Steps**   
 
-- Click on the **Sync** button Login to the DOOR43 account on the right side of the column
-- It lists every project on the door 43 server
-- (The project should not be saved)
-- Drag and drop a project from the DOOR43 server list into the container on the left side of the screen
+- Click on the **Sync** button
+- Login to the DOOR43 account on the right side of the column
+- It lists every project on the DOOR43 server
+- Make sure that the project file is not in the local system, otherwise the project file will get merged into the local system
+- Click on the project that you want to sync back from the remote server to the local system
+- Click on the **SAVE TO COMPUTER** button on the top right side of the screen
+- The user can see the uploading progress bar
 - With this, a project will be synced back from the server
 
-<video controls src="/assets/syncback.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.3/syncback.mov" width="100%" type="video/mov"/>
 
 <p><h2>Merge a project from the DOOR43 remote server</h2></p>
 

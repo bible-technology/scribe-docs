@@ -17,6 +17,6 @@ For all three modes, **Scribe** enables the user to compare and refer to resourc
 - An editor pane will open up
 - Click on the layout icon in the upper right side of the editor pane to add the layout for reference resources
 
-<video controls src="/assets/add-columns.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.3/add-columns.mov" width="100%" type="video/mov"/>
 
 
