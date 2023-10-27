@@ -1,5 +1,5 @@
 ---
-id: p11-1-technical support
+id: p11-2-technical support
 sidebar_label: Support Technique
 title: Support Technique
 ---

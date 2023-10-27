@@ -6,7 +6,7 @@ title: Menu Bar
 
 The top navigation bar contains a menu on the left side, offering options such as File, Edit, and About.
 
-**FILE**
+### FILE ###
 
 The **File** menu is located on the top left side of the **Translation Column.**
 Click on the **File** feature to view your **bookmarks** or change the text font.
@@ -22,7 +22,7 @@ At the moment, **Scribe** only supports “S” editing or “Section Headings.�
 
 
 
-**ABOUT**
+### ABOUT ###
 
 The **About** feature is located on the top left side of the **Translation column**, next to the **Edit** feature. 
 The **About** feature provides information about **Scribe Scripture version** and discloses **Scribe’s license** and **source code.** 

@@ -130,6 +130,7 @@ const config = {
 					label: 'GitHub',
 					position: 'right',
 				},
+        
       ],
     },
     prism: {

@@ -6,7 +6,7 @@ title: Sync Backup
 
 **It enables the user to store all project data on the remote server and protects against data loss.**
 
-<p><h2>Login to the DOOR43 server</h2></p>
+### Login to the DOOR43 server ###
  
 
 **Steps**
@@ -18,7 +18,7 @@ title: Sync Backup
 - Now, login with the username and password on the **Sribe Sync page**
 <video controls src="/assets/Logintotheserver.mov" width="100%" type="video/mov"/>
 
-<p><h2>Cloud Sync</h2></p>
+### Cloud Sync ###
 
 **Steps**
 
@@ -30,7 +30,7 @@ title: Sync Backup
 
 <video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4"/>
 
-<p><h2>Creating a backup when merging a project from the server</h2></p>
+### Creating a backup when merging a project from the server ###
 
 **<i>This is for the project managers and administrators</i>**
 

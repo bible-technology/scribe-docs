@@ -6,7 +6,7 @@ title: Import Project
 
 **Scribe** provides users with the functionality to import [Scripture Burrito](https://docs.burrito.bible/) validated projects directly from the local devices.
 
-**Steps to Import a Project**
+### Steps to Import a Project ###
 
 - On the project page, click on the **Import** <img src="/assets/import01.png" width="80px" alt=""/> button located at the top right side
 - Select a folder from local device using the dialogue box that displays
@@ -19,7 +19,8 @@ title: Import Project
 
 Note: **Scribe** allows to **Import** and **Export** USFM (Unified Standard Format Markers) files and MD files. It also supports TSV resources in OBS Translation Notes
 
-**Importing the project allows the users to merge it while offline**
+**Importing the project allows the users to merge it while offline**.
+
 Visit this page for more information on [Offline Merge](./p3-4-offlinemerge.md)
 
 <video controls src="/assets/importbfile.mov" width="100%" type="video/mov"/>

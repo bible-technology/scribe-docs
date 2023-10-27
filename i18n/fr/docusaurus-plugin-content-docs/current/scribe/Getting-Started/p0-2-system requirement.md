@@ -4,7 +4,7 @@ sidebar_label: Configurations requises
 title: Configurations requises
 ---
 
-**Système d'aide**
+### Système d'aide ###
 
 **Scribe** est pris en charge par les systèmes d'exploitation suivants
 
@@ -12,7 +12,7 @@ title: Configurations requises
 - Ubuntu 18.04 et plus
 - Mac OS 10.15 et supérieur
 
-**Configurations requises**
+### Configurations requises ###
 
 - Minimum 2 Go d'espace libre sur le disque
 - Connexion Internet (requise pour la synchronisation et le téléchargement des références)
