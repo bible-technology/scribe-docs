@@ -1,19 +1,16 @@
 ---
 id: p0-2-system requirement
-sidebar_label:  System Requirements
+sidebar_label: System Requirements
 title: System Requirements
 ---
 
-**Supported System**
-
+### Supported System
 **Scribe** is supported by the following operating systems
-
 - Windows 10 and above
 - Ubuntu 18.04 and above
 - Mac OS 10.15 and above
 
-**System Requirements**
-
+### System Requirements
 - Minimum 2 GB free disk space
 - Internet connectivity (Required for syncing and downloading references)
 - Keep the application updated with the latest version of **Scribe** ([download Scribe](https://github.com/bible-technology/scribe-scripture-editor/releases))

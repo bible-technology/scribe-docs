@@ -5,7 +5,7 @@ title: Sync Collabration
 ---
 **It enables multiple user to Collabrate remotely**
 
-<p><h2>Login to the DOOR43 server</h2></p>
+### Login to the DOOR43 server ###
 
  
 **Steps**
@@ -18,7 +18,7 @@ title: Sync Collabration
 - Now, login with the username and password on the **Sribe Sync page**
 <video controls src="/0.5.3/Logintotheserver.mov" width="100%" type="video/mov"/>
 
-<p><h2>Cloud Sync</h2></p>
+### Cloud Sync ###
 
 **Steps**
 
@@ -32,7 +32,7 @@ title: Sync Collabration
 
 
 
-<p><h2>Offline Sync</h2></p>
+### Offline Sync ###
 
 **Steps**
 
@@ -48,7 +48,7 @@ title: Sync Collabration
 
 
 
-<n><p><h2> Contribute to a shared project</h2></p></n>
+### Contribute to a shared project ###
 
 **Steps**
 
@@ -76,7 +76,7 @@ title: Sync Collabration
 
 
 
-<p><h2>How to sync a project</h2></p>
+### How to sync a project ###
 
 **Steps**
 
@@ -90,7 +90,7 @@ title: Sync Collabration
 - The project will then be uploaded to the DOOR43 remote server and displayed to the user in the right-hand column of the screen
 <video controls src="/0.5.3/syncaproject.mov" width="100%" type="video/mp4"/>
 
-<p><h2>Sync a project from the project module</h2></p>
+### Sync a project from the project module ###
 
 A project can be directly synced by the user from the project module.
 
@@ -102,7 +102,7 @@ A project can be directly synced by the user from the project module.
 - (Login to the DOOR43 server if you are not done yet)
 <video controls src="/0.5.3/projectsync.mov" width="100%" type="video/mp4"/>
 
-<p><h2>Sync back a project from the DOOR43 remote server</h2></p>
+### Sync back a project from the DOOR43 remote server ###
 
 The user can **Sync** a project from the server to the local system. Ensure that the project file is not in the local system otherwise the project file will get mergerd into the local system.
 
@@ -119,7 +119,7 @@ The user can **Sync** a project from the server to the local system. Ensure that
 
 <video controls src="/0.5.3/syncback.mov" width="100%" type="video/mov"/>
 
-<p><h2>Merge a project from the DOOR43 remote server</h2></p>
+### Merge a project from the DOOR43 remote server ###
 
 
 **Steps**

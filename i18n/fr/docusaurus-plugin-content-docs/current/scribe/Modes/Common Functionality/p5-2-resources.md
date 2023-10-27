@@ -6,14 +6,14 @@ title: Ressources
 
 Traduction de la Bible textuelle
 
-**RÉSSOURCES**
+### RÉSSOURCES ###
 
 **Scribe** offre une variété de ressources de traduction pour aider les traducteurs dans leur travail. En plus des ressources en ligne disponibles sur Scribe, le traducteur peut télécharger des fichiers depuis le stockage local comme référence pour son travail de traduction.
 
 Scribe aide les traducteurs à accéder aux meilleures ressources dans autant de langues que possible et à achever les projets de traduction avec rapidité et qualité.
 
 
-**TYPES DE RESSOURCES**
+### TYPES DE RESSOURCES ###
 
 Les ressources suivantes sont disponibles sur Scribe
 
@@ -21,7 +21,7 @@ Les ressources suivantes sont disponibles sur Scribe
 
 Il y a trois onglets une fois que vous cliquez sur la Bible:
 
-**BIBLE, RESSOURCE, COLLECTION**
+### BIBLE, RESSOURCE, COLLECTION ###
 
 **<i>Pour télécharger la Bible de votre choix,</i>**  **RESSOURCE**
 - cliquez sur l'onglet *Ressource*
@@ -37,15 +37,37 @@ Vous pouvez également vous référer aux ressources de votre ordinateur local e
 - Cliquez sur *Sélectionnez le dossier*
 - Sélectionnez le fichier de votre PC que vous voulez télécharger
 - Sélectionnez l’option de téléchargement Vous pourrez voir le fichier si vous cliquez sur l’onglet Bible.
+### Pour télécharger les autres ressources de référence
+Les ressources suivantes peuvent être utilisées à la fois **en ligne** et **hors ligne**: **Notes de traduction, Mots de traduction, Questions de traduction, Académie de traduction et ressources d'OBS**
+
+**Les utilisateurs peuvent accéder à ces ressources en ligne en cliquant simplement sur eux. Cependant, il est important de noter que pour une utilisation en ligne, une connexion Internet est nécessaire tout au long de l'utilisation de la ressource**.
+
+#### Étapes pour télécharger des ressources
+- Survolez les ressources de notes de traduction pour la langue désirée
+- Sur le côté droit, cliquez sur l'icône de téléchargement <img src="/fr/0.5.3/download.png"  width="50px" alt="download" />
+- La ressource choisie sera téléchargée, et un message disant **Téléchargement de ressource terminé** apparaîtra en bas à gauche
+- La ressource téléchargée apparaîtra en haut de la liste des ressources sous **Ressources téléchargées**
+- Dans les ressources téléchargées, il y a une icône **actualisation** <img src="/0.5.3/refreshbutton.png"  width="50px" alt="refresh" /> qui vous permet de vérifier les mises à jour
+- Si des mises à jour sont disponibles, la ressource sera mise à jour vers la version la plus récente
+- Si aucune mise à jour n'est disponible, un message pop-up apparaîtra indiquant qu'aucune mise à jour n'est disponible
+- Cliquez sur l'icône **Corbeille** pour supprimer les ressources inutilisées <img src="/fr/0.5.3/trashbin.png"  width="50px" alt="trashbin" />
+
+Remarque : la liste des mots de traduction biblique et la liste des mots de traduction OBS peuvent être utilisés **en ligne seulement**(Référez-vous à la liste de mots de translotion).
 
 
-**NOTES DE TRANSLATION**
+### NOTES DE TRANSLATION ###
 
 Scribe supporte actuellement les notes de traduction dans différentes langues.
 
 **LISTE DES MOTS DE TRANSLATION**
 
 Cette section offre une liste de termes bibliques clés.
+#### Étapes pour référencer la liste des mots de traduction
+- Ouvrez le projet et, dans le volet de l'éditeur, cliquez sur l'icône de la nouvelle mise en page
+- Dans la nouvelle colonne, cliquez sur le sélecteur de ressource ****
+- Cette action ouvrira la page des ressources
+- À partir de là, sélectionnez la liste de mots de traduction pour la langue dont vous avez besoin
+- La ressource choisie apparaîtra alors dans la colonne de référence
 
 **MOTS DE TRANSLATION**
 
@@ -57,11 +79,11 @@ La liste des mots de traduction est divisée en trois catégories :
 
 **Autres** – Il s’agit d’une liste de termes bibliques supplémentaires. La définition, les références bibliques et les données de mots sont toutes incluses dans la liste.
 
-**QUESTION DE TRANSLATION**
+### QUESTION DE TRANSLATION ###
 
 Cette catégorie de ressources contient des questions qui sont conçues pour aider les traducteurs à analyser et comprendre des livres bibliques spécifiques.
 
-**ACADÉMIE DE TRANSLATION**
+### ACADÉMIE DE TRANSLATION ###
 
 L'Académie de traduction est une ressource d'information et d'instruction sur la traduction biblique pour les traducteurs.
 

@@ -12,6 +12,7 @@ title: Edit Project Details
 
 <video controls src="/assets/editing-project.mov" width="100%" type="video/mov"/>
 
-By following the previous list of instructions, you will be directed to the **Edit Project** page of the app. 
 
+####
+By following the previous list of instructions, you will be directed to the **Edit Project** page of the app. 
 Another interesting feature on the **Edit Project** screen is the **Advanced Settings.**

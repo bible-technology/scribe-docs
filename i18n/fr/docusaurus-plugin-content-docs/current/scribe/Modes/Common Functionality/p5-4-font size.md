@@ -4,7 +4,7 @@ sidebar_label: Taille de police
 title: Taille de police
 ---
 
-Étapes pour modifier la taille de la police de votre projet
+#### Étapes pour modifier la taille de la police de votre projet
 
 - Recherchez **l'icône **de texte dans le coin supérieur droit de la **colonne Traduction.**
 - Sélectionnez la petite lettre A pour réduire la taille de la police

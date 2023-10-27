@@ -4,7 +4,7 @@ sidebar_label: Exporter projet
 title: Exporter projet
 ---
 
-**Étapes pour exporter un projet**
+### Étapes pour exporter un projet ###
 
 - Choisissez un projet vers **Exporter** dans la liste de la page du projet
 - Cliquez sur la flèche pointant vers le bas pour voir un menu déroulant avec la description du projet
