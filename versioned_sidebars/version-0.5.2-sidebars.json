@@ -77,9 +77,16 @@
       ]
     },
     {
+      "type": "category",
+      "label": "How to",
+      "items": [
+        "scribe/How-to/p9-1-scripture burrito"
+      ]
+    },
+    {
       "type": "doc",
       "label": "Technical Support",
-      "id": "scribe/p11-1-technical support"
+      "id": "scribe/p11-2-technical support"
     }
   ]
 }

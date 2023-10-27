@@ -101,7 +101,7 @@ module.exports = {
       type: 'category',
       label: 'How to',
       items: [
-        "scribe/How-to/p9-1-scripture burritto",
+        "scribe/How-to/p9-1-scripture burrito",
        
               
           ],
