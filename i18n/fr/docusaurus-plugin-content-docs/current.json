@@ -88,6 +88,14 @@
 
   },
 
+  "sidebar.Sribe.category.How to": {
+
+    "message": "comment faire",
+
+    "description": "The label for category comment faire in sidebar Sribe"
+
+  },
+
   "sidebar.Sribe.doc.Technical Support": {
 
     "message": "Soutien technique",

@@ -6,7 +6,7 @@ title: Synchroniser la collaboration
 
 **Il permet à plusieurs utilisateurs de Collabrate à distance**
 
-<p><h2>Connexion au serveur DOOR43</h2></p>
+### Connexion au serveur DOOR43
 
 **Étapes**
 
@@ -47,7 +47,7 @@ title: Synchroniser la collaboration
 
 
 
-<h3>Contribuer à un projet partagé</h3>
+### Contribuer à un projet partagé
 
 **Étapes**
 
@@ -60,7 +60,7 @@ title: Synchroniser la collaboration
 - Sélectionnez **Add Collaborator**
 - Donner accès au collaborateur en tant** Administrator, Write ou Write**
 
-**Collaborateur**
+### Collaborateur
 
 - Aller à la page **Synchroniser**
 - Connectez-vous au compte DOOR43
@@ -75,7 +75,7 @@ title: Synchroniser la collaboration
 
 
 
-<p><h2>Comment synchroniser un projet</h2></p>
+### Comment synchroniser un projet
 
 **Étapes**
 
@@ -88,7 +88,7 @@ title: Synchroniser la collaboration
 - Le projet sera ensuite téléchargé sur le serveur distant DOOR43 et affiché à l'utilisateur dans la colonne de droite de l'écran
 <video controls src="/assets/syncaproject.mov" width="100%" type="video/mp4"></video>
 
-<p><h2>Synchroniser un projet depuis le module projet</h2></p>
+### Synchroniser un projet depuis le module projet
 
 Un projet peut être directement synchronisé par l'utilisateur à partir du module projet.
 
@@ -100,7 +100,7 @@ Un projet peut être directement synchronisé par l'utilisateur à partir du mod
 - (Connectez-vous au serveur DOOR43 si vous n'êtes pas encore terminé)
 <video controls src="/assets/projectsync.mov" width="100%" type="video/mp4"></video>
 
-<p><h2>Synchroniser un projet depuis le serveur distant DOOR43</h2></p>
+### Synchroniser un projet depuis le serveur distant DOOR43
 
 L'utilisateur peut **Synchroniser** un projet depuis le serveur vers le système local. Assurez-vous que le fichier du projet n'est pas dans le système local sinon le fichier du projet sera fusionné dans le système local.
 
@@ -114,7 +114,7 @@ L'utilisateur peut **Synchroniser** un projet depuis le serveur vers le système
 
 <video controls src="/assets/syncback.mov" width="100%" type="video/mov"></video>
 
-<p><h2>Fusionner un projet à partir du serveur distant DOOR43</h2></p>
+### Fusionner un projet à partir du serveur distant DOOR43
 
 **Étapes**
 
