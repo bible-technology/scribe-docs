@@ -2,7 +2,7 @@
 
   "version.label": {
 
-    "message": "0.5.3",
+    "message": "0.5.2",
 
     "description": "The label for version current"
 
@@ -85,14 +85,6 @@
     "message": "Histoires de la Bible ouverte (OBS)",
 
     "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
-
-  },
-
-  "sidebar.Sribe.category.How to": {
-
-    "message": "comment faire",
-
-    "description": "The label for category comment faire in sidebar Sribe"
 
   },
 
