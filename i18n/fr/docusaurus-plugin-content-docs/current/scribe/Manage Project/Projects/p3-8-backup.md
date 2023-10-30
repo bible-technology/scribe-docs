@@ -6,7 +6,7 @@ title: Synchroniser la sauvegarde
 
 **Il permet à l'utilisateur de stocker toutes les données du projet sur le serveur distant et protège contre la perte de données.**
 
-<p><h2>Connexion au serveur DOOR43</h2></p>
+### Connexion au serveur DOOR43 ###
 
 **Étapes**
 
@@ -15,9 +15,9 @@ title: Synchroniser la sauvegarde
 - L'utilisateur reçoit un lien dans l'identifiant de courriel fourni
 - Cliquez sur le lien et confirmez à nouveau le mot de passe pour activer le compte utilisateur
 - Maintenant, connectez-vous avec le nom d'utilisateur et le mot de passe sur la **Sribe Synchroniser page**
-<video controls src="/assets/Logintotheserver.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.3/Logintotheserver.mov" width="100%" type="video/mov"></video>
 
-<p><h2>Synchronisation dans le Cloud</h2></p>
+### Synchronisation dans le Cloud ###
 
 **Étapes**
 
@@ -27,9 +27,9 @@ title: Synchroniser la sauvegarde
 - Une barre de progression va apparaître, montrant l'état et la finalisation du processus **Synchronisation**
 - Une fois le projet synchronisé avec succès, il sera listé au bas du volet **Projets sur le cloud**
 
-<video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4"></video>
+<video controls src="/0.5.3/cloudsync.mov" width="100%" type="video/mp4"></video>
 
-<p><h2>Créer une sauvegarde lors de la fusion d'un projet à partir du serveur</h2></p>
+### Créer une sauvegarde lors de la fusion d'un projet à partir du serveur ###
 
 **<i>Ceci est pour les gestionnaires de projet et les administrateurs</i>**
 

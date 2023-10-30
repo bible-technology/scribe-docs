@@ -97,15 +97,24 @@ module.exports = {
         
       ],
     },
+    {
+      type: 'category',
+      label: 'How to',
+      items: [
+        "scribe/How-to/p9-1-scripture burrito",
+       
+              
+          ],
+        },
     // {
     //   type: 'doc',
-    //   label: 'More Information',
-    //   id: 'scribe/p10-1-more info',
+    //   label: 'Migration guide from translationstudio',
+    //   id: 'scribe/p11-1-migration guide',
     // },
     {
       type: 'doc',
       label: 'Technical Support',
-      id: 'scribe/p11-1-technical support',
+      id: 'scribe/p11-2-technical support',
     }
   ],
 };

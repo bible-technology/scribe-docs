@@ -4,7 +4,7 @@ sidebar_label: Exporter projet
 title: Exporter projet
 ---
 
-**Étapes pour exporter un projet**
+### Étapes pour exporter un projet ###
 
 - Choisissez un projet vers **Exporter** dans la liste de la page du projet
 - Cliquez sur la flèche pointant vers le bas pour voir un menu déroulant avec la description du projet
@@ -18,4 +18,4 @@ title: Exporter projet
 - Après une exportation réussie, une notification apparaîtra en bas à gauche de l'écran, confirmant que le projet a été exporté avec succès
 
 
-<video controls src="/assets/exportfile.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.3/exportfile.mov" width="100%" type="video/mov"></video>

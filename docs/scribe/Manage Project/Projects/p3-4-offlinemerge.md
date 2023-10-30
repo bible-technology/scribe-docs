@@ -10,7 +10,7 @@ Offline merge refers to the process of merging changes from one translator to an
 This feature can be used with multiple translators. When multiple users are working on the same project conflicts may occur while merging. 
 This page allows users to review conflicting changes, decide how to resolve them, and then merge them as needed.
 
-**Steps to offline merge**
+### Steps to offline merge
 
 - Click **Import** <img src="/assets/import01.png" width="80px" alt=""/> in the top right corner of the projects page
 - Choose the desired folder for import and click on **Select Folder/Open**
@@ -29,7 +29,7 @@ This page allows users to review conflicting changes, decide how to resolve them
 - Suppose the user decides to Abort the **Resolve Conflict** action. Click the close **(x)** symbol in the top right corner. It will bring an **Abort Conflict Resolution** to pop up
 <video controls src="/0.5.2/replaceandmerge.mov" width="100%" type="video/mov"/>
 
-<h3>Steps to Resolve Conflicts</h3>
+### Steps to Resolve Conflicts 
 
 **The Resolve Conflict page appears when a user selects the Merge option**
 - A list of files with conflicts appears in the left section of the pane

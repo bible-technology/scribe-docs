@@ -6,7 +6,7 @@ title: Archiver le projet
 
 **Scribe** décourage la suppression pour éviter toute perte de données accidentelle. Comme alternative, il permet aux utilisateurs d'archiver des projets qui n'apparaîtraient plus dans la liste principale des projets. Les projets archivés peuvent être restaurés à n'importe quel moment. Bien que déconseillé, les utilisateurs d'énergie peuvent supprimer complètement les projets archivés de l'emplacement du disque en dehors de l'application. Les sauvegardes des projets archivés sont conservées par scribe.
 
-**Étapes pour archiver le projet**
+### Étapes pour archiver le projet ###
 - Sélectionnez un projet dans la liste vers **Archivé**
 - Cliquez sur la flèche pointant vers le bas pour voir un menu déroulant avec la description du projet
 - Cliquez sur le menu des trois points avec les options
@@ -15,7 +15,7 @@ title: Archiver le projet
    - Archive
 - Sélectionnez **Archivé** pour enregistrer le projet pour référence future
 
-**Étapes pour restaurer le projet archivé**
+### Étapes pour restaurer le projet archivé ###
 
 - Cliquez sur le bouton Archivé en haut à droite
 - La liste des fichiers archivés apparaît

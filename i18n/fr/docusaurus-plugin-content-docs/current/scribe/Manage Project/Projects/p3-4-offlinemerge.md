@@ -7,7 +7,7 @@ Visitez la page Importer un projet pour plus d’informations sur la façon d’
 
 La fusion hors ligne fait référence au processus de fusion des modifications d'un traducteur à un autre travaillant sur le même projet. Il permet aux traducteurs d'apporter des modifications et d'effectuer des opérations de fusion sur leurs systèmes locaux. Cette fonctionnalité peut être utilisée avec plusieurs traducteurs. Lorsque plusieurs utilisateurs travaillent sur le même projet, des conflits peuvent survenir lors de la fusion. Cette page permet aux utilisateurs d'examiner les modifications conflictuelles, de décider comment les résoudre, puis de les fusionner si nécessaire.
 
-**Étapes pour fusionner hors ligne**
+### Étapes pour fusionner hors ligne ###
 
 - Cliquez sur **Importer** <img src="/0.5.2/fr-import.png" width="80px" alt=""/> dans le coin supérieur droit de la page des projets
 - Choisissez le dossier souhaité pour l'importation et cliquez sur Sélectionner un dossier/Ouvrir
@@ -26,7 +26,7 @@ La fusion hors ligne fait référence au processus de fusion des modifications d
 - Supposons que l'utilisateur décide d'abandonner l'action Résoudre le conflit. Cliquez sur le symbole de fermeture (x) dans le coin supérieur droit. Cela fera apparaître une fenêtre d'abandon de la résolution du conflit.
 <video controls src="/0.5.2/replaceandmerge.mov" width="100%" type="video/mov"></video>
 
- <h2> Étapes pour résoudre les conflits </h2>
+### Étapes pour résoudre les conflits ###
 
 **La page Résoudre les conflits s'affiche lorsqu'un utilisateur sélectionne l'option Fusionner.**
 - Une liste de fichiers avec des conflits apparaît dans la partie gauche du volet

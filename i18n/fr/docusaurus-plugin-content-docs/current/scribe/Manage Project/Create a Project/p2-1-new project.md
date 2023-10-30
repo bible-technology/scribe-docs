@@ -6,7 +6,7 @@ title: Nouveau projet
 
 Sur la page **Nouveau projet** , l'utilisateur peut créer différents modes de projet tels que Text Bible Translation, Traduction orale de la Bible (Audio) et des histoires bibliques ouvertes (OBS).
 
-Étapes pour créer un nouveau projet
+### Étapes pour créer un nouveau projet ###
 - Cliquez sur l'icône <img src="/autographaAssetsV2/how-to/new-project.png" width="30px" alt="" />**Nouveau projet **sur le côté gauche de la page
 - Sur cette page, vous pouvez entrer les détails spécifiques du projet
   - Nom du projet
@@ -28,7 +28,7 @@ Sur la page **Nouveau projet** , l'utilisateur peut créer différents modes de 
 
 <!-- <video controls src="/assets/creating-project.mov" width="100%" type="video/mov"> -->
 
-<h2> Ajouter une nouvelle langue </h2>
+### Ajouter une nouvelle langue ###
 
 Si la langue désirée n'est pas listée dans le menu déroulant de la langue cible, l'utilisateur peut toujours créer le projet dans cette langue.
 

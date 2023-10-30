@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "0.5.2",
+    "description": "The label for version current"
+  },
+  "sidebar.Sribe.category.Getting-Started": {
+    "message": "शुरू करना",
+    "description": "The label for category Getting-Started in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Basic Setup": {
+    "message": "बुनियादी सेटअप",
+    "description": "The label for category Basic Setup in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Manage Project": {
+    "message": "प्रोजेक्ट प्रबंधित करें",
+    "description": "The label for category Manage Project in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Create a Project": {
+    "message": "प्रोजेक्ट बनाएं",
+    "description": "The label for category Create a Project in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Projects": {
+    "message": "प्रोजेक्ट्स",
+    "description": "The label for category Projects in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Modes": {
+    "message": "मोड",
+    "description": "The label for category Modes in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Common Functionality": {
+    "message": "सामान्य कार्यक्षमता",
+    "description": "The label for category Common Functionality in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Text Bible Translation (BT)": {
+    "message": "पाठ बाइबल अनुवाद (BT)",
+    "description": "The label for category Text Bible Translation (BT) in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Oral Bible Translation (OBT)": {
+    "message": "मौखिक बाइबल अनुवाद (OBT)",
+    "description": "The label for category Oral Bible Translation (OBT) in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Open Bible Stories (OBS)": {
+    "message": "ओपन बाइबल स्टोरीज़ (OBS)",
+    "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
+  },
+  "sidebar.Sribe.doc.Technical Support": {
+    "message": "तकनीकी सहायता",
+    "description": "The label for the doc item Technical Support in sidebar Sribe, linking to the doc scribe/p11-1-technical support"
+  }
+}

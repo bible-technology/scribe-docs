@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "0.5.2",
+    "message": "0.5.3",
     "description": "The label for version current"
   },
   "sidebar.Sribe.category.Getting-Started": {
@@ -43,8 +43,18 @@
     "message": "ओपन बाइबल स्टोरीज़ (OBS)",
     "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
   },
+  "sidebar.Sribe.category.How to": {
+    "message": "कैसे करें",
+    "description": "The label for category How to in sidebar Sribe"
+  },
+
+  "sidebar.Sribe.doc.Migration Guide from translationStudio ": {
+    "message": "ट्रांसलेशनस्टूडियो से माइग्रेशन गाइड",
+    "description": "The label for the doc item Migration Guide from translationStudio, linking to the doc scribe/p11-1-migration guide"
+  },  
+
   "sidebar.Sribe.doc.Technical Support": {
     "message": "तकनीकी सहायता",
-    "description": "The label for the doc item Technical Support in sidebar Sribe, linking to the doc scribe/p11-1-technical support"
+    "description": "The label for the doc item Technical Support in sidebar Sribe, linking to the doc scribe/p11-2-technical support"
   }
 }
