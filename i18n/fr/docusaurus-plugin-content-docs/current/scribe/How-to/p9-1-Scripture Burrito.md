@@ -1,7 +1,7 @@
 ---
 id: p9-1-scripture burrito
 sidebar_label: Scripture Burrito
-title: Scripture Burrito
+title: Création d'un fichier burrito biblique
 ---
 
 ### Étapes pour créer des fichiers Burrito bibliques
@@ -28,10 +28,9 @@ Sur la page des projets, créez un nouveau projet.
 - Cliquez sur Exporter
 - Après une exportation réussie, une notification apparaîtra en bas à gauche de l'écran, confirmant que le projet a été exporté avec succès
 
-** L'utilisateur peut se référer à des ressources Bible, OBS et Audio de l'ordinateur local en les chargeant vers Scribe.
-
-#### Étapes pour télécharger des fichiers bibliques Burrito (ressources) à partir de l'appareil local **
-
+L'utilisateur peut se référer à des ressources **Bible, OBS et Audio** de l'ordinateur local en les chargeant vers Scribe.
+###
+#### Étapes pour télécharger des fichiers bibliques Burrito (ressources) à partir de l'appareil local
 - Choisir le projet désiré depuis la page Projets
 - Un volet d'édition s'ouvrira
 - Cliquez sur l'icône de mise en page en haut à droite du volet de l'éditeur pour ajouter la mise en page des ressources de référence

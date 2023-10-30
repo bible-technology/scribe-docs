@@ -1,7 +1,7 @@
 ---
 id: p9-1-scripture burrito
 sidebar_label: Scripture Burrito
-title: Scripture Burrito
+title: Creating Scripture Burrito File
 ---
 ### Steps to create Scripture Burrito files  
 On the projects page create a new project. 
@@ -27,9 +27,9 @@ On the projects page create a new project.
 - Click Export 
 - After a successful export, a notification will appear at the bottom left side of the screen, confirming that the project has been exported successfully 
   
-** The user can refer to **Bible, OBS and Audio** resources from local computer by uploading them to Scribe. 
-Steps to Upload Scripture Burrito Files(resources) from local device ** 
- 
+The user can refer to **Bible, OBS and Audio** resources from local computer by uploading them to Scribe. 
+###
+### Steps to Upload Scripture Burrito Files(resources) from local device
 - Choose the desired project from the Projects page 
 - An editor pane will open up 
 - Click on the layout icon in the upper right side of the editor pane to add the layout for reference resources 

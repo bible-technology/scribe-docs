@@ -44,13 +44,13 @@ Les ressources suivantes peuvent être utilisées à la fois **en ligne** et **h
 
 #### Étapes pour télécharger des ressources
 - Survolez les ressources de notes de traduction pour la langue désirée
-- Sur le côté droit, cliquez sur l'icône de téléchargement <img src="/fr/0.5.3/download.png"  width="50px" alt="download" />
+- Sur le côté droit, cliquez sur l'icône de téléchargement <img src="/fr/0.5.3/download.png"  width="30px" alt="download" />
 - La ressource choisie sera téléchargée, et un message disant **Téléchargement de ressource terminé** apparaîtra en bas à gauche
 - La ressource téléchargée apparaîtra en haut de la liste des ressources sous **Ressources téléchargées**
-- Dans les ressources téléchargées, il y a une icône **actualisation** <img src="/0.5.3/refreshbutton.png"  width="50px" alt="refresh" /> qui vous permet de vérifier les mises à jour
+- Dans les ressources téléchargées, il y a une icône **actualisation** <img src="/0.5.3/refreshbutton.png"  width="30px" alt="refresh" /> qui vous permet de vérifier les mises à jour
 - Si des mises à jour sont disponibles, la ressource sera mise à jour vers la version la plus récente
 - Si aucune mise à jour n'est disponible, un message pop-up apparaîtra indiquant qu'aucune mise à jour n'est disponible
-- Cliquez sur l'icône **Corbeille** pour supprimer les ressources inutilisées <img src="/fr/0.5.3/trashbin.png"  width="50px" alt="trashbin" />
+- Cliquez sur l'icône **Corbeille** pour supprimer les ressources inutilisées <img src="/fr/0.5.3/trashbin.png"  width="30px" alt="trashbin" />
 
 Remarque : la liste des mots de traduction biblique et la liste des mots de traduction OBS peuvent être utilisés **en ligne seulement**(Référez-vous à la liste de mots de translotion).
 
