@@ -10,7 +10,7 @@ The top navigation bar contains a menu on the left side, offering options such a
 
 The **File** menu is located on the top left side of the **Translation Column.**
 Click on the **File** feature to view your **bookmarks** or change the text font.
-<img src="/AutographaV2-1-0/filemenu.png"  width="1000px" alt="file menu"/>
+<img src="/AutographaV2-1-0/filemenu.png"  width="1000px" alt="file menu"/>Translationques.PNG
 
 <!-- **EDIT** 
 
