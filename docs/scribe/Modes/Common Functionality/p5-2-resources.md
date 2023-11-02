@@ -120,6 +120,7 @@ There are three tabs once you click on the Open Bible Stories
 The downloaded Bible story will appear at the top of the list. This allows you to keep track of the resources that have been downloaded.
 You can also choose a Bible story by entering information such as Language and type into the window provided in the Resource section.
 By clicking on the OBS tab, you will be able to access the downloaded Bible story for reference.
+<video controls src="/0.5.3/obsresourcedownload.mov" width="100%" type="video/mov"/>
 
 **<i>To upload resources from local,</i>** **COLLECTION**
 
@@ -130,19 +131,24 @@ You can also refer to resources from your local computer by uploading them to **
 - Select the file from your PC that you want to upload
 - Select the upload option
 You'll be able to see the file if you click the OBS tab.
+<video controls src="/0.5.3/obsresoucollection.mov" width="100%" type="video/mov"/>
 
 ### OBS TRANSLATION NOTES ###
 
 OBS translation notes provide interpretive information for stories to assist translators with their translation work.
- 
+
+<img src="/0.5.3/obstransnotes.PNG"  width="1000px" alt="file menu"/>
+<img src="/0.5.3/obstransnotes1.PNG"  width="1000px" alt="file menu"/>
+
 ### OBS TRANSLATION QUESTIONS ###
 
 These questions allow translators to determine whether the intended meaning is clearly communicated to the audience.
+<img src="/0.5.3/obstransques.PNG"  width="1000px" alt="file menu"/>
+<img src="/0.5.3/obstransques1.PNG"  width="1000px" alt="file menu"/>
 
 ### OBS TRANSLATION WORDS LIST ###
 
 This section offers a list of key biblical terms.
-To import a resource, follow the steps below.
-<p> </p>
- 
-<video controls src="/assets/adding-resources.mov" width="100%" type="video/mov"/>
+<img src="/0.5.3/obstranswl.PNG"  width="1000px" alt="file menu"/>
+<img src="/0.5.3/obstranswl1.PNG"  width="1000px" alt="file menu"/>
+

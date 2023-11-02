@@ -28,6 +28,7 @@ On the projects page create a new project.
 - After a successful export, a notification will appear at the bottom left side of the screen, confirming that the project has been exported successfully 
   
 The user can refer to **Bible, OBS and Audio** resources from local computer by uploading them to Scribe. 
+<video controls src="/0.5.3/en_burritofile_create.mov" width="100%" type="video/mp4"/>
 ###
 ### Steps to Upload Scripture Burrito Files(resources) from local device
 - Choose the desired project from the Projects page 
