@@ -8,7 +8,7 @@ title: Importer un projet
 
 **Étapes pour importer un projet**
 
-- Sur la page du projet, cliquez sur le bouton **Importer** situé en haut à droite
+- Sur la page du projet, cliquez sur le bouton **Importer** <img src="/0.5.3/fr_import.png" width="80px" alt="" /> situé en haut à droite
 - Sélectionnez un dossier à partir de l'appareil local en utilisant la boîte de dialogue qui s'affiche
 - Choisissez le dossier désiré à importer et cliquez sur **Sélectionnez le dossier**
 - La boîte de dialogue affichera les détails du projet, y compris le répertoire Burrito des Écritures, le nom du projet et de la langue, et le type de projet

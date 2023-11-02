@@ -6,7 +6,7 @@ title: Taille de police
 
 #### Étapes pour modifier la taille de la police de votre projet
 
-- Recherchez **l'icône **de texte dans le coin supérieur droit de la **colonne Traduction.**
+- Recherchez **l'icône**  <img src="/assets/font-size.png" width="50px" alt=""/>  de texte dans le coin supérieur droit de la **colonne Traduction.
 - Sélectionnez la petite lettre A pour réduire la taille de la police
 - Sélectionnez la grande lettre A pour agrandir la taille de la police
 

@@ -9,7 +9,7 @@ La barre de navigation supérieure contient un menu sur le côté gauche, offran
 ### FILE ###
 
 Le menu Fichier est situé en haut à gauche de la colonne Traduction. Cliquez sur la fonction Fichier pour afficher vos favoris ou modifier la police du texte.
-<img src="/AutographaV2-1-0/filemenu.png"  width="1000px" alt="file menu" />
+<img src="/0.5.3/fr_menu.png"  width="1000px" alt="file menu" />
 
 
 <!-- **EDIT** 
@@ -24,4 +24,5 @@ At the moment, **Scribe** only supports “S” editing or “Section Headings.�
 
 ### À PROPOS ###
 
-La fonctionnalité **À propos de** est située en haut à gauche de la colonne **Traduction**, à côté de la fonctionnalité **Modifier**. La fonctionnalité **À propos de** fournit des informations sur **Scribe Bible version** et divulgue la licence **Scribe** et **code source.** <img src="/AutographaV2-1-0/about.png"  width="1000px" alt="about" />
+La fonctionnalité **À propos de** est située en haut à gauche de la colonne **Traduction**, à côté de la fonctionnalité **Modifier**. La fonctionnalité **À propos de** fournit des informations sur **Scribe Bible version** et divulgue la licence **Scribe** et **code source.** 
+<img src="/0.5.3/fr_about.png"  width="1000px" alt="about" />
