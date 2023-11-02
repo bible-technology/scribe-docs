@@ -12,4 +12,4 @@ title: फ़ॉन्ट साइज़
 - फ़ॉन्ट साइज़ को छोटा करने के लिए छोटा अक्षर वाला **अ** चुनें।
 - फ़ॉन्ट साइज़ को बड़ा करने के लिए बड़ा अक्षर वाला **अ** चुनें।
 
-<video controls src="/assets/change-font.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.3/en_fontsize.mov" width="100%" type="video/mov"></video>
