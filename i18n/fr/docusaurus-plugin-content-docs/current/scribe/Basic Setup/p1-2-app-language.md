@@ -19,4 +19,4 @@ title: Langue de l'application
   - Népalais
 - Cliquez sur le bouton **Enregistrer** pour enregistrer les informations
 
-<img src="/assets/applanguage.png"  width="1000px" alt="project listing"/> 
+<img src="/0.5.3/fr_applanguage.png"  width="1000px" alt="project listing"/> 

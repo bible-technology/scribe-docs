@@ -7,13 +7,13 @@ title: Nouveau projet
 Sur la page **Nouveau projet** , l'utilisateur peut créer différents modes de projet tels que Text Bible Translation, Traduction orale de la Bible (Audio) et des histoires bibliques ouvertes (OBS).
 
 ### Étapes pour créer un nouveau projet ###
-- Cliquez sur l'icône <img src="/autographaAssetsV2/how-to/new-project.png" width="30px" alt="" />**Nouveau projet **sur le côté gauche de la page
+- Cliquez sur l'icône <img src="/0.5.3/fr_newproject.png" width="30px" alt="" /> **Nouveau projet **sur le côté gauche de la page
 - Sur cette page, vous pouvez entrer les détails spécifiques du projet
   - Nom du projet
   - Description du projet
   - Abréviation (elle sera générée automatiquement lors de la saisie du nom du projet. L'utilisateur a la possibilité de modifier l'abréviation générée automatiquement)
   - Langue cible
-  - Importer des livres <img src="/assets/importicc.png" width="80px" alt="" />
+  - Importer des livres <img src="/0.5.3/fr_import.png" width="80px" alt="" />
       - L'utilisateur peut importer un livre au format USFM
       - Les livres individuels et multiples peuvent être importés
       - Les livres importés apparaîtront dans le volet de l'éditeur
