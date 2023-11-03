@@ -92,17 +92,18 @@ The list of translation words is divided into three categories:
 ### TRANSLATION QUESTION ###
 
 This resource category contains questions that are designed to help translators in analyzing and understanding specific Bible books.
-<!-- <img src="/0.5.3/Translationques.PNG"  width="1000px" alt="file menu"/> -->
+<img src="/0.5.3/Translationques.PNG"  width="1000px" alt="file menu"/>
 
 ### TRANSLATION ACADEMY ###
 
 Translation Academy is a resource for Bible translation information and instruction for translators.
-<!-- <img src="/0.5.3/transacademy.PNG"  width="1000px" alt="file menu"/> -->
+<img src="/0.5.3/transacademy.PNG"  width="1000px" alt="file menu"/>
 
-##
+<!-- ##
 To import a resource, follow the steps below.
-<video controls src="/0.5.3/importresourcesep.mov" width="100%" type="video/mov"/>
-
+<video controls src="/0.5.3/importresourcesep.mov" width="100%" type="video/mov"/> -->
+###
+###
 ### OPEN BIBLE STORIES (OBS) ###
 
 Open Bible Stories is a collection of key Bible stories available for translation in easy-to-understand text.
