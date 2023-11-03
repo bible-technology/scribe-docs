@@ -19,7 +19,7 @@ title: सूचनाएँ
  
 
 मुख्य पृष्ठ पर लौटने के लिए, स्क्रीन के ऊपर बाईं ओर <—— तीर पर क्लिक करें।
+<!-- 
+<img src="/0.5.3/hi-notification1.png"  width="1000px" alt="सूचनाएँ" /> -->
 
-<img src="/AutographaV2-1-0/notification1.png"  width="1000px" alt="सूचनाएँ" />
-
-<img src="/AutographaV2-1-0/notification2.png"  width="1000px" alt="सूचनाएँ" />
+<img src="/0.5.3/hi-notification2.png"  width="1000px" alt="सूचनाएँ" />

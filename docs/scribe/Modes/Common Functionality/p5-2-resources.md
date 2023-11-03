@@ -9,6 +9,7 @@ Text Bible Translation
 **Scribe** offers a variety of translation resources to help translators with their work. In addition to the available online resources on Scribe, the translator can upload files from local storage as a reference for his translation work.
 
 Scribe assists translators in gaining access to the best resources in as many languages as possible and completing translation projects with speed and quality.
+<video controls src="/0.5.3/import-resources.mov" width="100%" type="video/mov"/>
 
 
 #### TYPES OF RESOURCES ####
@@ -39,6 +40,7 @@ You can also refer to resources from your local computer by uploading them to Sc
 - Select the file from your PC that you want to upload
 - Select the upload option
 You'll be able to see the file if you click the Bible tab.
+<video controls src="/0.5.3/import-resources-bible.mov" width="100%" type="video/mov"/>
 
 ### To download the other reference Resources
 Following resources can be used both **online** and **offline**: **Translation Notes, Translation Words, Translation Questions, Translation Academy and OBS resources** 
@@ -56,11 +58,14 @@ Following resources can be used both **online** and **offline**: **Translation N
 - Click the **Trash bin** icon to remove unused resources <img src="/0.5.3/trashbin.png"  width="30px" alt="trashbin"/>
 
 Note: Bible Translation Words list and OBS Translation Words List can be used **Online only**(Refer Translotion Word List). 
+<video controls src="/0.5.3/download-resources-cmn.mov" width="100%" type="video/mov"/>
+
 
 
 ### TRANSLATION NOTES ###
 
 Scribe currently supports Translation Notes in different languages.
+<video controls src="/0.5.3/import-resources-trans-notes.mov" width="100%" type="video/mov"/>
 
 ### TRANSLATION WORDS LIST ###
 This section offers a list of key biblical terms.
@@ -70,6 +75,7 @@ This section offers a list of key biblical terms.
 - This action will open the Resource page
 - From there, select the Translation Word List for the language you need
 - The chosen resource will then appear in the reference column
+<video controls src="/0.5.3/import-resources-transwordlist.mov" width="100%" type="video/mov"/>
 
 ### TRANSLATION WORDS ###
 
@@ -81,22 +87,23 @@ The list of translation words is divided into three categories:
 
 **Other** – This is a list of additional Bible terms. The definition, Bible references, and word data are all included in the list.
 
+<video controls src="/0.5.3/import-resources-transwords.mov" width="100%" type="video/mov"/>
+
 ### TRANSLATION QUESTION ###
 
 This resource category contains questions that are designed to help translators in analyzing and understanding specific Bible books.
+<img src="/0.5.3/Translationques.PNG"  width="1000px" alt="file menu"/>
 
 ### TRANSLATION ACADEMY ###
 
 Translation Academy is a resource for Bible translation information and instruction for translators.
+<img src="/0.5.3/transacademy.PNG"  width="1000px" alt="file menu"/>
 
-<video controls src="/assets/resource-types.mov" width="100%" type="video/mov"/>
-
-##
+<!-- ##
 To import a resource, follow the steps below.
-
-
-<video controls src="/assets/import-resources.mov" width="100%" type="video/mov"/>
-
+<video controls src="/0.5.3/importresourcesep.mov" width="100%" type="video/mov"/> -->
+###
+###
 ### OPEN BIBLE STORIES (OBS) ###
 
 Open Bible Stories is a collection of key Bible stories available for translation in easy-to-understand text.
@@ -114,6 +121,7 @@ There are three tabs once you click on the Open Bible Stories
 The downloaded Bible story will appear at the top of the list. This allows you to keep track of the resources that have been downloaded.
 You can also choose a Bible story by entering information such as Language and type into the window provided in the Resource section.
 By clicking on the OBS tab, you will be able to access the downloaded Bible story for reference.
+<video controls src="/0.5.3/obsresourcedownload.mov" width="100%" type="video/mov"/>
 
 **<i>To upload resources from local,</i>** **COLLECTION**
 
@@ -124,19 +132,24 @@ You can also refer to resources from your local computer by uploading them to **
 - Select the file from your PC that you want to upload
 - Select the upload option
 You'll be able to see the file if you click the OBS tab.
+<video controls src="/0.5.3/obsresoucollection.mov" width="100%" type="video/mov"/>
 
 ### OBS TRANSLATION NOTES ###
 
 OBS translation notes provide interpretive information for stories to assist translators with their translation work.
- 
+
+<img src="/0.5.3/obstransnotes.PNG"  width="1000px" alt="file menu"/>
+<img src="/0.5.3/obstransnotes1.PNG"  width="1000px" alt="file menu"/>
+
 ### OBS TRANSLATION QUESTIONS ###
 
 These questions allow translators to determine whether the intended meaning is clearly communicated to the audience.
+<img src="/0.5.3/obstransques.PNG"  width="1000px" alt="file menu"/>
+<img src="/0.5.3/obstransques1.PNG"  width="1000px" alt="file menu"/>
 
 ### OBS TRANSLATION WORDS LIST ###
 
 This section offers a list of key biblical terms.
-To import a resource, follow the steps below.
-<p> </p>
- 
-<video controls src="/assets/adding-resources.mov" width="100%" type="video/mov"/>
+<img src="/0.5.3/obstranswl.PNG"  width="1000px" alt="file menu"/>
+<img src="/0.5.3/obstranswl1.PNG"  width="1000px" alt="file menu"/>
+
