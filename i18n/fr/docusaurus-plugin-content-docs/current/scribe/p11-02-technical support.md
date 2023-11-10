@@ -11,6 +11,7 @@ title: Support Technique
 - Vous avez également la possibilité de copier l'adresse e-mail fournie et de nous envoyer un message
 - Au bas de la page Support technique, vous trouverez des liens vers la **Documentation** (manuel d'utilisation) et le **code source**.
 - Pour quitter cette page, cliquez simplement sur le bouton **Fermer**
+  
 ​
 Notre équipe de support technique est à votre disposition pour répondre à toute question ou préoccupation concernant **Scribe**. Vous pouvez signaler un problème ou demander une requête à propos de **Scribe** en nous envoyant un e-mail à **scribe@bridgeconn.com** Si vous êtes enregistré en tant qu'utilisateur GitHub, vous pouvez soulever un problème sur GitHub après vous être connecté avec vos identifiants ici : https://github.com/bible-technology/scribe-scripture-editor/issues.
 
