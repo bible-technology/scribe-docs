@@ -153,3 +153,19 @@ This section offers a list of key biblical terms.
 <img src="/0.5.3/obstranswl.PNG"  width="1000px" alt="file menu"/>
 <img src="/0.5.3/obstranswl1.PNG"  width="1000px" alt="file menu"/>
 
+
+### AUDIO 
+**Steps to import the Audio resource**
+
+- Open the project and, within the editor pane, click on the new layout icon
+- In the new column, click on the **resource selector**
+- This action will open the Resource page
+- Select **Audio**
+- Click on the *collection* tab to import resources from local storage
+- Click on **Select Folder**
+- Select the file from your PC that you want to upload
+- Select the upload option
+  
+You'll be able to see the file if you click the **Audio** tab.
+
+<video controls src="/0.5.3/en_audioresource_import.mov" width="100%" type="video/mov"/>

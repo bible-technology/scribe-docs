@@ -148,3 +148,20 @@ Cette section offre une liste de termes bibliques clés. Pour importer une resso
 <p> </p>
 
 <video controls src="/assets/adding-resources.mov" width="100%" type="video/mov"></video>
+
+### L'AUDIO
+
+**Étapes pour importer la ressource audio**
+
+- Ouvrez le projet et, dans le volet de l'éditeur, cliquez sur l'icône de nouvelle mise en page
+- Dans la nouvelle colonne, cliquez sur le **sélecteur de ressources**
+- Cette action ouvrira la page Ressources
+- Sélectionnez **Audio**
+- Cliquez sur l'onglet *collection* pour importer des ressources depuis le stockage local
+- Cliquez sur **Sélectionner un dossier**
+- Sélectionnez le fichier de votre PC que vous souhaitez télécharger
+- Sélectionnez l'option de téléchargement
+  
+Vous pourrez voir le fichier si vous cliquez sur l'onglet **Audio**.
+
+<video controls src="/0.5.3/en_audioresource_import.mov" width="100%" type="video/mov"/>
