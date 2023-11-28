@@ -5,6 +5,12 @@ title: Qu'est-ce que Scribe SE ?
 slug: '/'
 ---
 
+:::tip Fonctionnalités introduites dans la version 0.5.5
+
+[Télécharger des ressources d'aide](../How-to/p9-2-offlineupload.md)
+
+:::
+
 **Scribe Scripture Editor** est un outil de traduction biblique facile à utiliser conçu pour permettre aux traducteurs de langue maternelle de remplir rapidement et efficacement diverses tâches liées à la traduction biblique avec une formation minimale.
 
 

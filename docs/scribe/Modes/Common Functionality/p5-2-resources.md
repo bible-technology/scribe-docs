@@ -169,3 +169,7 @@ This section offers a list of key biblical terms.
 You'll be able to see the file if you click the **Audio** tab.
 
 <video controls src="/0.5.3/en_audioresource_import.mov" width="100%" type="video/mov"/>
+
+### UPLOAD HELP RESOURCES
+
+To know about this feature [Go to this page](../../How-to/p9-2-offlineupload.md).
