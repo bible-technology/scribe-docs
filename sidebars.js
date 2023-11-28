@@ -102,6 +102,7 @@ module.exports = {
       label: 'How to',
       items: [
         "scribe/How-to/p9-1-scripture burrito",
+        "scribe/How-to/p9-2-offlineupload",
        
               
           ],

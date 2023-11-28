@@ -8,12 +8,12 @@ slug: '/'
 
 
 
-<!-- :::tip Features Introduced in version 0.5.2
+:::tip Features Introduced in version 0.5.5
 
 
-[Shortcut keys for Audio recording](../Modes/Oral%20Bible%20Translation/p7-1-audio%20toolbar.mdx)
+[Upload Help Resources](../How-to/p9-2-offlineupload.md)
 
-::: -->
+:::
 
 **Scribe Scripture Editor** is an easy-to-use Bible translation tool designed to empower mother tongue translators to quickly and efficiently complete various tasks related to Bible translation with minimal training.
 
