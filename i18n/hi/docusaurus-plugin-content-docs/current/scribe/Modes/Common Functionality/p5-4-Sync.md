@@ -1,5 +1,5 @@
 ---
-id: p5-5-Sync
+id: p5-4-Sync
 sidebar_label: सिंक
 title: सिंक
 ---

@@ -1,5 +1,5 @@
 ---
-id: p11-2-technical support
+id: p11-03-technical support
 sidebar_label: तकनीकी सहायता
 title: तकनीकी सहायता
 ---

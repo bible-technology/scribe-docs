@@ -17,5 +17,6 @@ title: Télécharger des ressources d'aide
 - Sélectionnez le fichier sur le disque local à télécharger
 - Cliquez sur **Télécharger**
 - Le fichier téléchargé apparaîtra dans la section **Ressources téléchargées** avec la balise **téléchargé** dans les ressources concernées.
+  
 Remarque : **Les formats pris en charge** sont les notes de traduction, les mots de traduction, les questions de traduction et l'Académie de traduction.
 

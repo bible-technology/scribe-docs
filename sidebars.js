@@ -64,16 +64,15 @@ module.exports = {
         {
           "Common Functionality": [
             "scribe/Modes/Common Functionality/p5-1-layout",
-            "scribe/Modes/Common Functionality/p5-2-resources",
-            "scribe/Modes/Common Functionality/p5-3-menu bar",
-            "scribe/Modes/Common Functionality/p5-4-font size",
-            "scribe/Modes/Common Functionality/p5-5-Sync",
+            "scribe/Modes/Common Functionality/p5-2-resources",            
+            "scribe/Modes/Common Functionality/p5-3-font size",
+            "scribe/Modes/Common Functionality/p5-4-Sync",
            
           ],
         },
         {
           "Text Bible Translation (BT)": [
-            "scribe/Modes/Text Bible Translation/p6-1-editing text",
+            // "scribe/Modes/Text Bible Translation/p6-1-editing text",
              "scribe/Modes/Text Bible Translation/p6-2-navigationlock",
              "scribe/Modes/Text Bible Translation/p6-3-bookmarks",
            
@@ -114,8 +113,14 @@ module.exports = {
     // },
     {
       type: 'doc',
+      label: 'About',
+      id: 'scribe/p11-02-about',
+    },
+
+    {
+      type: 'doc',
       label: 'Technical Support',
-      id: 'scribe/p11-2-technical support',
+      id: 'scribe/p11-03-technical support',
     }
   ],
 };

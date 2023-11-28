@@ -18,6 +18,7 @@ title: Upload Help Resources
 - Select file from local drive to upload
 - Click on **Upload**
 - The uploaded file will appear in the relevant resources under the **Downloaded Resources** section with the **Downloaded** tag.
+  
 Note: **Supported formats** are translation notes, translation words, translation questions and translation academy
 
 

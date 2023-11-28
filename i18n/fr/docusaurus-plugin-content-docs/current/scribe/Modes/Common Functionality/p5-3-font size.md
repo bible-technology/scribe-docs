@@ -1,5 +1,5 @@
 ---
-id: p5-4-font size
+id: p5-3-font size
 sidebar_label: Taille de police
 title: Taille de police
 ---
