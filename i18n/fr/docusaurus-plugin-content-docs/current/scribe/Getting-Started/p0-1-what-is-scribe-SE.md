@@ -7,7 +7,7 @@ slug: '/'
 
 :::tip Fonctionnalités introduites dans la version 0.5.5
 
-[Télécharger des ressources d'aide](../How-to/p9-2-Offline%20upload.md)
+[Télécharger des ressources d'aide](../How-to/p9-2-offlineupload.md)
 
 :::
 

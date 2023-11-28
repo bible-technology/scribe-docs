@@ -166,4 +166,6 @@ Vous pourrez voir le fichier si vous cliquez sur l'onglet **Audio**.
 
 <video controls src="/0.5.3/en_audioresource_import.mov" width="100%" type="video/mov"/>
 
+### TÉLÉCHARGER LES RESSOURCES D'AIDE
 
+Pour connaître cette fonctionnalité [Allez sur cette page](../../How-to/p9-2-offlineupload.md)

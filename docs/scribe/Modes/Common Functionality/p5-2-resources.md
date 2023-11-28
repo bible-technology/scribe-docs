@@ -172,4 +172,4 @@ You'll be able to see the file if you click the **Audio** tab.
 
 ### UPLOAD HELP RESOURCES
 
-To know more [check this page](./How-to/p9-2-offlineupload.md)
+To know about this feature [Go to this page](../../How-to/p9-2-offlineupload.md).
