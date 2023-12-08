@@ -12,4 +12,4 @@ title: Profile
 
 
 
-<video controls src="/assets/profile.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.5/en-profile.mov" width="100%" type="video/mov"></video>

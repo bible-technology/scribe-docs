@@ -18,4 +18,4 @@ title: App Language
   - Nepali
 - Click **Save** button to save the changes
 
-<img src="/assets/applanguage.png"  width="1000px" alt="project listing"/>
+<img src="/0.5.5/en-applanguage.png"  width="1000px" alt="project listing"/>

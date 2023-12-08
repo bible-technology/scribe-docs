@@ -17,7 +17,7 @@ title: Sync Backup
 - The user recieves a link in the mail Id given
 - Click on the link and confirm the password again to activate the user account
 - Now, login with the username and password on the **Sribe Sync page**
-<video controls src="/0.5.3/Logintotheserver.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-Logintotheserver.mov" width="100%" type="video/mov"/>
 
 ### Cloud Sync ###
 
@@ -28,8 +28,7 @@ title: Sync Backup
 - After selecting the desired project click the **SAVE TO CLOUD** button on the SYNC pane 
 - A progress bar will appear, showing the status and completion of the **sync** process
 - Once the project is successfully synced, it will be listed at the bottom of the **CLOUD PROJECTS** pane
-
-<video controls src="/0.5.3/cloudsync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-cloudsync.mov" width="100%" type="video/mp4"/>
 
 ### Creating a backup when merging a project from the server ###
 

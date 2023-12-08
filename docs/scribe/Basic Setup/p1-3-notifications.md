@@ -9,5 +9,5 @@ title: Notifications
   - Each type of notification will have a different color
 
 To return to the main page, click on the <—— arrow on the top left side of the screen. 
-<img src="/assets/notification1.png"  width="1000px" alt="notification"/>
-<img src="/assets/notification2.png"  width="1000px" alt="notification"/>
+<img src="/0.5.5/en-notification1.png"  width="1000px" alt="notification"/>
+<img src="/0.5.5/en-notification2.png"  width="1000px" alt="notification"/>
