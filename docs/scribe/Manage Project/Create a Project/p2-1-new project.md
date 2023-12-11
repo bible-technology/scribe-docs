@@ -27,7 +27,7 @@ Once a project is created, it will appear as a new item on the **PROJECTS** page
   - **Scribe** also supports TSV resources in OBS Translation Notes
 
 
-<video controls src="/0.5.5a/en-creating-project.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-creating-project.mov" width="100%" type="video/mov"/>
 
 ### To add a new language ###
 
