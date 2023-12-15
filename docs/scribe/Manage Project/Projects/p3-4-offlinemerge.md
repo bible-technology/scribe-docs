@@ -15,10 +15,10 @@ This page allows users to review conflicting changes, decide how to resolve them
 - Click **Import** <img src="/assets/import01.png" width="80px" alt=""/> in the top right corner of the projects page
 - Choose the desired folder for import and click on **Select Folder/Open**
 - The **IMPORT PROJECT** dialogue box will appear and display project details, such as Scripture Burrito directory, Project and language name, and project type
-<img src="/assets/importdialoge.png" width="100%" alt=""/>
+<img src="/0.5.5/en-importdialoge.png" width="100%" alt=""/>
 - To confirm the import, click the **IMPORT** button <img src="/assets/import03.png" width="80px" alt=""/>
 - A **Replace Resource** dialogue box will open with the options to **Replace and Merge** <i>(only for OBS)</i> 
-<img src="/assets/replaceandmerge01.png" width="100%" alt=""/>
+<img src="/0.5.5/en-replaceandmerge01.png" width="100%" alt=""/>
 - If **Replace** is chosen, the entire project is replaced by the incoming content
 - If the user selects the **Merge** option
 - It will process the project Merge operation
@@ -27,7 +27,7 @@ This page allows users to review conflicting changes, decide how to resolve them
 - The user will be taken to the **Resolve Conflict** pane
 <img src="/0.5.2/resolve.png" width="100%" alt=""/>
 - Suppose the user decides to Abort the **Resolve Conflict** action. Click the close **(x)** symbol in the top right corner. It will bring an **Abort Conflict Resolution** to pop up
-<video controls src="/0.5.2/replaceandmerge.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-replaceandmerge.mov" width="100%" type="video/mov"/>
 
 ### Steps to Resolve Conflicts 
 
@@ -52,6 +52,6 @@ This page allows users to review conflicting changes, decide how to resolve them
    <img src="/0.5.2/rrsolve.PNG" width="100%" alt=""/>
 - Once all the conflicts have been resolved a button will appear, stating **Resolved**
 - Click **Done** to finish the process
-<video controls src="/0.5.2/conflictresolves.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-conflictresolves.mov" width="100%" type="video/mov"/>
 
 

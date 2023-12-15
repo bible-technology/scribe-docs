@@ -16,7 +16,7 @@ title: Sync Collabration
 - The user recieves a link in the mail Id given
 - Click on the link and confirm the password again to activate the user account
 - Now, login with the username and password on the **Sribe Sync page**
-<video controls src="/0.5.3/Logintotheserver.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-Logintotheserver.mov" width="100%" type="video/mov"/>
 
 ### Cloud Sync ###
 
@@ -28,7 +28,7 @@ title: Sync Collabration
 - A progress bar will appear, showing the status and completion of the **sync** process
 - Once the project is successfully synced, it will be listed at the bottom of the **CLOUD PROJECTS** pane
 
-<video controls src="/0.5.3/cloudsync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-cloudsync.mov" width="100%" type="video/mp4"/>
 
 
 
@@ -44,7 +44,7 @@ title: Sync Collabration
 - The downloaded project will appear in the **SYNC** pane 
 - To edit the downloaded project, navigate to the PROJECTS page and choose the downloaded project 
 
-<video controls src="/0.5.3/offlinesync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-offlinesync.mov" width="100%" type="video/mp4"/>
 
 
 
@@ -72,7 +72,7 @@ title: Sync Collabration
 - A notification stating 'project sync to scribe successful' will appear in the bottom left side
 - The project has now been set up for work 
 
-<video controls src="/0.5.3/collabsync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-collabsync.mov" width="100%" type="video/mp4"/>
 
 
 
@@ -88,7 +88,7 @@ title: Sync Collabration
 - Click on the **SAVE TO CLOUD** button on the top left side of the screen
 - On the top of the screen, the user can see the uploading progress bar
 - The project will then be uploaded to the DOOR43 remote server and displayed to the user in the right-hand column of the screen
-<video controls src="/0.5.3/syncaproject.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-syncaproject.mov" width="100%" type="video/mp4"/>
 
 ### Sync a project from the project module ###
 
@@ -100,7 +100,7 @@ A project can be directly synced by the user from the project module.
 - Click the **Sync** button
 - The uploading progress bar will be displayed at the top
 - (Login to the DOOR43 server if you are not done yet)
-<video controls src="/0.5.3/projectsync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-projectsync.mov" width="100%" type="video/mp4"/>
 
 ### Sync back a project from the DOOR43 remote server ###
 
@@ -117,7 +117,7 @@ The user can **Sync** a project from the server to the local system. Ensure that
 - The user can see the uploading progress bar
 - With this, a project will be synced back from the server
 
-<video controls src="/0.5.3/syncback.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-syncback.mov" width="100%" type="video/mov"/>
 
 ### Merge a project from the DOOR43 remote server ###
 

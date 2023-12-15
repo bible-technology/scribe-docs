@@ -23,4 +23,4 @@ Note: **Scribe** allows to **Import** and **Export** USFM (Unified Standard Form
 
 Visit this page for more information on [Offline Merge](./p3-4-offlinemerge.md)
 
-<video controls src="/assets/importbfile.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-importbfile.mov" width="100%" type="video/mov"/>

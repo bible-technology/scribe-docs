@@ -10,7 +10,7 @@ title: Edit Project Details
 - Then select **Edit**
 - You will be directed to the Edit project page, where you may make the changes that are required
 
-<video controls src="/assets/editing-project.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-editing-project.mov" width="100%" type="video/mov"/>
 
 
 ####
