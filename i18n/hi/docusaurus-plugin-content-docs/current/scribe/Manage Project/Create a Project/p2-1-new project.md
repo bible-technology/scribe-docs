@@ -27,7 +27,7 @@ title: नया प्रोजेक्ट
    - **स्क्राइब** ओबीएस अनुवाद नोट्स में टीएसवी संसाधनों का भी समर्थन करता है।
 
 
-<video controls src="/assets/creating-project.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-creating-project.mov" width="100%" type="video/mov"/>
 
 <h2> एक नई भाषा जोड़ने के लिए </h2> 
 
@@ -42,7 +42,7 @@ title: नया प्रोजेक्ट
 - स्क्रिप्ट दिशा चुनें **(RTl या LTR)**
 - **बनाएँ** बटन पर क्लिक करें
 
-<video controls src="/assets/adding-new-language.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-adding-new-language.mov" width="100%" type="video/mov"/>
 
 
     

@@ -17,5 +17,5 @@ The **Sync** button enables the users to sync the project within the editor pane
         Choose the user name for Door 43 
         Click the Sync button
         
-<video controls src="/0.5.3/en_project_sync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en_project_sync.mov" width="100%" type="video/mp4"/>
 

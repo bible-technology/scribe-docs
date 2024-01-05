@@ -11,7 +11,7 @@ title: Langue de l'application
 - Choisissez la langue dans laquelle vous souhaitez travailler dans le menu déroulant de la langue de l'application
 
 ### Scribe prend en charge les langues suivantes ###
-  - Anglais
+  - Anglaiss
   - Hindi
   - Русский
   - Farsi

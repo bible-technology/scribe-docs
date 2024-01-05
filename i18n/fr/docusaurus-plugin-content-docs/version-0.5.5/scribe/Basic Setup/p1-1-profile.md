@@ -12,7 +12,7 @@ La page **Profil** contient toutes les informations sur l'utilisateur. Toutes le
 
 
 
-<video controls src="/assets/profile.mov" width="100%" type="video/mov"> </video>
+<video controls src="/0.5.5/en-profile.mov.mov" width="100%" type="video/mov"> </video>
 
 
  

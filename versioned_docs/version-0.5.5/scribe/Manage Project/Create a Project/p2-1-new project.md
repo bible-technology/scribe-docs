@@ -27,7 +27,7 @@ Once a project is created, it will appear as a new item on the **PROJECTS** page
   - **Scribe** also supports TSV resources in OBS Translation Notes
 
 
-<video controls src="/assets/creating-project.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-creating-project" width="100%" type="video/mov"/>
 
 ### To add a new language ###
 
@@ -41,7 +41,7 @@ If the desired language isn't listed in the target language drop-down menu, the 
 - Choose the script direction **(RTL or LTR)**
 - Click the **CREATE** button
 
-<video controls src="/assets/adding-new-language.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-adding-new-language.mov" width="100%" type="video/mov"/>
 
 
     

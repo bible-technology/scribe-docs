@@ -18,7 +18,7 @@ In order to start translating with the help of **Scribe** application, the user 
 - If you already have an account, sign in by selecting your username from the View More menu
 - This opens the **PROJECTS Page** for the users to work in **Scribe**
 
-<video controls src="/assets/signing-in.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-signing-in.mov" width="100%" type="video/mov"/>
 
 ### Sign in function ###
 
@@ -40,4 +40,4 @@ To assist with this, there is a **View More** option on the **Sign In** page. Th
 - Next to the user name, click the **Restore** icon
 - The selected user name appears in the **Active** list
 
-<video controls src="/assets/sigindeleteaechive.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-sigindeleteaechive.mov" width="100%" type="video/mov"/>

@@ -9,4 +9,4 @@ Steps to change the Font Size of your project
 - Select the small letter A to make the font size smaller
 - Select the big letter A to make the font size larger
 
-<video controls src="/0.5.3/en_fontsize.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en_fontsize.mov" width="100%" type="video/mov"/>

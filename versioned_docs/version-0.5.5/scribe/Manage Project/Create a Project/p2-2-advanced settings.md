@@ -23,4 +23,4 @@ The **Advanced Settings** allow the user to edit more specific project details, 
   -  **Scribe** encourages users to select a public domain so that Bible translations may be accessible to the general public
   -  To save changes, make sure to click on the **Save** button on the bottom left side of the screen
 
-<video controls src="/assets/advanced-settings.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-advanced-settings.mov" width="100%" type="video/mov"/>

@@ -25,5 +25,5 @@ title: Archive Project
 The Archive appears in the Sidebar once you archive at least one note. Notes in the Archive do not appear in search results elsewhere, but you can select the Archive section and search its notes.
 If you have, archived notes will sync between your devices.
 
-<video controls src="/assets/softdelete.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-softdelete.mov" width="100%" type="video/mov"/>
 

@@ -29,7 +29,7 @@ Sur la page des projets, créez un nouveau projet.
 - Après une exportation réussie, une notification apparaîtra en bas à gauche de l'écran, confirmant que le projet a été exporté avec succès
 
 L'utilisateur peut se référer à des ressources **Bible, OBS et Audio** de l'ordinateur local en les chargeant vers Scribe.
-<video controls src="/0.5.3/en_burritofile_create.mov" width="100%" type="video/mp4"></video>
+<video controls src="/0.5.6/en_burritofile_create.mov" width="100%" type="video/mp4"></video>
 
 ###
 #### Étapes pour télécharger des fichiers bibliques Burrito (ressources) à partir de l'appareil local
@@ -44,5 +44,5 @@ L'utilisateur peut se référer à des ressources **Bible, OBS et Audio** de l'o
 - Sélectionnez le fichier depuis le lecteur local à télécharger
 - Cliquez sur Télécharger
 - Le fichier téléchargé apparaîtra dans les onglets Bible, OBS et Audio selon la saveur choisie
-<video controls src="/0.5.3/en_burritofile_import.mov" width="100%" type="video/mp4"></video>
+<video controls src="/0.5.6/en_burritofile_import.mov" width="100%" type="video/mp4"></video>
  
