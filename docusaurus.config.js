@@ -92,10 +92,10 @@ const config = {
    
     algolia: {
       // The application ID provided by Algolia
-      appId: process.env.APP_ID,
- 
+      appId: BKMMWW9E98,
+
       // Public API key: it is safe to commit it
-      apiKey: process.env.API_KEY,
+      apiKey: 2ed30216081fba4be4b13d2005b8fc1a,
  
       indexName: 'scribedocs',
  
