@@ -142,9 +142,9 @@ title: संसाधन
 यह खंड महत्वपूर्ण बाइबलीय शब्दों की एक सूची प्रदान करता है।
 
 किसी संसाधन को आयात करने के लिए, निम्नलिखित चरणों का पालन करें।
-<p> </p>
+<!-- <p> </p>
  
-<!-- <video controls src="/assets/adding-resources.mov" width="100%" type="video/mov"/> -->
+<video controls src="/assets/adding-resources.mov" width="100%" type="video/mov"/> -->
 
 ### ऑडियो
 
