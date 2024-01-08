@@ -23,4 +23,4 @@ title: एडवांस सेटिंग्स
    - **स्क्राइब** उपयोगकर्ताओं को एक सार्वजनिक डोमेन चुनने के लिए प्रोत्साहित करता है ताकि बाइबल अनुवाद आम जनता के लिए सुलभ हो सके।
    - परिवर्तनों को सहेजने के लिए, स्क्रीन के नीचे बाईं ओर **सहेजें** बटन पर क्लिक करना सुनिश्चित करें।
 
-<video controls src="/assets/advanced-settings.mov" width="100%" type="video/mov"/>
+<video controls src="0.5.5/en-advanced-settings.mov" width="100%" type="video/mov"/>

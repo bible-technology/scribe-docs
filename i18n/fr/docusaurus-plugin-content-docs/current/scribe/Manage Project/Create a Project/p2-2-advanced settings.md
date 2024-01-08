@@ -24,4 +24,4 @@ Les **Paramètres Avancés** permettent à l'utilisateur de modifier des détail
   -  **Scribe** encourage les utilisateurs à sélectionner un domaine public afin que les traductions de la Bible puissent être accessibles au public en général
   -  Pour enregistrer les modifications, assurez-vous de cliquer sur le bouton **Enregistrer** en bas à gauche de l'écran
 
-<video controls src="/assets/advanced-settings.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.5/en-advanced-settings.mov" width="100%" type="video/mov"></video>

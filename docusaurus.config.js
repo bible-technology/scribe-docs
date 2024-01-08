@@ -1,6 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
+require('dotenv').config();
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -51,13 +51,13 @@ const config = {
           lastVersion: 'current',
           versions: {
              current: {
-               label: '0.5.5',
+               label: '0.5.6',
                badge: false
                 },
             },
 
 
-          onlyIncludeVersions: ['current', '0.5.4', '0.5.3']
+          onlyIncludeVersions: ['current', '0.5.5', '0.5.4']
             
             
           
@@ -89,11 +89,28 @@ const config = {
   themeConfig:
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   {
+   
+    algolia: {
+      // The application ID provided by Algolia
+      appId: 'BKMMWW9E98',
+
+      // Public API key: it is safe to commit it
+      apiKey: '2ed30216081fba4be4b13d2005b8fc1a',
+ 
+      indexName: 'scribedocs',
+ 
+      // Optional: see doc section below
+      contextualSearch: true,
+    },
+
+
+
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
       respectPrefersColorScheme: true,
     },
+
     navbar: {
       title: 'Scribe',
       logo: {
