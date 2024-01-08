@@ -15,7 +15,7 @@ title: Synchroniser la collaboration
 - L'utilisateur reçoit un lien dans l'identifiant de courriel fourni
 - Cliquez sur le lien et confirmez à nouveau le mot de passe pour activer le compte utilisateur
 - Maintenant, connectez-vous avec le nom d'utilisateur et le mot de passe sur la **Sribe Synchroniser page**
-<video controls src="/assets/Logintotheserver.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.5/en-Logintotheserver.mov" width="100%" type="video/mov"></video>
 
 ### Synchronisation vers le cloud
 
@@ -27,7 +27,7 @@ title: Synchroniser la collaboration
 - Une barre de progression va apparaître, montrant l'état et la finalisation du processus **Synchronisation**
 - Une fois le projet synchronisé avec succès, il sera listé au bas du volet **Projets sur le cloud**
 
-<video controls src="/assets/cloudsync.mov" width="100%" type="video/mp4"></video>
+<video controls src="/0.5.5/en-cloudsync.mov" width="100%" type="video/mp4"></video>
 
 
 
@@ -43,7 +43,7 @@ title: Synchroniser la collaboration
 - Le projet téléchargé apparaîtra dans le volet **SYNCHRONISER**
 - Pour modifier le projet téléchargé, accédez à la page PROJETS et choisissez le projet téléchargé
 
-<video controls src="/assets/offlinesync.mov" width="100%" type="video/mp4"></video>
+<video controls src="/0.5.5/en-offlinesync.mov" width="100%" type="video/mp4"></video>
 
 
 
@@ -71,7 +71,7 @@ title: Synchroniser la collaboration
 - Une notification indiquant 'Synchronisation du projet au scribe réussie' apparaîtra en bas à gauche
 - Le projet a été mis en place pour le travail
 
-<video controls src="/assets/collabsync.mov" width="100%" type="video/mp4"></video>
+<video controls src="/0.5.5/en-collabsync.mov" width="100%" type="video/mp4"></video>
 
 
 
@@ -86,7 +86,7 @@ title: Synchroniser la collaboration
 - Glisser et déposer un projet vers le conteneur placé sur le côté droit de l'écran
 - En haut de l'écran, l'utilisateur peut voir la barre de progression du téléchargement
 - Le projet sera ensuite téléchargé sur le serveur distant DOOR43 et affiché à l'utilisateur dans la colonne de droite de l'écran
-<video controls src="/assets/syncaproject.mov" width="100%" type="video/mp4"></video>
+<video controls src="/0.5.5/en-syncaproject.mov" width="100%" type="video/mp4"></video>
 
 ### Synchroniser un projet depuis le module projet
 
@@ -98,7 +98,7 @@ Un projet peut être directement synchronisé par l'utilisateur à partir du mod
 - Cliquez sur le bouton **Synchroniser**
 - La barre de progression de téléchargement sera affichée en haut
 - (Connectez-vous au serveur DOOR43 si vous n'êtes pas encore terminé)
-<video controls src="/assets/projectsync.mov" width="100%" type="video/mp4"></video>
+<video controls src="/0.5.5/en-projectsync.mov" width="100%" type="video/mp4"></video>
 
 ### Synchroniser un projet depuis le serveur distant DOOR43
 
@@ -112,7 +112,7 @@ L'utilisateur peut **Synchroniser** un projet depuis le serveur vers le système
 - Glissez et déposez un projet depuis la liste du serveur DOOR43 dans le conteneur sur le côté gauche de l'écran
 - Avec cela, un projet sera synchronisé depuis le serveur
 
-<video controls src="/assets/syncback.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.5/en-syncback.mov" width="100%" type="video/mov"></video>
 
 ### Fusionner un projet à partir du serveur distant DOOR43
 

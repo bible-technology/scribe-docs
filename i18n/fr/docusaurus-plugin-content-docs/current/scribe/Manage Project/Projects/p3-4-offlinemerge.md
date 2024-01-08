@@ -27,7 +27,7 @@ La fusion hors ligne fait référence au processus de fusion des modifications d
 - L'utilisateur sera redirigé vers le volet Résoudre les conflits
 <img src="/0.5.3/fr_resolve_conflict.png" width="100%" alt=""/>
 - Supposons que l'utilisateur décide d'abandonner l'action Résoudre le conflit. Cliquez sur le symbole de fermeture (x) dans le coin supérieur droit. Cela fera apparaître une fenêtre d'abandon de la résolution du conflit.
-<video controls src="/0.5.2/replaceandmerge.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.5/en-replaceandmerge.mov" width="100%" type="video/mov"></video>
 
 ### Étapes pour résoudre les conflits ###
 
@@ -52,4 +52,4 @@ La fusion hors ligne fait référence au processus de fusion des modifications d
   <img src="/0.5.3/fr_resolved.png" width="100%" alt=""/>
 - Une fois tous les conflits résolus, un bouton **apparaîtra indiquant Tous les conflits résolus : Terminer, cliquez pour terminer le processus**
 
-<video controls src="/0.5.2/conflictresolve.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.5/en-conflictresolves.mov" width="100%" type="video/mov"></video>

@@ -20,4 +20,4 @@ title: Importer un projet
 Remarque : **Scribe** permet d'importer et **Exporter** fichiers USFM (Unified Standard Format Markers) et fichiers MD. Scribe prend également en charge les ressources TSV dans les notes de traduction OBS
 
 
-<video controls src="/assets/importbfile.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.5/en-importbfile.mov" width="100%" type="video/mov"></video>

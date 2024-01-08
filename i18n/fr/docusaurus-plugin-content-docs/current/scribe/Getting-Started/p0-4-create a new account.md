@@ -17,7 +17,7 @@ Afin de commencer à traduire avec l'aide de l'application **Scribe** , l'utilis
 
 - Si vous avez déjà un compte, connectez-vous en sélectionnant votre nom d'utilisateur dans le menu Voir plus
 - Ceci ouvre la page **PROJECTS Page** pour que les utilisateurs puissent travailler dans **Scribe**
-<video controls src="/assets/signing-in.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.5/en-signing-in.mov" width="100%" type="video/mov"></video>
 ###
 ### Fonction de connexion 
 
@@ -37,4 +37,4 @@ Afin de commencer à traduire avec l'aide de l'application **Scribe** , l'utilis
 - À côté du nom d'utilisateur, cliquez sur l'icône **Restaurer**
 - Le nom d'utilisateur sélectionné apparaît dans la liste **Actif**
 
-<video controls src="/assets/sigindeleteaechive.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.5/en-sigindeleteaechive.mov" width="100%" type="video/mov"></video>

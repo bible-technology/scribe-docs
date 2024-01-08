@@ -18,6 +18,6 @@ title: लेआउट
 - एक संपादक फलक खुलेगा
 - संदर्भ संसाधनों के लिए लेआउट जोड़ने के लिए संपादक फलक के ऊपरी दाईं ओर लेआउट आइकन पर क्लिक करें।
 
-<video controls src="/assets/add-columns.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-add-columns.mov" width="100%" type="video/mov"/>
 
 

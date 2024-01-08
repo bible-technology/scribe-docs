@@ -18,7 +18,7 @@ title: Exporter projet
 - Après une exportation réussie, une notification apparaîtra en bas à gauche de l'écran, confirmant que le projet a été exporté avec succès
 
 
-<video controls src="/0.5.3/exportfile.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.5/en-exportfile.mov" width="100%" type="video/mov"></video>
 
 ### Comment exporter le fichier Audio ? 
 
@@ -32,6 +32,6 @@ title: Exporter projet
    - **Projet complet :** Vous pouvez exporter l'intégralité du projet en utilisant ce choix, il ajoutera toutes les prises individuelles du projet.
   
 **Remarque :** Si le texte est disponible, vous pouvez exporter le fichier avec celui-ci en cliquant sur la case à cocher.
-<video controls src="/0.5.3/en_audio_toolbar12.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en_audio_toolbar12.mov" width="100%" type="video/mov"/>
 
 

@@ -16,7 +16,7 @@ title: समन्वयन सहयोग
 - यूजर को दी गई मेल आईडी में एक लिंक मिलता है
 - लिंक पर क्लिक करें और उपयोगकर्ता खाते को सक्रिय करने के लिए पासवर्ड की दोबारा पुष्टि करें
 - अब, **Sribe सिंक पेज** पर उपयोगकर्ता नाम और पासवर्ड के साथ लॉगिन करें
-<video controls src="/0.5.3/Logintotheserver.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-Logintotheserver.mov" width="100%" type="video/mov"/>
 
 ### क्लाउड सिंक ###
 
@@ -28,7 +28,7 @@ title: समन्वयन सहयोग
 - एक प्रगति पट्टी दिखाई देगी, जो **सिंक** प्रक्रिया की स्थिति और पूर्णता दिखाएगी
 - एक बार प्रोजेक्ट सफलतापूर्वक सिंक हो जाने पर, इसे **क्लाउड प्रोजेक्ट्स** फलक के नीचे सूचीबद्ध किया जाएगा।
 
-<video controls src="/0.5.3/cloudsync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-cloudsync.mov" width="100%" type="video/mp4"/>
 
 
 
@@ -44,7 +44,7 @@ title: समन्वयन सहयोग
 - डाउनलोड किया गया प्रोजेक्ट **SYNC** फलक में दिखाई देगा
 - डाउनलोड किए गए प्रोजेक्ट को संपादित करने के लिए, प्रोजेक्ट पेज पर जाएं और डाउनलोड किए गए प्रोजेक्ट को चुनें
 
-<video controls src="/0.5.3/offlinesync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-offlinesync.mov" width="100%" type="video/mp4"/>
 
 
 
@@ -72,7 +72,7 @@ title: समन्वयन सहयोग
 - नीचे बाईं ओर 'प्रोजेक्ट सिंक टू स्क्राइब सफल' बताने वाली एक अधिसूचना दिखाई देगी
 - परियोजना अब काम के लिए स्थापित की गई है
 
-<video controls src="/0.5.3/collabsync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-collabsync.mov" width="100%" type="video/mp4"/>
 
 
 
@@ -88,7 +88,7 @@ title: समन्वयन सहयोग
 - स्क्रीन के ऊपर बाईं ओर **सेव टू क्लाउड** बटन पर क्लिक करें
 - स्क्रीन के शीर्ष पर, उपयोगकर्ता अपलोडिंग प्रगति बार देख सकता है
 - फिर प्रोजेक्ट को DOOR43 रिमोट सर्वर पर अपलोड किया जाएगा और स्क्रीन के दाहिने कॉलम में उपयोगकर्ता को प्रदर्शित किया जाएगा
-<video controls src="/0.5.3/syncaproject.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-syncaproject.mov" width="100%" type="video/mp4"/>
 
 ### किसी प्रोजेक्ट को प्रोजेक्ट मॉड्यूल से सिंक करें ###
 
@@ -100,7 +100,7 @@ title: समन्वयन सहयोग
 - **सिंक** बटन पर क्लिक करें
 - अपलोडिंग प्रोग्रेस बार सबसे ऊपर प्रदर्शित होगा
 - (यदि आपने अभी तक काम पूरा नहीं किया है तो DOOR43 सर्वर पर लॉगिन करें)
-<video controls src="/0.5.3/projectsync.mov" width="100%" type="video/mp4"/>
+<video controls src="/0.5.5/en-projectsync.mov" width="100%" type="video/mp4"/>
 
 ### DOOR43 रिमोट सर्वर से किसी प्रोजेक्ट को वापस सिंक करें ###
 
@@ -117,7 +117,7 @@ title: समन्वयन सहयोग
 - उपयोगकर्ता अपलोडिंग प्रगति बार देख सकता है
 - इससे एक प्रोजेक्ट सर्वर से वापस सिंक हो जाएगा
 
-<video controls src="/0.5.3/syncback.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-syncback.mov" width="100%" type="video/mov"/>
 
 ### किसी प्रोजेक्ट को DOOR43 रिमोट सर्वर से मर्ज करें ###
 

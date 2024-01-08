@@ -21,4 +21,4 @@ title: प्रोजेक्ट आयात करें
 #### प्रोजेक्ट को आयात करने से उपयोगकर्ता ऑफ़लाइन रहते हुए इसे मर्ज कर सकते हैं।
 अधिक जानकारी के लिए इस पेज पर जाएँ। [ऑफलाइन मर्ज](./p3-4-offlinemerge.md)
 
-<video controls src="/assets/importbfile.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-importbfile.mov" width="100%" type="video/mov"/>

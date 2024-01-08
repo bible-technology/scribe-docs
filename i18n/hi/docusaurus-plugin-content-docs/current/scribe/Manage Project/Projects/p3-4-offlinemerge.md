@@ -30,7 +30,7 @@ title: ऑफ़लाइन मर्ज
 <img src="/0.5.3/hi_resolve_conflict.png" width="100%" alt=""/>
 
 - मान लीजिए कि उपयोगकर्ता **संघर्ष का समाधान** कार्रवाई को निरस्त करने का निर्णय लेता है। ऊपरी दाएं कोने में बंद **(x)** प्रतीक पर क्लिक करें। यह पॉप अप में **निरस्त संघर्ष संकल्प** लाएगा
-<video controls src="/0.5.2/replaceandmerge.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-replaceandmerge.mov" width="100%" type="video/mov"/>
 
 ### मतभेदों को सुलझाने के लिए कदम ###
 
@@ -54,6 +54,6 @@ title: ऑफ़लाइन मर्ज
 - पैन के बाएँ खंड में, हल किए गए फ़ाइल को स्ट्राइकथ्रू के रूप में चिह्नित किया गया है, जिससे यह स्पष्ट होता है कि उसे हल किया गया है।
 <img src="/0.5.3/hi_resolve_conflict1.png" width="100%" alt=""/>
 - जब सभी विवादों को हल कर दिया गया हो, तो एक बटन प्रदर्शित होगा, जिसमें लिखा होगा: सभी विवाद हल हो गए हैं: प्रक्रिया समाप्त करने के लिए क्लिक करें।
-<video controls src="/0.5.2/conflictresolves.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-conflictresolves.mov" width="100%" type="video/mov"/>
 
 

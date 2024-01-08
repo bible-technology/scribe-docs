@@ -12,7 +12,7 @@ title: संसाधन
 **स्क्राइब** अनुवादकों को उनके काम में मदद के लिए विभिन्न अनुवाद संसाधन प्रदान करता है। उपलब्ध स्क्राइब परियोजनाओं के लिए ऑनलाइन संसाधनों के साथ-साथ, अनुवादक अपने स्थानीय संचयन से फ़ाइलें अपलोड कर सकते हैं, जिन्हें वह अपने अनुवाद काम के संदर्भ के रूप में उपयोग कर सकते हैं।
 
 स्क्राइब अनुवादकों की मदद करता है कि वे संभावत: ज्यादा भाषाओं में उत्कृष्ट संसाधनों की पहुँच प्राप्त करें और तेज़ी और गुणवत्ता के साथ अनुवाद परियोजनाओं को पूरा करें।
-<video controls src="/0.5.3/import-resources.mov" width="100%" type="video/mov"> </video>
+<video controls src="/0.5.6/en-import-resources.mov" width="100%" type="video/mov"> </video>
 
 
 ### संसाधनों के प्रकार ###
@@ -42,7 +42,7 @@ title: संसाधन
 - अपने पीसी से वह फ़ाइल चुनें जिसे आप अपलोड करना चाहते हैं
 - **अपलोड विकल्प** चुनें
 यदि आप बाइबल टैब पर क्लिक करेंगे तो आप फ़ाइल देख पाएँगे।
-<video controls src="/0.5.3/import-resources-bible.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.6/en-import-resources-bible.mov" width="100%" type="video/mov"></video>
 
 ### अन्य संदर्भ संसाधन डाउनलोड करने के लिए
 निम्नलिखित संसाधनों का उपयोग **ऑनलाइन** और **ऑफ़लाइन** दोनों तरह से किया जा सकता है: **अनुवाद नोट्स, अनुवाद शब्द, अनुवाद प्रश्न, अनुवाद अकादमी और ओबीएस संसाधन**
@@ -58,12 +58,12 @@ title: संसाधन
 - अप्रयुक्त संसाधनों को हटाने के लिए **ट्रैश बिन** आइकन पर क्लिक करें <img src="/0.5.3/trashbin.png"  width="30px" alt="trashbin"/>
   
 **नोट**: बाइबिल अनुवाद शब्द सूची और ओबीएस अनुवाद शब्द सूची का उपयोग **केवल ऑनलाइन** किया जा सकता है (अनुवाद शब्द सूची देखें)।
-<video controls src="/0.5.3/download-resources-cmn.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.6/en-download-resources-cmn.mov" width="100%" type="video/mov"></video>
 
 ### अनुवाद नोट्स ###
 
 स्क्राइब वर्तमान में विभिन्न भाषाओं में अनुवाद नोट्स का समर्थन करता है।
-<video controls src="/0.5.3/import-resources-trans-notes.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.6/en-import-resources-trans-notes.mov" width="100%" type="video/mov"></video>
 
 
 ### अनुवाद शब्दों की सूची ###
@@ -75,7 +75,7 @@ title: संसाधन
 - इस क्रिया से संसाधन पृष्ठ खुल जाएगा
 - वहां से, आपको जिस भाषा की आवश्यकता है उसके लिए अनुवाद शब्द सूची का चयन करें
 - चुना गया संसाधन संदर्भ कॉलम में दिखाई देगा
-<video controls src="/0.5.3/import-resources-transwordlist.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.6/en-import-resources-transwordlist.mov" width="100%" type="video/mov"></video>
 
 ### अनुवाद शब्द ###
 अनुवादित शब्दों की सूची तीन श्रेणियों में विभाजित है:
@@ -85,7 +85,7 @@ title: संसाधन
 **नाम** - इस सूची में तथ्य, बाइबल संदर्भ, बाइबल कहानियों के उदाहरण और बाइबल में लोगों के बारे में शब्द डेटा शामिल हैं।
 
 **अन्य** - यह अतिरिक्त बाइबल शब्दों की एक सूची है। सूची में परिभाषा, बाइबल संदर्भ और शब्द डेटा सभी शामिल हैं।
-<video controls src="/0.5.3/import-resources-transwords.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.6/en-import-resources-transwords.mov" width="100%" type="video/mov"></video>
 
 ### अनुवाद प्रश्न ###
 
@@ -116,7 +116,7 @@ title: संसाधन
 डाउनलोड की गई बाइबल कहानी सूची के शीर्ष पर दिखाई देगी। यह आपको डाउनलोड किए गए संसाधनों पर नज़र रखने की अनुमति देता है।
 आप भाषा जैसी जानकारी दर्ज करके और संसाधन अनुभाग में दी गई विंडो में टाइप करके भी एक बाइबल कहानी चुन सकते हैं।
 ओबीएस टैब पर क्लिक करके, आप डाउनलोड की गई बाइबल कहानी को संदर्भ के लिए उपयोग कर सकेंगे।
-<video controls src="/0.5.3/obsresourcedownload.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.6/en-obsresourcedownload.mov" width="100%" type="video/mov"></video>
 
 ### <i>स्थानीय से संसाधन अपलोड करने के लिए,</i> संग्रह ###
 
@@ -127,7 +127,7 @@ title: संसाधन
 - अपने पीसी से वह फ़ाइल चुनें जिसे आप अपलोड करना चाहते हैं
 - अपलोड विकल्प चुनें
 यदि आप ओबीएस टैब पर क्लिक करेंगे तो आप फ़ाइल देख पाएँगे।
-<video controls src="/0.5.3/obsresoucollection.mov" width="100%" type="video/mov"></video>
+<video controls src="/0.5.6/en-obsresoucollection.mov" width="100%" type="video/mov"></video>
 
 ### ओबीएस अनुवाद नोट्स ###
 
@@ -144,7 +144,7 @@ title: संसाधन
 किसी संसाधन को आयात करने के लिए, निम्नलिखित चरणों का पालन करें।
 <p> </p>
  
-<video controls src="/assets/adding-resources.mov" width="100%" type="video/mov"/>
+<!-- <video controls src="/assets/adding-resources.mov" width="100%" type="video/mov"/> -->
 
 ### ऑडियो
 
@@ -161,7 +161,7 @@ title: संसाधन
   
 यदि आप **ऑडियो** टैब पर क्लिक करेंगे तो आप फ़ाइल देख पाएंगे।
 
-<video controls src="/0.5.3/en_audioresource_import.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.6/en_audioresource_import.mov" width="100%" type="video/mov"/>
 
 
 ### सहायता संसाधन अपलोड करें

@@ -18,7 +18,7 @@ title: नया खाता बनाएँ
 - यदि आपके पास पहले से ही एक खाता है, तो अधिक मेनू देखें से अपना उपयोगकर्ता नाम चुनकर साइन इन करें
 - यह उपयोगकर्ताओं के लिए **स्क्राइब** में काम करने के लिए **प्रोजेक्ट्स पेज** खोलता है
 
-<video controls src="/assets/signing-in.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-signing-in.mov" width="100%" type="video/mov"/>
 
 ### साइन इन फ़ंक्शन ###
 
@@ -39,4 +39,4 @@ title: नया खाता बनाएँ
 - उपयोगकर्ता नाम के आगे, **पुनर्स्थापित करें** आइकन पर क्लिक करें
 - चयनित उपयोगकर्ता नाम **सक्रिय** सूची में दिखाई देता है
 
-<video controls src="/assets/sigindeleteaechive.mov" width="100%" type="video/mov"/>
+<video controls src="/0.5.5/en-sigindeleteaechive.mov" width="100%" type="video/mov"/>

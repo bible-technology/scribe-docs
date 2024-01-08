@@ -26,7 +26,7 @@ Sur la page **Nouveau projet** , l'utilisateur peut créer différents modes de 
   - **Scribe** prend également en charge les ressources TSV dans les notes de traduction OBS
 
 
-<!-- <video controls src="/assets/creating-project.mov" width="100%" type="video/mov"> -->
+<video controls src="/0.5.5/en-creating-project.mov" width="100%" type="video/mov"/>
 
 ### Ajouter une nouvelle langue ###
 

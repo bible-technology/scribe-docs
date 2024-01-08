@@ -16,5 +16,5 @@ title: सिंक
         DOOR 43 के लिए उपयोगकर्ता नाम चुनें,
          सिंक बटन पर क्लिक करें।
         
-<video controls src="/assets/projectsync.mov" width="100%" type="video/mp4"></video>
+<video controls src="/0.5.5/en_project_sync.mov" width="100%" type="video/mp4"></video>
 
