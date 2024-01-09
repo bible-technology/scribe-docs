@@ -19,3 +19,5 @@ title: Upload Help Resources
 - The uploaded file will appear in the relevant resource section under the **Downloaded Resources** section with the **Uploaded** tag.
 
 Note: **Supported formats** are translation notes, translation words, translation questions and translation academy
+<video controls src="/0.5.6/en-upload-help-resource.mov" width="100%" type="video/mp4"/>
+ 

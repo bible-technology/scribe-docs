@@ -35,3 +35,4 @@ Remarque : **Les formats pris en charge** sont les notes de traduction, les mot
 - Le fichier téléchargé apparaîtra dans la section **Ressources téléchargées** avec la balise **téléchargé** dans les ressources concernées.
 
 Remarque : **Les formats pris en charge** sont les notes de traduction, les mots de traduction, les questions de traduction et l'Académie de traduction.
+<video controls src="/0.5.6/en-upload-help-resource.mov" width="100%" type="video/mp4"/>
