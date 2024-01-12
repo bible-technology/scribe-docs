@@ -51,13 +51,13 @@ const config = {
           lastVersion: 'current',
           versions: {
              current: {
-               label: '0.5.6',
+               label: '0.5.7',
                badge: false
                 },
             },
 
 
-          onlyIncludeVersions: ['current', '0.5.5', '0.5.4']
+          onlyIncludeVersions: ['current', '0.5.6', '0.5.5']
             
             
           
@@ -92,10 +92,10 @@ const config = {
    
     algolia: {
       // The application ID provided by Algolia
-      appId: 'BKMMWW9E98',
+      appId: 'APP_ID',
 
       // Public API key: it is safe to commit it
-      apiKey: '2ed30216081fba4be4b13d2005b8fc1a',
+      apiKey: 'API_KEY',
  
       indexName: 'scribedocs',
  
