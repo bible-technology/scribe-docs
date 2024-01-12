@@ -141,6 +141,7 @@ There are three tabs once you click on the Open Bible Stories
 #### OBS, RESOURCE, COLLECTION
 
 **<i>To download the Bible story of your choice, through</i>** **RESOURCE** tab
+
 Resources from the Bible are displayed in English by default; to download resources in other languages, follow the instructions. 
 
 - Click on the **RESOURCE** tab
@@ -154,6 +155,7 @@ By clicking on the OBS tab, you will be able to access the downloaded OBS story 
 <video controls src="/0.5.6/en-obsresourcedownload.mov" width="100%" type="video/mov"/>
 
 **<i>To upload resources from local, through</i>** **COLLECTION** tab
+
 Scripture burrito enabled resource folder is needed for this. [How to create Scripture Burrito folder?](../../How-to/p9-1-scripture%20burrito)
 
 You can also refer to resources from your local computer by uploading them to **Scribe**.
@@ -188,6 +190,7 @@ This section offers a list of key biblical terms.
 ### AUDIO
 
 **Steps to import the Audio resource**
+
 Scripture burrito enabled resource folder is needed for this. [How to create Scripture Burrito folder?](../../How-to/p9-1-scripture%20burrito)
 - Open the project and, within the editor pane, click on the new layout icon
 - In the new column, click on the **resource selector**
