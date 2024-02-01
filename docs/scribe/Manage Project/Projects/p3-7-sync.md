@@ -1,9 +1,9 @@
 ---
 id: p3-7-sync
-sidebar_label: Sync Collabration
-title: Sync Collabration
+sidebar_label: Sync Collaboration
+title: Sync Collaboration
 ---
-**It enables multiple user to Collabrate remotely**
+**It enables multiple user to Collaborate remotely**
 
 ### Login to the DOOR43 server ###
 
