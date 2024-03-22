@@ -1,0 +1,58 @@
+{
+  "version.label": {
+    "message": "0.5.8",
+    "description": "The label for version current"
+  },
+  "sidebar.Sribe.category.Getting-Started": {
+    "message": "ಪ್ರಾರಂಭಿಸುವುದು",
+    "description": "The label for category Getting-Started in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Basic Setup": {
+    "message": "ಬೇಸಿಕ್ ಸೆಟಪ್",
+    "description": "The label for category Basic Setup in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Manage Project": {
+    "message": "ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ನಿರ್ವಹಿಸಿ",
+    "description": "The label for category Manage Project in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Create a Project": {
+    "message": "ಪ್ರಾಜೆಕ್ಟ್ ರಚಿಸಿ",
+    "description": "The label for category Create a Project in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Projects": {
+    "message": "ಪ್ರಾಜೆಕ್ಟ್‌ಗಳು",
+    "description": "The label for category Projects in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Modes": {
+    "message": "ಮೊಡ್ಸ್ ",
+    "description": "The label for category Modes in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Common Functionality": {
+    "message": "ಸಾಮಾನ್ಯ ಕ್ರಿಯಾತ್ಮಕತೆ",
+    "description": "The label for category Common Functionality in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Text Bible Translation (BT)": {
+    "message": "ಪಠ್ಯ ಬೈಬಲ್ ಅನುವಾದ (BT)",
+    "description": "The label for category Text Bible Translation (BT) in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Oral Bible Translation (OBT)": {
+    "message": "ಮೌಖಿಕ ಬೈಬಲ್ ಅನುವಾದ (OBT)",
+    "description": "The label for category Oral Bible Translation (OBT) in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Open Bible Stories (OBS)": {
+    "message": "ಓಪನ್ ಬೈಬಲ್ ಸ್ಟೋರೀಸ್ (OBS)",
+    "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.How to": {
+    "message": "ಹೇಗೆ",
+    "description": "The label for category How to in sidebar Sribe"
+  },
+  "sidebar.Sribe.doc.About": {
+    "message": "ಬಗ್ಗೆ",
+    "description": "The label for the doc item About in sidebar Sribe, linking to the doc scribe/p11-02-about"
+  },
+  "sidebar.Sribe.doc.Technical Support": {
+    "message": "ತಾಂತ್ರಿಕ ಸಹಾಯ",
+    "description": "The label for the doc item Technical Support in sidebar Sribe, linking to the doc scribe/p11-03-technical support"
+  }
+}
