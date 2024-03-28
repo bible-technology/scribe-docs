@@ -12,7 +12,7 @@
     "description": "The label for category Basic Setup in sidebar Sribe"
   },
   "sidebar.Sribe.category.Manage Project": {
-    "message": "ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ನಿರ್ವಹಿಸಿ",
+    "message": "ಪ್ರಾಜೆಕ್ಟ್ ನಿರ್ವಹಿಸಿ",
     "description": "The label for category Manage Project in sidebar Sribe"
   },
   "sidebar.Sribe.category.Create a Project": {

@@ -1,11 +1,11 @@
 ---
 id: p2-1-new project
-sidebar_label: ಹೊಸ ಪ್ರಾಜೆಕ್ಟ್
-title: ಹೊಸ ಪ್ರಾಜೆಕ್ಟ್
+sidebar_label: New project
+title: New project
 ---
-**ಹೊಸ ಪ್ರಾಜೆಕ್ಟ್** ಪುಟದಲ್ಲಿ, ಬಳಕೆದಾರರು ಪಠ್ಯ ಬೈಬಲ್ ಅನುವಾದ, ಮೌಖಿಕ ಬೈಬಲ್ ಅನುವಾದ (ಆಡಿಯೋ) ಮತ್ತು ಓಪನ್ ಬೈಬಲ್ ಸ್ಟೋರೀಸ್ (OBS) ನಂತಹ ವಿಭಿನ್ನ ಪ್ರಾಜೆಕ್ಟ್ ಮೋಡ್‌ಗಳನ್ನು ರಚಿಸಬಹುದು.
+On the **New Project** page, the user can create different project modes like Text Bible Translation, Oral Bible Translation (Audio) and Open Bible Stories (OBS).
 
-### ಹೊಸ ಪ್ರಾಜೆಕ್ಟ್ ರಚಿಸಲು ಕ್ರಮಗಳು ###
+### Steps to create New Project ###
 - Click on the **New Project** Icon  <img src="/0.5.6/en_new_project.png" width="50px" alt=""/>  on the left side of the page
 - On the New project page, enter the below listed information.
   - Project Name
