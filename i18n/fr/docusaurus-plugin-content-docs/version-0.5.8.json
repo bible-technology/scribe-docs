@@ -1,0 +1,101 @@
+{
+
+  "version.label": {
+
+    "message": "0.5.8",
+
+    "description": "The label for version current"
+
+  },
+
+  "sidebar.Sribe.category.Getting-Started": {
+
+    "message": "Commencer",
+
+    "description": "The label for category Getting-Started in sidebar Sribe"
+
+  },
+
+  "sidebar.Sribe.category.Basic Setup": {
+
+    "message": "Configuration de base",
+
+    "description": "The label for category Basic Setup in sidebar Sribe"
+
+  },
+
+  "sidebar.Sribe.category.Manage Project": {
+
+    "message": "Gérer le projet",
+
+    "description": "The label for category Manage Project in sidebar Sribe"
+
+  },
+
+  "sidebar.Sribe.category.Create a Project": {
+
+    "message": "Créer un projet",
+
+    "description": "The label for category Create a Project in sidebar Sribe"
+
+  },
+
+  "sidebar.Sribe.category.Projects": {
+
+    "message": "Projets",
+
+    "description": "The label for category Projects in sidebar Sribe"
+
+  },
+
+  "sidebar.Sribe.category.Modes": {
+
+    "message": "Modes",
+
+    "description": "The label for category Modes in sidebar Sribe"
+
+  },
+
+  "sidebar.Sribe.category.Common Functionality": {
+
+    "message": "Fonctionnalité commune",
+
+    "description": "The label for category Common Functionality in sidebar Sribe"
+
+  },
+
+  "sidebar.Sribe.category.Text Bible Translation (BT)": {
+
+    "message": "Traduction de texte de la Bible (BT)",
+
+    "description": "The label for category Text Bible Translation (BT) in sidebar Sribe"
+
+  },
+
+  "sidebar.Sribe.category.Oral Bible Translation (OBT)": {
+
+    "message": "Traduction orale de la Bible (OBT)",
+
+    "description": "The label for category Oral Bible Translation (OBT) in sidebar Sribe"
+
+  },
+
+  "sidebar.Sribe.category.Open Bible Stories (OBS)": {
+
+    "message": "Histoires de la Bible ouverte (OBS)",
+
+    "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
+
+  },
+
+  "sidebar.Sribe.doc.Technical Support": {
+
+    "message": "Soutien technique",
+
+    "description": "The label for the doc item Technical Support in sidebar Sribe, linking to the doc scribe/p11-1-technical support"
+
+  }
+
+}
+
+ 
