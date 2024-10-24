@@ -65,9 +65,10 @@ module.exports = {
         {
           "Common Functionality": [
             "scribe/Modes/Common Functionality/p5-1-layout",
-            "scribe/Modes/Common Functionality/p5-2-resources",            
-            "scribe/Modes/Common Functionality/p5-3-font size",
-            "scribe/Modes/Common Functionality/p5-4-Sync",
+            "scribe/Modes/Common Functionality/p5-2-resources",  
+            "scribe/Modes/Common Functionality/p5-3-pdfgenerator", 
+            "scribe/Modes/Common Functionality/p5-4-font size",
+            "scribe/Modes/Common Functionality/p5-5-Sync",
            
           ],
         },
@@ -90,6 +91,14 @@ module.exports = {
         {
           "Open Bible Stories (OBS)": [
             "scribe/Modes/Open Bible Stories/p8-1-drafting",
+                       
+          ],
+        },
+        {
+          "Juxtalinear (Juxta)": [
+            "scribe/Modes/Juxtalinear/p10-1-juxtalinearoverview",
+            "scribe/Modes/Juxtalinear/p10-2-whatisjuxtalinear",
+            "scribe/Modes/Juxtalinear/p10-3-drafting",
                        
           ],
         },

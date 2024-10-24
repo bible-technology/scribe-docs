@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "0.6.1",
+    "message": "0.7.0",
     "description": "The label for version current"
   },
   "sidebar.Sribe.category.Getting-Started": {
@@ -41,6 +41,10 @@
   },
   "sidebar.Sribe.category.Open Bible Stories (OBS)": {
     "message": "ಓಪನ್ ಬೈಬಲ್ ಸ್ಟೋರೀಸ್ (OBS)",
+    "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Juxtalinear (Juxta)": {
+    "message": "ಜಕ್ಸ್ಟಾಲಿನಿಯರ್ (ಜಕ್ಸ್ಟಾ)",
     "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
   },
   "sidebar.Sribe.category.How to": {

@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "0.6.1",
+    "message": "0.7.0",
     "description": "The label for version current"
   },
   "sidebar.Sribe.category.Getting-Started": {
@@ -42,6 +42,11 @@
   "sidebar.Sribe.category.Open Bible Stories (OBS)": {
     "message": "ओपन बाइबल स्टोरीज़ (OBS)",
     "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
+  },
+
+  "sidebar.Sribe.category.Juxtalinear (Juxta)": {
+    "message": "जक्सटालीनियर (जक्सटा)",
+    "description": "The label for category जक्सटालीनियर (जक्सटा) in sidebar Sribe"
   },
   "sidebar.Sribe.category.How to": {
     "message": "कैसे करें",

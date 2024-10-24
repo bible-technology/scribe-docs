@@ -2,7 +2,7 @@
 
   "version.label": {
 
-    "message": "0.6.1",
+    "message": "0.7.0",
 
     "description": "The label for version current"
 
@@ -87,6 +87,15 @@
     "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
 
   },
+
+  "sidebar.Sribe.category.Juxtalinear (Juxta)": {
+
+    "message": "Juxtalinéaire (Juxta)",
+
+    "description": "The label for category Juxtalinear (Juxta) in sidebar Sribe"
+
+  },
+  
 
   "sidebar.Sribe.category.How to": {
 
