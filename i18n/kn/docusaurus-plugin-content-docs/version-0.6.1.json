@@ -1,0 +1,58 @@
+{
+  "version.label": {
+    "message": "0.6.1",
+    "description": "The label for version 0.5.7"
+  },
+  "sidebar.Sribe.category.Getting-Started": {
+    "message": "Getting-Started",
+    "description": "The label for category Getting-Started in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Basic Setup": {
+    "message": "Basic Setup",
+    "description": "The label for category Basic Setup in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Manage Project": {
+    "message": "Manage Project",
+    "description": "The label for category Manage Project in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Create a Project": {
+    "message": "Create a Project",
+    "description": "The label for category Create a Project in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Projects": {
+    "message": "Projects",
+    "description": "The label for category Projects in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Modes": {
+    "message": "Modes",
+    "description": "The label for category Modes in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Common Functionality": {
+    "message": "Common Functionality",
+    "description": "The label for category Common Functionality in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Text Bible Translation (BT)": {
+    "message": "Text Bible Translation (BT)",
+    "description": "The label for category Text Bible Translation (BT) in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Oral Bible Translation (OBT)": {
+    "message": "Oral Bible Translation (OBT)",
+    "description": "The label for category Oral Bible Translation (OBT) in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Open Bible Stories (OBS)": {
+    "message": "Open Bible Stories (OBS)",
+    "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.How to": {
+    "message": "How to",
+    "description": "The label for category How to in sidebar Sribe"
+  },
+  "sidebar.Sribe.doc.About": {
+    "message": "About",
+    "description": "The label for the doc item About in sidebar Sribe, linking to the doc scribe/p11-02-about"
+  },
+  "sidebar.Sribe.doc.Technical Support": {
+    "message": "Technical Support",
+    "description": "The label for the doc item Technical Support in sidebar Sribe, linking to the doc scribe/p11-03-technical support"
+  }
+}
