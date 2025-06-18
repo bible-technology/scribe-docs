@@ -54,13 +54,13 @@ const config = {
           lastVersion: 'current',
           versions: {
              current: {
-               label: '0.7.4',
+               label: '0.7.5',
                badge: false
                 },
             },
 
 
-          onlyIncludeVersions: ['current', '0.7.0', '0.6.2']
+          onlyIncludeVersions: ['current', '0.7.4', '0.7.0']
             
             
           

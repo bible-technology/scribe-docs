@@ -4,10 +4,10 @@ sidebar_label: Qu'est-ce que Scribe SE ?
 title: Qu'est-ce que Scribe SE ?
 slug: '/'
 ---
- :::tip Fonctionnalités introduites dans la version 0.7.0
+ :::tip Fonctionnalités introduites dans la version 0.7.4
 
-- [Générateur de PDF](../Modes/Common%20Functionality/p5-3-pdf%20generator.md)
-- [Juxtalinéaire (Juxta)](../Modes/Juxtalinear/p10-2-what%20is%20juxtalinear.md)
+- Amélioration des performances lors du chargement des ressources hors ligne (tq, twl, tn)
+- Correction du problème de chargement des ressources tsv tQ téléchargées.
 
 ::: 
 
