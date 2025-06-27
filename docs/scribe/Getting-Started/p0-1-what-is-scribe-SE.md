@@ -4,10 +4,10 @@ sidebar_label: What is Scribe SE?
 title: What is Scribe SE?
 slug: '/'
 ---
-:::tip Feature Introduced in version 0.7.5
+:::tip Feature Introduced in version 0.8.0
 
-- Improved Process for Uploading and Using TWL Resources
-- Performance enhancement in offline resource loading (tq,twl,tn)
+- [Audio Functionality in OBS](../Modes/Open%20Bible%20Stories/p8-1-drafting.mdx).
+
 
 :::
 
