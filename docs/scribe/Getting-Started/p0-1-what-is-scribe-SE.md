@@ -4,9 +4,9 @@ sidebar_label: What is Scribe SE?
 title: What is Scribe SE?
 slug: '/'
 ---
-:::tip Feature Introduced in version 0.8.0
+:::tip Feature Introduced in version 0.8.1
 
-- [Audio Functionality in OBS](../Modes/Open%20Bible%20Stories/p8-1-drafting.mdx).
+- [Text Editor Enhancements](../Modes/Text%20Bible%20Translation/p6-1-editing%20text.mdx).
 
 
 :::
