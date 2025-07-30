@@ -7,10 +7,10 @@ title: स्क्राइब एसई क्या है?
 
 slug: '/'
 ---
-:::tip सुविधाएँ संस्करण 0.8.0 में प्रस्तुत की गईं
+:::tip सुविधाएँ संस्करण 0.8.1 में प्रस्तुत की गईं
 
 
-[OBS के लिए ऑडियो सहायता](../Modes/Open%20Bible%20Stories/p8-1-drafting.mdx).
+[पाठ संपादक संवर्द्धन](../Modes/Text%20Bible%20Translation/p6-1-editing%20text.mdx).
 
 :::
 

@@ -4,9 +4,9 @@ sidebar_label:  ಸ್ಕ್ರೈಬ್ ಎಸ್ಇ ಎಂದರೇನು?
 title: ಸ್ಕ್ರೈಬ್ ಎಸ್ಇ ಎಂದರೇನು?
 slug: '/'
 ---
-:::tip Features Introduced in version 0.8.0
+:::tip Features Introduced in version 0.8.1
 
-[OBS ಗಾಗಿ ಆಡಿಯೋ ಸಹಾಯ](../Modes/Open%20Bible%20Stories/p8-1-drafting.mdx).
+[ಪಠ್ಯ ಸಂಪಾದಕ ವರ್ಧನೆಗಳು](../Modes/Text%20Bible%20Translation/p6-1-editing%20text.mdx).
 
 :::
 

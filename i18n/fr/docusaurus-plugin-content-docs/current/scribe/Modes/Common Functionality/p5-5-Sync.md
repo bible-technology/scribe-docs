@@ -8,7 +8,7 @@ Le bouton **Synchroniser** permet aux utilisateurs de synchroniser le projet dan
 
 **Étapes pour synchroniser le projet**
 
-- Cliquez sur le bouton **Synchroniser** <img src="/assets/cloudsyncbutton.png" alt="Windows Icon" width="50px" /> au-dessus du volet de l'éditeur
+- Cliquez sur le bouton **Synchroniser** <img src="/assets/cloudsyncbutton.PNG" alt="Windows Icon" width="50px" /> au-dessus du volet de l'éditeur
 - Une boîte de dialogue s'ouvre
     - Si l'utilisateur n'est pas connecté
         cliquez sur le bouton de connexion, la page principale de synchronisation s'affichera.
@@ -19,5 +19,7 @@ Le bouton **Synchroniser** permet aux utilisateurs de synchroniser le projet dan
      - Si l'utilisateur souhaite changer d'utilisateur,
          Cliquez sur "Impossible de trouver le nom d'utilisateur ? Veuillez vous connecter **sync**"
 
-<video controls src="/0.5.5/en_project_sync.mov" width="100%" type="video/mp4"></video>
+
+<video controls src="/0.8.1/en_project_sync.mp4" width="100%" type="video/mp4"></video>
+
 

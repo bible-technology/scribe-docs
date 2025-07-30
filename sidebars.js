@@ -74,9 +74,9 @@ module.exports = {
         },
         {
           "Text Bible Translation (BT)": [
-            // "scribe/Modes/Text Bible Translation/p6-1-editing text",
+            "scribe/Modes/Text Bible Translation/p6-1-editing text",
              "scribe/Modes/Text Bible Translation/p6-2-navigationlock",
-             "scribe/Modes/Text Bible Translation/p6-3-bookmarks",
+             // "scribe/Modes/Text Bible Translation/p6-3-bookmarks",
            
           ],
         },
