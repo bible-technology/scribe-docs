@@ -1,20 +1,127 @@
 ---
 id: p3-4-offlinemerge
 sidebar_label: Offline merge
-title: Offline merge
+title: Offline merge 
 ---
 :::note
 
-The **Offline merge** feature is applicable only for OBS.
+The **Offline merge** feature is applicable for BT and OBS.
 
 
 :::
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs
+  defaultValue="Bible Translation"
+  values={[
+    { label: 'Bible Translation (BT)', value: 'Bible Translation' },
+    { label: 'Open Bible Stories (OBS)', value: 'Open Bible Stories' },
+  ]}
+>
+
+<TabItem value="Bible Translation">
+
+The **Offline Merge** feature enables multiple translators to work independently on the same Bible translation project and later merge their changes into a unified version. 
+
+### Key Features 
+
+ - Allows translators to work offline and synchronize changes later. 
+ - Supports collaboration among multiple translators on the same project. 
+ - Helps manage and resolve conflicts during the merge process. 
+
+### Steps to Perform an Offline Merge 
+
+- Click the Import button on the Projects page. 
+- Select the desired folder and click Select/Open Folder. 
+- The **import project** dialog box will appear and display project details such as: 
+   - Scripture Burrito directory 
+   - Project name 
+   - Language 
+   - Project type 
+- To confirm, click the **import** button.
+
+<img src="/0.8.2/en_offline merge image1.png" width="1000px" alt=""/>
+
+### Replace Resource Dialog Options 
+
+- After importing a project, a dialog box appears with three options: 
+- **Replace** - Completely replaces the existing project with the new one. 
+- **Merge** – Combines the new project with the existing one. 
+   - If there are no conflicts, the updated project appears in the project list. 
+   - If there are conflicts, you'll be taken to the conflict resolution screen. 
+- **Cancel** – Closes the dialog without making any changes. 
+
+<img src="/0.8.2/en_offline merge image2.png" width="1000px" alt=""/>
+
+
+### Aborting Conflict Resolution 
+
+If the user does not wish to continue, they have the option to abort the conflict.
+
+#### Steps: 
+
+- Click the **Close (×)** button in the top-right corner. 
+- An **Abort** Conflict Resolution confirmation popup will appear. 
+- Confirm to exit without saving any current changes. 
+
+<video controls src="/0.8.2/en_conflictabort.mp4" width="100%" type="video/mov"/>
+
+### Resolving Individual Conflicts 
+
+- Each conflicting section is displayed in the editor pane. 
+- **Original** content (from the current project) appears in **black**. 
+- **New** content (from the imported project) appears in **green**. 
+
+#### Steps: 
+
+- Above each section, choose one of the following options: 
+- **Original** – Keeps the existing content. 
+- **New** – Replaces with content from the imported project. 
+- To undo a selection, click the **Reset** button above the section. 
+
+<img src="/0.8.2/en_offline merge image3.png" width="1000px" alt=""/>
+
+### Handling Chapter-Level Conflicts 
+
+#### 1. Resolve Conflicts in Sections 
+ Look at each conflict and choose either **Original** or **New**. 
+
+#### 2. Reset if Needed 
+
+ After resolving all sections, the **Reset** button becomes active. 
+ Click it to undo changes in the current file if needed. 
+
+#### 3. Complete Chapter Resolution 
+
+ When all conflicts in a chapter are resolved, the **Resolve Book** button will appear.
+
+<img src="/0.8.2/en_offline merge image4.png" width="1000px" alt=""/> 
+
+#### 4. Chapter Marked as Complete 
+
+ Once you click **Resolve Book**, the chapter number on the left will appear with a strikethrough, indicating that all conflicts in that chapter have been resolved and it is now marked as complete. 
+
+<img src="/0.8.2/en_offline merge image5.png" width="1000px" alt=""/>
+
+### Finalize the Merge 
+
+- After resolving conflicts in all chapters of a book, the user can click **Done**. 
+- Once all books are conflict-free, the user can complete the merge process by clicking the **Finish** button. 
+
+<video controls src="/0.8.2/en_conflictresolve.mp4" width="100%" type="video/mov"/>
+
+</TabItem>
+
+<TabItem value="Open Bible Stories">
+
 Visit [Import Project](./p3-3-import%20project.md) page for more information on how to import a project.
 Offline merge refers to the process of merging changes from one translator to another working on the same project. It allows translators to make changes and carry out merge operations on their local systems. 
 This feature can be used with multiple translators. When multiple users are working on the same project conflicts may occur while merging. 
 This page allows users to review conflicting changes, decide how to resolve them, and then merge them as needed.
 
-### Steps to offline merge
+<h3> Steps to offline merge </h3>
 
 - Click **Import** button <img src="/assets/import01.png" width="80px" alt=""/> on the projects page
 - Choose the desired folder for import and click on **Select/Open Folder**
@@ -33,7 +140,7 @@ This page allows users to review conflicting changes, decide how to resolve them
 - Suppose the user decides to Abort the **Resolve Conflict** action. Click the close **(x)** symbol in the top right corner. It will bring an **Abort Conflict Resolution** to pop up
 <video controls src="/0.5.5/en-replaceandmerge.mov" width="100%" type="video/mov"/>
 
-### Steps to Resolve Conflicts 
+<h3> Steps to Resolve Conflicts </h3>
 
 **The Resolve Conflict page appears when a user selects the Merge option**
 - A list of files with conflicts appears in the left section of the pane
@@ -56,5 +163,8 @@ This page allows users to review conflicting changes, decide how to resolve them
 - Once all the conflicts have been resolved a button will appear, stating **Resolved**
 - Click **Done** to finish the process
 <video controls src="/0.5.5/en-conflictresolves.mov" width="100%" type="video/mov"/>
+
+</TabItem>
+</Tabs>
 
 
