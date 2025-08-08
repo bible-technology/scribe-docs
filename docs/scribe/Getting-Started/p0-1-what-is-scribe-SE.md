@@ -4,9 +4,9 @@ sidebar_label: What is Scribe SE?
 title: What is Scribe SE?
 slug: '/'
 ---
-:::tip Feature Introduced in version 0.8.1
+:::tip Feature Introduced in version 0.8.2
 
-- [Text Editor Enhancements](../Modes/Text%20Bible%20Translation/p6-1-editing%20text.mdx).
+- [Offline merge - Bible Translation(BT)](../Manage%20Project/Projects/p3-4-offlinemerge.md).
 
 
 :::

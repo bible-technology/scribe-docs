@@ -7,10 +7,10 @@ title: स्क्राइब एसई क्या है?
 
 slug: '/'
 ---
-:::tip सुविधाएँ संस्करण 0.8.1 में प्रस्तुत की गईं
+:::tip सुविधाएँ संस्करण 0.8.2 में प्रस्तुत की गईं
 
 
-[पाठ संपादक संवर्द्धन](../Modes/Text%20Bible%20Translation/p6-1-editing%20text.mdx).
+[ऑफ़लाइन मर्ज - बाइबल अनुवाद(BT)](../Manage%20Project/Projects/p3-4-offlinemerge.md).
 
 :::
 
