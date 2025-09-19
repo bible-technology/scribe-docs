@@ -4,9 +4,9 @@ sidebar_label:  ಸ್ಕ್ರೈಬ್ ಎಸ್ಇ ಎಂದರೇನು?
 title: ಸ್ಕ್ರೈಬ್ ಎಸ್ಇ ಎಂದರೇನು?
 slug: '/'
 ---
-:::tip Features Introduced in version 0.8.2
+:::tip Features Introduced in version 1.0.0
 
-[ಆಫ್‌ಲೈನ್ ಮರ್ಜ - ಬೈಬಲ್ ಅನುವಾದ(BT)](../Manage%20Project/Projects/p3-4-offlinemerge.md).
+[ಪುಸ್ತಕ ಆಮದು](../Manage%20Project/Projects/p3-4-import%20books.md).
 
 :::
 

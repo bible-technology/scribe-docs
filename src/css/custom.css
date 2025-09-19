@@ -37,5 +37,10 @@
     font-size: 2rem !important;
 
   }
+
+  .tight-list li {
+  margin-bottom: 0;
+}
+
 }
 
