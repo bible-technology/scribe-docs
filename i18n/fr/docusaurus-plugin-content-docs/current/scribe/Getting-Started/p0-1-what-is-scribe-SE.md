@@ -4,9 +4,9 @@ sidebar_label: Qu'est-ce que Scribe SE ?
 title: Qu'est-ce que Scribe SE ?
 slug: '/'
 ---
- :::tip Fonctionnalités introduites dans la version 0.8.2
+ :::tip Fonctionnalités introduites dans la version 1.0.0
 
- [Fusion hors ligne - Traduction de la Bible (BT)](../Manage%20Project/Projects/p3-4-offlinemerge.md).
+ [Importer des livres](../Manage%20Project/Projects/p3-4-import%20books.md).
 
 ::: 
 
