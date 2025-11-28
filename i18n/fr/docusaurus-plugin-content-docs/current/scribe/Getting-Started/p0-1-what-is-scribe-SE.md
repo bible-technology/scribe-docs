@@ -4,15 +4,15 @@ sidebar_label: Qu'est-ce que Scribe SE ?
 title: Qu'est-ce que Scribe SE ?
 slug: '/'
 ---
- :::tip Fonctionnalités introduites dans la version 1.0.0
+ :::tip Fonctionnalités introduites dans la version 1.1.0
 
- [Importer des livres](../Manage%20Project/Projects/p3-4-import%20books.md).
+ [Enregistrement vidéo](../Modes/Video/videorecording.md).
 
 ::: 
 
 **Scribe Scripture Editor** est un outil de traduction biblique facile à utiliser conçu pour permettre aux traducteurs de langue maternelle de remplir rapidement et efficacement diverses tâches liées à la traduction biblique avec une formation minimale.
 
-**Scribe SE** prend en charge différentes saveurs telles que la traduction biblique, les histoires bibliques ouvertes (OBS) et la traduction orale de la Bible (Audio). Les traductions bibliques du texte source peuvent être rédigées et éditées à l'aide de **Scribe**. En outre, il permet aux traducteurs d'importer et d'exporter le format [Burrito](https://docs.burrito.bible/) , il permet également d'importer des fichiers USFM depuis le système local. Les utilisateurs peuvent travailler simultanément sur plusieurs projets.
+**Scribe SE** prend en charge différentes saveurs telles que la traduction biblique, les histoires bibliques ouvertes (OBS) ,Traduction orale de la Bible (audio) et vidéo. Les traductions bibliques du texte source peuvent être rédigées et éditées à l'aide de **Scribe**. En outre, il permet aux traducteurs d'importer et d'exporter le format [Burrito](https://docs.burrito.bible/) , il permet également d'importer des fichiers USFM depuis le système local. Les utilisateurs peuvent travailler simultanément sur plusieurs projets.
 
 Plusieurs panneaux de référence sont à la disposition du traducteur pour la recherche d'informations ou la recherche de clarté dans le texte source. Dans les panneaux de ressources, le traducteur peut charger différentes ressources telles que les bibles, les notes de traduction, la liste des mots de traduction, les mots de traduction, les questions de traduction, académie de traduction, Récits bibliques ouverts, notes de traduction d'OBS, question de traduction d'OBS, liste de mots de traduction d'OBS et ressources de la Bible Audio comme matériel de référence.
 
