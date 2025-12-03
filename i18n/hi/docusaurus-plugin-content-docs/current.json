@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "1.0.0",
+    "message": "1.1.0",
     "description": "The label for version current"
   },
   "sidebar.Sribe.category.Getting-Started": {
@@ -42,6 +42,10 @@
   "sidebar.Sribe.category.Open Bible Stories (OBS)": {
     "message": "ओपन बाइबल स्टोरीज़ (OBS)",
     "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
+  },
+  "sidebar.Sribe.category.Video": {
+    "message": "वीडियो",
+    "description": "The label for category Video in sidebar Sribe"
   },
 
   "sidebar.Sribe.category.Juxtalinear (Juxta)": {

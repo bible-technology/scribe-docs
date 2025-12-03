@@ -96,6 +96,12 @@ module.exports = {
           ],
         },
         {
+          "Video": [
+            "scribe/Modes/Video/p9-1-Videorecording",
+                       
+          ],
+        },
+        {
           "Juxtalinear (Juxta)": [
             "scribe/Modes/Juxtalinear/p10-1-juxtalinearoverview",
             "scribe/Modes/Juxtalinear/p10-2-whatisjuxtalinear",
