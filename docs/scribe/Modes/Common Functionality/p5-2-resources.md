@@ -135,7 +135,7 @@ If the tw files are missing and a user attempt to open the twl resource, an erro
 
 **Please upload the corresponding tw resource for the selected twl resource.**
 
-To resolve this, the user must upload the corresponding **tw** resource using the same [steps to upload twl resources](../Common%20Functionality/p5-2-resources.md#steps-to-upload-twl-resources-from-a-local-device). Always ensure that the folder contains both TWL and tW files to avoid errors and ensure proper access to the help resource.
+To resolve this, the user must upload the corresponding **tw** resource using the same [Steps to Upload TWL Resources](../Common%20Functionality/p5-2-resources#steps-to-upload-twl-resources-from-a-local-device). Always ensure that the folder contains both TWL and tW files to avoid errors and ensure proper access to the help resource.
 
 <video controls src="/0.8.1/en-resourcestwl.mp4" width="100%" type="video/mov"/>
 

@@ -128,7 +128,7 @@ Si les fichiers tw sont manquants et qu'un utilisateur tente d'ouvrir la ressour
 
 **Veuillez télécharger la ressource tw correspondante pour la ressource twl sélectionnée.**
 
-Pour résoudre ce problème, l'utilisateur doit télécharger la ressource **tw** correspondante en suivant les mêmes [étapes pour télécharger les ressources twl](../Common%20Functionality/p5-2-resources.md#Étapes-pour-télécharger-des-ressources-twl-depuis-un-appareil-local). Assurez-vous toujours que le dossier contient les fichiers TWL et tW pour éviter les erreurs et garantir un accès correct à la ressource d'aide.
+Pour résoudre ce problème, l'utilisateur doit télécharger la ressource **tw** correspondante en suivant les mêmes [étapes pour télécharger les ressources twl](../Common%20Functionality/p5-2-resources#etapes-pour-telecharger-des-ressources-twl-depuis-un-appareil-local). Assurez-vous toujours que le dossier contient les fichiers TWL et tW pour éviter les erreurs et garantir un accès correct à la ressource d'aide.
 
 <video controls src="/0.8.1/en-resourcestwl.mp4" width="100%" type="video/mov"/>
 
