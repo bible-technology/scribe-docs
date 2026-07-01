@@ -6,8 +6,7 @@ slug: '/'
 ---
 :::tip Features Introduced in version 1.2.0
 
-[ಆಡಿಯೋ ಜಾಯಿನ್ ಮತ್ತು ಡಿಸ್ಜಾಯಿನ್ ಕ್ರಿಯಾತ್ಮಕತೆ](../Modes/Oral%20Bible%20Translation/p7-1-audio%20toolbar.mdx#ಆಡಿಯೋ-ಜಾಯಿನ್-ಮತ್ತು-ಡಿಸ್ಜಾಯಿನ್-ವೈಶಿಷ್ಟ್ಯ)
-.
+[ವೀಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್](../Modes/Video/videorecording.md).
 
 :::
 

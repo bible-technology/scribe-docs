@@ -52,7 +52,107 @@ Pour réenregistrer, supprimez la vidéo existante, cliquez sur le bouton de la 
 - Après avoir séparé les versets, vous pouvez enregistrer une vidéo pour chaque verset individuellement.
 <video controls src="/1.1.0/en_joiningverses.mp4" width="100%" type="video/mov"/>
 
-# Options d'exportation de projet
+## Commentaires Vidéo
+
+La fonctionnalité **Commentaires Vidéo** permet aux utilisateurs de fournir des retours sur les versets enregistrés sous forme de **commentaires texte** ou de **commentaires vidéo**.
+
+### Ajouter un commentaire
+
+1. Sélectionnez un verset et enregistrez une vidéo, ou cliquez sur un verset déjà enregistré.
+2. Ouvrez les **commentaires** en utilisant l'une des méthodes suivantes :
+   - Faites un clic droit sur le verset enregistré et sélectionnez **Commentaires**.
+   - Cliquez sur **Ouvrir les commentaires** dans la fenêtre modale de la vidéo.
+
+### Ajouter un commentaire texte
+
+1. Cliquez sur l’icône **Commentaire texte**.
+2. Saisissez votre commentaire dans le champ de texte.
+3. Cliquez sur l’icône **Enregistrer**.
+4. Répétez les mêmes étapes pour ajouter plusieurs commentaires.
+
+Le commentaire texte est enregistré et affiché dans le panneau des commentaires avec le nom d’utilisateur de l’auteur et l’horodatage.
+
+### Modifier un commentaire texte
+
+1. Ouvrez le panneau des commentaires.
+2. Cliquez sur l’icône **Modifier** du commentaire.
+3. Modifiez le texte du commentaire selon vos besoins.
+4. Cliquez sur l’icône **Enregistrer**.
+
+Le commentaire modifié est enregistré et affiché dans le panneau des commentaires.
+<video controls src="/1.2.0/en_textcomments.mp4" width="100%" type="video/mov"/>
+
+### Ajouter un commentaire vidéo
+
+1. Cliquez sur l’icône **Commentaire vidéo**.
+2. Enregistrez votre commentaire vidéo.
+3. Cliquez sur l’icône **Arrêter** pour terminer l’enregistrement.
+4. Répétez les mêmes étapes pour ajouter plusieurs commentaires.
+
+- Le commentaire vidéo est automatiquement enregistré.
+- Il est affiché dans le panneau des commentaires avec le nom d’utilisateur de l’auteur et l’horodatage.
+- Pour visionner un commentaire vidéo enregistré, cliquez sur le bouton **Lecture**.
+
+### Réenregistrer ou supprimer un commentaire vidéo
+
+1. Ouvrez le panneau des commentaires.
+2. Effectuez l’une des actions suivantes :
+   - Cliquez sur **Supprimer** pour supprimer le commentaire vidéo existant, puis cliquez sur **Enregistrer** pour créer un nouveau commentaire vidéo.
+   - Cliquez sur l’icône **Réenregistrer** pour remplacer le commentaire vidéo actuel.
+3. Enregistrez votre commentaire vidéo.
+4. Cliquez sur le bouton **Arrêter** lorsque vous avez terminé.
+
+Le nouveau commentaire vidéo est automatiquement enregistré.
+<video controls src="/1.2.0/en_videocomments.mp4" width="100%" type="video/mov"/>
+
+## Fusionner et séparer les commentaires
+### Versets fusionnés
+
+- Lorsque des versets sont fusionnés, leurs commentaires associés sont également fusionnés.
+- Les utilisateurs peuvent continuer à ajouter de nouveaux commentaires au verset fusionné.
+
+### Versets séparés
+
+- Lorsqu’un verset fusionné est séparé, les commentaires associés sont également séparés.
+- Les commentaires du verset fusionné sont répartis entre les versets résultants.
+- Les utilisateurs peuvent ajouter de nouveaux commentaires aux versets séparés.
+<video controls src="/1.2.0/en_joinedversecomments.mp4" width="100%" type="video/mov"/>
+
+### Importer une vidéo pour un verset
+
+Vous pouvez importer un fichier vidéo et l’associer à un verset spécifique.
+
+1. Sélectionnez le verset souhaité.
+2. Cliquez sur le bouton **Enregistrer** du verset.
+3. Dans le lecteur multimédia, cliquez sur le bouton **Importer**.
+4. Parcourez et sélectionnez le fichier vidéo que vous souhaitez importer.
+   - **Format pris en charge :** `.webm`
+5. Cliquez sur **Sélectionner**.
+
+La vidéo est importée et associée au verset avec succès.
+
+### Remplacer une vidéo existante
+
+Si un verset possède déjà une vidéo associée, vous pouvez la remplacer par une autre vidéo.
+
+1. Ouvrez le verset qui contient déjà un enregistrement vidéo.
+2. Cliquez sur l’enregistrement existant pour ouvrir le lecteur multimédia.
+3. Cliquez sur le bouton **Importer**.
+4.  Lorsque vous y êtes invité, cliquez sur **Remplacer** pour confirmer.
+5. Parcourez et sélectionnez la nouvelle vidéo.
+6. Cliquez sur **Sélectionner**.
+
+
+La vidéo existante est remplacée par la nouvelle vidéo sélectionnée.
+
+:::note
+
+Le remplacement d’une vidéo écrase définitivement la vidéo actuellement associée au verset. Assurez-vous d’avoir sélectionné le bon fichier avant de confirmer le remplacement.
+
+:::
+<video controls src="/1.2.0/en_importvideoforverse.mp4" width="100%" type="video/mov"/>
+
+## Options d'exportation de projet
 ### Étapes pour exporter un projet
 - Choisissez le projet à **exporter** sur la page Projet
 - Cliquez sur la **flèche vers le bas** pour afficher un menu déroulant contenant la description du projet
