@@ -28,12 +28,10 @@ When the user opens a project with the Video Flavour, the editor loads showing t
 - A Video Recording Window will appear. 
 - Ensure the **Camera** and microphone are properly connected. 
 - Click the **camera settings** icon to select your preferred camera.
-- Select the Full Screen icon to view the content in full screen mode.
 - When ready: 
   - Click the **Camera** button to start recording. 
   - Click the **Microphone icon** to **enable** or **disable** the  audio.The user has an option to record with and without audio 
-- Once finished, click the **Stop** button.
-- A video thumbnail is displayed with a progress bar that clearly shows the current playback position and updates as the video plays, pauses, or finishes. 
+- Once finished, click the **Stop** button. 
 - After recording, the video will automatically **save** and video is visible in the  respective verse.
 - Use the **Previous Verse(<)** or **Next Verse (>)** buttons to move between verses.
 - Preview your video and retake if needed after deleting the existing video   
@@ -51,6 +49,103 @@ To re-record, Delete the existing video  and click on the camera button and star
 - There is also an option to **Disjoin** the verses if you want to separate them again. 
 - After **Disjoining**, you can record videos for each verse individually. 
 <video controls src="/1.1.0/en_joiningverses.mp4" width="100%" type="video/mov"/>
+
+# Video Comments
+
+The **Video Comments** feature allows users to provide feedback on recorded verses using either **Text** or **Video** comments. Comments are displayed with the author's username and timestamp, making it easy to collaborate and review recordings.
+
+### Adding a Comment
+1. Select a verse and record a video, or click an existing recorded verse.
+2. Open the **comments** using one of the following methods
+     - Right-click the recorded verse and select **Comments**.
+     - Click **Open comments** from video modal
+ 
+
+### Add a Text Comment
+
+1. Click the **Text Comment** icon.
+2. Enter your comment in the text field.
+3. Click the **Save** icon.
+4. Repeat these steps to add additional text comments.
+
+The text comment is saved and displayed in the Comments panel along with the author's username and timestamp.
+
+### Edit a Text Comment
+
+1. Open the **Comments** panel.
+2. Click the **Edit** icon on the comment.
+3. Modify the comment text as needed.
+4. Click the **Save** icon.
+
+The updated text comment is saved and displayed in the Comments panel.
+ <video controls src="/1.2.0/en_textcomments.mp4" width="100%" type="video/mov"/>
+
+### Add a Video Comment
+
+1. Click the **Video Comment** icon.
+2. Record your video comment.
+3. Click the **Stop** icon to end the recording.
+4. Repeat these steps to add additional video comments.
+
+The video comment is saved and displayed in the comments panel along with the author's username and timestamp. 
+Users can view a saved video comment by clicking the Play button on the recorded video comment. .
+
+### Re-record or Delete a Video Comment
+
+1. Open the **Comments** panel.
+2. Do one of the following:
+   - Click **Delete** to remove the existing video comment. Then click **Record** to create a new video comment.
+   - Click **Re-record** to replace the current video comment.
+3. Record your video comment.
+4. Click **Stop** when you have finished recording.
+
+The new video comment is automatically saved.
+<video controls src="/1.2.0/en_videocomments.mp4" width="100%" type="video/mov"/>
+
+## Join and Disjoin Comments
+### Joined Verses
+- When verses are joined, their associated comments are also joined.
+- Users can continue adding comments to the joined verse.
+
+### Disjoined Verses
+- When a joined verse is disjoined, the associated comments are separated.
+- Comments from the joined verse are distributed among the resulting verses.
+- Users can continue adding comments to the disjoined verses.
+
+<video controls src="/1.2.0/en_joinedversecomments.mp4" width="100%" type="video/mov"/>
+
+## Import a Video for a Verse
+
+You can import an existing video file and associate it with a verse.
+
+1. Select the desired verse.
+2. Click the **Record** button for the verse.
+3. In the media player, click **Import**.
+4. Browse and select the video file to import.
+   - **Supported format:** `.webm`
+5. Click **Select**.
+
+The selected video is imported and attached to the verse.
+
+## Replace an Existing Video
+
+If a verse already has an associated video, you can replace it with another video.
+
+1. Open a verse that already contains a video recording.
+2. Click the existing recording to open the media player.
+3. Click **Import**.
+4. When prompted, click **Replace** to confirm
+5. Browse and select the new video file.
+6. Click **Select**.
+
+
+The existing video is replaced with the newly selected video.
+
+:::note
+
+Replacing a video permanently overwrites the currently associated video for the verse. Ensure you have selected the correct file before confirming the replacement.
+:::
+<video controls src="/1.2.0/en_importvideoforverse.mp4" width="100%" type="video/mov"/>
 
 # Project Export Options 
 ### Steps to Export a Project 

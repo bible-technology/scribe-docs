@@ -6,7 +6,7 @@ slug: '/'
 ---
 :::tip Feature Introduced in version 1.2.0
 
-[Audio Join and Disjoin Feature](../Modes/Oral%20Bible%20Translation/p7-1-audio%20toolbar.mdx#audio-join-and-disjoin-feature).
+[Video Recording](../Modes/Video/videorecording.md).
 
 
 :::
