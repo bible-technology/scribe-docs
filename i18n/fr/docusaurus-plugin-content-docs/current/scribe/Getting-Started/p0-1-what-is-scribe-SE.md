@@ -6,7 +6,7 @@ slug: '/'
 ---
  :::tip Fonctionnalités introduites dans la version 1.2.0
 
- [Fonction de connexion et de déconnexion audio](../Modes/Oral%20Bible%20Translation/p7-1-audio%20toolbar.mdx#fonction-de-connexion-et-de-déconnexion-audio).
+ [Enregistrement vidéo](../Modes/Video/videorecording.md).
 
 ::: 
 
