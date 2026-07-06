@@ -1,7 +1,7 @@
 ---
 id: p9-1-Videorecording
-sidebar_label: Enregistrement vidéo
-title: Enregistrement vidéo
+sidebar_label: Ébauche
+title: Ébauche
 ---
 Video Flavour permet aux utilisateurs d'enregistrer et d'organiser des projets vidéo basés sur des versets directement dans l'éditeur.
 

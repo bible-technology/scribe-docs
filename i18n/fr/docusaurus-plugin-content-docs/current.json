@@ -87,12 +87,11 @@
     "description": "The label for category Open Bible Stories (OBS) in sidebar Sribe"
 
   },
-  "sidebar.Sribe.category.Video": {
+  "sidebar.Sribe.category.Video Bible Translation (VBT)": {
 
-    "message": "Vidéo",
+    "message": "Traduction vidéo de la Bible (VBT)",
 
-    "description": "The label for category Video in sidebar Sribe"
-
+    "description": "The label for category Video Bible Translation (VBT) in sidebar Sribe"
   },
 
   "sidebar.Sribe.category.Juxtalinear (Juxta)": {
