@@ -1,7 +1,7 @@
 ---
 id: p9-1-Videorecording
-sidebar_label: Video Recording
-title: Video Recording
+sidebar_label: Drafting
+title: Drafting
 ---
 The Video Flavour enables users to record and organize verse-based video projects directly in the editor.
 

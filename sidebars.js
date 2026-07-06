@@ -96,7 +96,7 @@ module.exports = {
           ],
         },
         {
-          "Video": [
+          "Video Bible Translation (VBT)": [
             "scribe/Modes/Video/p9-1-Videorecording",
                        
           ],
