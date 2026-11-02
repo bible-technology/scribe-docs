@@ -124,8 +124,13 @@ You can import an existing video file and associate it with a verse.
 2. Click the **Record** button for the verse.
 3. In the media player, click **Import**.
 4. Browse and select the video file to import.
-   - **Supported format:** `.webm`
 5. Click **Select**.
+
+:::note Supported Video Formats
+
+The supported video file formats are **WebM (.webm)** and **MP4 (.mp4)**.
+
+:::
 
 The selected video is imported and attached to the verse.
 

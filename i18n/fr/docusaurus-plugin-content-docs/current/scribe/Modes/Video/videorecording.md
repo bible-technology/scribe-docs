@@ -126,10 +126,15 @@ Vous pouvez importer un fichier vidéo et l’associer à un verset spécifique.
 2. Cliquez sur le bouton **Enregistrer** du verset.
 3. Dans le lecteur multimédia, cliquez sur le bouton **Importer**.
 4. Parcourez et sélectionnez le fichier vidéo que vous souhaitez importer.
-   - **Format pris en charge :** `.webm`
 5. Cliquez sur **Sélectionner**.
 
 La vidéo est importée et associée au verset avec succès.
+
+:::note Formats de fichiers vidéo pris en charge
+
+Les formats de fichiers vidéo pris en charge sont **WebM (.webm)** et **MP4 (.mp4)**.
+
+:::
 
 ### Remplacer une vidéo existante
 
