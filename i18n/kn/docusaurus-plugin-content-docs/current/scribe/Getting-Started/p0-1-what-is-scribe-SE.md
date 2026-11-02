@@ -4,7 +4,7 @@ sidebar_label:  ಸ್ಕ್ರೈಬ್ ಎಸ್ಇ ಎಂದರೇನು?
 title: ಸ್ಕ್ರೈಬ್ ಎಸ್ಇ ಎಂದರೇನು?
 slug: '/'
 ---
-:::tip Features Introduced in version 1.2.0
+:::tip Features Introduced in version 1.2.1
 
 [ವೀಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್](../Modes/Video/videorecording.md).
 
