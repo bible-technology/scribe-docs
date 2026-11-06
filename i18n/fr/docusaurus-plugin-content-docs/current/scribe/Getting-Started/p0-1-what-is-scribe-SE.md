@@ -4,7 +4,7 @@ sidebar_label: Qu'est-ce que Scribe SE ?
 title: Qu'est-ce que Scribe SE ?
 slug: '/'
 ---
- :::tip Fonctionnalités introduites dans la version 1.2.1
+ :::tip Fonctionnalités introduites dans la version 1.2.2
 
  [Enregistrement vidéo](../Modes/Video/videorecording.md).
 
